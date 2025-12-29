@@ -1,0 +1,55 @@
+hanges in
+discretionary spending, and recessionary concerns, on its business and operations. Although the full impact of these
+factors is unknown, the Company believes it has made appropriate accounting estimates and assumptions based
+on the facts and circumstances available as of the reporting date. However, actual results could differ materially
+from these estimates and assumptions, which may result in material effects on the Company’s financial condition,
+results of operations, and liquidity.
+Significant areas requiring the use of management estimates and assumptions relate to variable consideration
+for net sales provided to customers, including the sales return liability, and related sales return asset, as well as
+trade accounts receivable allowances; inventory write-downs; contract assets and liabilities; stock-based
+compensation; impairment assessments, including goodwill, other intangible assets, and long-lived assets;
+depreciation and amortization; income tax receivables and liabilities; uncertain tax positions; the fair value of
+financial instruments; the reasonably certain lease term; lease classification; and the Company’s incremental
+borrowing rate (IBR) utilized to measure its operating lease assets and lease liabilities.
+F-11
+Table of Contents
+DECKERS OUTDOOR CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+For the Fiscal Years Ended March 31, 2025, 2024, and 2023
+(amounts in thousands, except per share and share data)
+Foreign Currency Translation. The Company considers the United States (US) dollar as its functional currency.
+The Company’s wholly owned foreign subsidiaries have various assets and liabilities, primarily cash, receivables,
+and payables, which are denominated in currencies other than its functional currency. The Company remeasures
+these monetary assets and liabilities using the exchange rate at the end of the reporting period, which results in
+gains and losses that are recorded in selling, general, and administrative (SG&A) expenses in the consolidated
+statements of comprehensive income as incurred. In addition, the Company translates assets and liabilities of
+subsidiaries with reporting currencies other than US dollars into US dollars using the exchange rates at the end of
+the reporting period, which results in financial statement translation gains and losses recorded in other
+comprehensive income or loss (OCI), net of tax, in the consolidated statements of comprehensive income.
+Seasonality. A significant part of the UGG brand’s business has historically been seasonal, with the highest
+percentage of net sales occurring in the third fiscal quarter, which has contributed to variation in results of
+operations from quarter to quarter. However, the Company has mitigated the impacts of seasonality by diversifying
+and expanding product offerings with additional year-round styles. In addition, as the HOKA brand’s net sales, which
+generally occur more evenly throughout the fiscal year, continue to increase as a percentage of the Company’s
+aggregate net sales, the Company expects to reduce the impacts of seasonality in future periods.
+Recent Accounting Pronouncements. The Financial Accounting Standards Board has issued Accounting
+Standards Updates (ASUs) that have been adopted and not yet adopted by the Company as stated below.
+Recently Adopted. The following is a summary of each ASU adopted by and its impact on the Company upon
+adoption:
+Standard Description Impact upon Adoption
+ASU 2022-04 - The ASU requires that a buyer in a SFP disclose qualitative The Company prospectively adopted the annual rollforward
+Supplier Finance and quantitative information about its program on an interim requirement of this ASU beginning with this Annual Report
+Program (SFP) basis, including the nature of the SFP and key terms, and retrospectively adopted the interim requirements of this
+outstanding amounts as of the end of the reporting period, ASU on April 1, 2023. This ASU did not have a material
+and presentation in its financial statements. impact on the recognition, measurement, or presentation of
+SFPs in the Company’s annual and interim consolidated
+The interim portion of this ASU is effective on a financial statements. However, it did result in additional
+retrospective basis for fiscal years beginning after disclosures.
+December 15, 2022, and interim periods within those fiscal
+years. Early adoption is permitted. Refer to Note 14, “Supplier Finance Program,” for further
+information on the Company’s SFPs, key terms, activity
+The annual requirement that requires a buyer in a SFP rollforward, and outstanding balances recorded in the
+disclose an activity roll forward of outstanding balances as consolidated balance sheets.
+of the end of the reporting period is effective on a
+retrospective basis for fiscal years beginning after
+December 15, 2023. Early adoption is not permitted.

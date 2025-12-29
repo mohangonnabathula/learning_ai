@@ -1,0 +1,48 @@
+an to continuously improve our approaches to cybersecurity
+risk management.
+In the three-year period ended March 31, 2025, our business strategy, results of operations and financial
+condition have not been materially affected by risks from cybersecurity threats, including as a result of any prior
+cybersecurity incidents experienced by either us or third parties, but we cannot provide assurance that they will not
+be materially affected in the future by such risks or any future material incidents. Refer to Part I, Item 1A, “Risk
+Factors - Risks Related to Technology, Data Security and Privacy” within this Annual Report for further information.
+27
+Table of Contents
+CYBERSECURITY GOVERNANCE
+Our Board has delegated to the Audit Committee primary responsibility for oversight of risk assessment and
+risk management, including risks related to cybersecurity and information security issues. Our CDDO and CISO,
+who head our cybersecurity and information security initiatives, provide quarterly updates to the Audit Committee,
+and annual updates to the full Board. These updates cover various topics, such as efforts to enhance our
+cybersecurity posture, operational and incident metrics, mitigation actions, and key performance indicators like
+cybersecurity maturity, program health, and audit and compliance activities. In addition to these regular updates,
+significant cybersecurity incidents and updates are escalated on an as-needed basis in accordance with our IRP.
+Our CDDO and CISO have extensive experience in cybersecurity. Our CDDO has served in his role since
+September 2024. He has over 15 years of experience in digital transformations, enterprise technology, artificial
+intelligence, and data management. Our CISO has served in various roles in Information Technology for over 25
+years, including 15 years in Information Security. He holds a B.S. in Cybersecurity and Information Assurance,
+along with industry certifications that include the Information Systems Audit and Control Association Certified in Risk
+and Information Systems Control, Certified Information Security Manager, and International Information System
+Security Certification Consortium Certified Information Systems Security Professional certifications.
+ITEM 2. PROPERTIES
+Corporate Headquarters. We own our 14-acre corporate headquarters located in Goleta, California.
+Warehouses and DCs. We have a warehouse and DC located in Moreno Valley, California, which began
+operations during the fourth quarter of fiscal year 2015. In October 2021, we began operations in a second US
+warehouse and DC located in Mooresville, Indiana. In October 2023, we began operations in a third US warehouse
+and DC located in Mooresville, Indiana. We continue to optimize and invest in our operations at these locations.
+Regional Offices. We have offices in Austria, Belgium, Canada, China, France, Germany, Hong Kong,
+Indonesia, Italy, Japan, the Netherlands, Switzerland, the UK, the US, and Vietnam, to perform a variety of
+functions, which include supervising and overseeing the quality and manufacturing standards of our products,
+design, product development, distribution, customer service, coordinating regional sales, operations, marketing, IT,
+and administration. We also have offices in Macau and Hong Kong to coordinate logistics.
+Retail Stores. As of March 31, 2025, we have 50 US retail stores and 129 international retail stores, including
+in Austria, Belgium, Canada, China, France, Germany, Japan, the Netherlands, Switzerland, and the UK.
+Other than our corporate headquarters, we lease our warehouses and DCs, retail stores and regional offices
+from unrelated parties. With the exception of retail stores in our DTC channel, costs associated with our
+warehouses and DCs and regional offices are attributable to multiple reportable operating segments and are not
+allocated; but instead reflected in unallocated enterprise and shared brand expenses in our results of operations.
+Refer to Part II, Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations,”
+for further discussion and results of operations for our reportable operating segments and Note 12, “Reportable
+Operating Segments,” of our consolidated financial statements in Part IV within this Annual Report for additional
+information on unallocated enterprise and shared brand expenses.
+We believe our properties are adequate for our current needs and that suitable additional or substitute space
+will be available to accommodate the foreseeable expansion of our business and operations.
+Significant Properties.

@@ -1,0 +1,51 @@
+ factors as follows:
+Sales Return Liability. The amounts of these reserves are determined based on several factors, including
+known and actual returns, historical returns, and any recent events that could result in a change from historical
+return rates. For our wholesale channel, we base our estimate of sales returns on any approved customer requests
+for returns, historical returns experience, and any recent events that could result in a change from historical returns
+rates, among other factors. For our DTC channel, we estimate sales returns using a lag compared to the same prior
+period and consider historical returns experience and any recent events that could result in a change from historical
+returns, among other factors.
+Allowance for Chargebacks. We record an allowance based primarily on known circumstances as well as
+unknown circumstances based on historical trends related to the timing and amount of chargebacks taken against
+customer invoices.
+The determination of these sales liabilities and allowances is considered a critical accounting estimate
+because significant judgment is required to estimate adjustments to historical return rates and trends. Actual
+allowances may differ from estimates due to changes in customer, consumer, or product-specific circumstances.
+Refer to Note 2, “Revenue Recognition,” of our consolidated financial statements in Part IV within this Annual
+Report for further information regarding the sales return liability, allowances for chargebacks, and allowances for
+sales discounts. Refer to Schedule II, “Total Valuation and Qualifying Accounts,” in Part IV within this Annual Report
+for an analysis of the activity in our allowances for chargebacks and sales discounts.
+47
+Table of Contents
+Allowance for Doubtful Accounts. We provide an allowance against trade accounts receivable for estimated
+losses that may result from customers’ inability to pay. We determine the amount of the allowance by analyzing
+known uncollectible accounts, aged trade accounts receivable, economic conditions and forecasts, historical
+experience, and the customers’ creditworthiness. Changes in the characteristics of our trade accounts receivable
+and the aforementioned factors, among others, are reviewed quarterly and may lead to adjustments in our
+allowance for doubtful accounts. The calculation of the required allowance involves judgment by our management
+as to the impact of these and other factors on the ultimate realization of our trade accounts receivable. Because we
+cannot predict future changes in the financial stability of our customers, actual future losses from uncollectible
+accounts may differ from our estimates. If the financial condition of our customers were to deteriorate, resulting in
+their inability to make payments, a larger reserve might be required in the future.
+Refer to Schedule II, “Total Valuation and Qualifying Accounts,” in Part IV within this Annual Report for an
+analysis of the activity in our allowances for doubtful accounts.
+Inventories. Inventories, which are primarily comprised of finished goods on hand and in transit, are stated at
+the lower of cost (weighted moving average) or net realizable value at each financial statement date. We review
+inventory on a regular basis for excess, obsolete, and impaired inventory to evaluate write-downs to the lower of
+cost or net realizable value. Net realizable value is the estimated selling price in the ordinary course of business,
+less reasonably predictable costs to sell. While we believe that adequate write-downs for inventory obsolescence
+have been provided in the consolidated financial statements, consumer tastes and preferences may change, and
+we could experience additional inventory write-downs in the future.
+Income Taxes. Income taxes are accounted for using the asset and liability method. Deferred tax assets and
+liabilities are recognized for the future tax consequences attributable to temporary differences between the financial
+statement carrying amounts of existing assets and liabilities and their respective tax bases. Deferred tax assets and
+liabilities are measured using enacted tax rates that will be in effect for the years in which those tax assets and
+liabilities are expected to be realized or settled.
+We record a valuation allowance to reduce deferred tax assets to the amount that is believed more likely than
+not to be realized. We believe it is more likely than not that forecasted income, together with future reversals of
+existing taxable temporary differences, will be sufficient to recover our deferred tax assets. If we determine all, or
+part of our net deferred tax assets are not realizable in the future, we will record an adjustment to the valuation
+allowance and a corresponding charge to earnings in the period such determination is made.
+We make estimates to determine income tax expense, deferred tax assets and liabilities, and uncertain tax
+positions.

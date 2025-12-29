@@ -1,0 +1,73 @@
+ each
+brand within these reportable operating segments are managed separately because each requires different
+marketing, research and development, design, sourcing, and sales strategies.
+The Company does not regularly provide total assets or capital expenditures information by reportable
+operating segment to the CODM because that information is not used to evaluate performance or allocate
+resources to each reportable operating segment.
+Segment Net Sales, Gross Margin, and Income from Operations. The CODM regularly evaluates the
+performance of each reportable operating segment based on net sales, gross profit as a percentage of net sales
+(gross margin), and income from operations when making decisions about resource allocations to each reportable
+operating segment. Income from operations of each reportable operating segment includes certain costs which are
+specifically related to each reportable operating segment and that are regularly provided to the CODM. These costs
+consist of cost of sales; payroll and related expenses, including stock-based compensation; advertising, marketing,
+and promotion expenses; rent and occupancy; depreciation and other related costs; and other segment items.
+F-37
+Table of Contents
+DECKERS OUTDOOR CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+For the Fiscal Years Ended March 31, 2025, 2024, and 2023
+(amounts in thousands, except per share and share data)
+There are no inter-segment sales for any period presented. The accounting policies of the Company's reportable
+operating segments are consistent with those described in Note 1, “General.”
+Income from operations of each reportable operating segment exclude enterprise and shared brand expenses
+as well as total other income, net, which are not used to assess reportable operating segment performance.
+Unallocated enterprise and shared brand expenses are costs that are managed centrally and not specific to any one
+brand. These costs are primarily comprised of certain payroll and related expenses, including stock-based
+compensation; global IT expenses; 3PL service fees; depreciation, rent, and occupancy for owned warehouses and
+offices; and other SG&A expenses, such as costs for contract services, materials, supplies, and travel. These costs
+span multiple functions including owned warehouses and 3PL service fees, along with enterprise costs which
+include centralized commercial operations, IT, finance, human resources, legal, supply chain, and corporate
+executives.
+Reportable operating segment information, with a reconciliation to the consolidated statements of
+comprehensive income, was as follows:
+Year Ended March 31, 2025 UGG HOKA Other Brands Total
+Net sales $ 2,531,351 $ 2,233,090 $ 221,171 $ 4,985,612
+Less: Cost of sales (1) 1,023,495 949,824 126,630 2,099,949
+Segment gross profit 1,507,856 1,283,266 94,541 2,885,663
+Segment gross margin 59.6 % 57.5 % 42.7 % 57.9 %
+Less: (1)
+Payroll and related costs 146,093 101,056 18,179 265,328
+Advertising, marketing, and promotion 180,889 226,238 25,071 432,198
+expenses
+Rent and occupancy 75,724 26,467 424 102,615
+Depreciation and other related costs (2) 10,026 5,007 4,412 19,445
+Other segment items (3) 92,251 75,993 11,877 180,121
+Segment SG&A expenses 504,983 434,761 59,963 999,707
+Segment income from operations $ 1,002,873 $ 848,505 $ 34,578 $ 1,885,956
+Segment operating margin 39.6 % 38.0 % 15.6 % 37.8 %
+Year Ended March 31, 2024 UGG HOKA Other Brands Total
+Net sales $ 2,239,132 $ 1,806,740 $ 241,891 $ 4,287,763
+Less: Cost of sales (1) 983,636 763,673 154,966 1,902,275
+Segment gross profit 1,255,496 1,043,067 86,925 2,385,488
+Segment gross margin 56.1 % 57.7 % 35.9 % 55.6 %
+Less: (1)
+Payroll and related costs 134,307 74,991 17,628 226,926
+Advertising, marketing, and promotion 148,809 175,756 24,287 348,852
+expenses
+Rent and occupancy 75,724 16,589 348 92,661
+Depreciation and other related costs (2) 9,295 3,389 10,034 22,718
+Other segment items (3) 82,534 53,295 10,907 146,736
+Segment SG&A expenses 450,669 324,020 63,204 837,893
+Segment income from operations $ 804,827 $ 719,047 $ 23,721 $ 1,547,595
+Segment operating margin 35.9 % 39.8 % 9.8 % 36.1 %
+F-38
+Table of Contents
+DECKERS OUTDOOR CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+For the Fiscal Years Ended March 31, 2025, 2024, and 2023
+(amounts in thousands, except per share and share data)
+Year Ended March 31, 2023 UGG HOKA Other Brands Total
+Net sales $ 1,929,211 $ 1,412,916 $ 285,159 $ 3,627,286
+Less: Cost of sales (1) 975,585 641,240 185,091 1,801,916
+Segment gross profit 953,626 771,676 100,068 1,825,370
+Segment gross margin 49.4 % 54.6 % 35.1 % 50.

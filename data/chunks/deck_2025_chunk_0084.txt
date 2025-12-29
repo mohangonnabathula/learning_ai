@@ -1,0 +1,71 @@
+ in OCI (515) — —
+Total $ 1,584 $ — $ —
+The non-performance risk of the Company and its counterparties did not have a material impact on the fair
+value of its derivative contracts. As of March 31, 2025, the amount of unrealized gains on derivative contracts
+recorded in AOCL is expected to be reclassified into net sales within the next twelve months. Refer to Note 10,
+“Stockholders’ Equity,” for further information on the components of AOCL.
+NOTE 10. STOCKHOLDERS’ EQUITY
+Stock Repurchase Program. The Board has approved various authorizations under the Company’s stock
+repurchase program to repurchase shares of its common stock in the open market or in privately negotiated
+transactions, subject to market conditions, applicable legal requirements, and other factors (collectively, the stock
+repurchase program). As of March 31, 2025, the Board last approved an authorization of $1,200,000 on July 27,
+2022, to repurchase its common stock under the same conditions as the prior stock repurchase program. As of
+March 31, 2025, the aggregate remaining approved amount under the stock repurchase program is $374,701. The
+stock repurchase program does not obligate the Company to acquire any amount of common stock and may be
+suspended at any time at the Company’s discretion.
+Stock repurchase activity under the Company’s stock repurchase program was as follows:
+Years Ended March 31,
+2025 2024 2023
+Total number of shares repurchased (1) 3,800,040 4,289,124 5,569,572
+Weighted average price per share $ 149.21 $ 96.74 $ 53.39
+Dollar value of shares repurchased (2) (3) $ 567,002 $ 414,931 $ 297,372
+(1) All share repurchases were made pursuant to the Company’s stock repurchase program in open-market transactions.
+(2) The dollar value of shares repurchased excludes the cost of broker commissions, excise taxes, and other costs.
+(3) May not calculate on rounded dollars.
+Subsequent to March 31, 2025, through May 9, 2025, the Company repurchased 765,321 shares of its
+common stock at a weighted average price of $109.75 per share for $83,998. As of May 9, 2025, the Company had
+$290,704 remaining authorized under the stock repurchase program. Amounts may not calculate on rounded
+dollars.
+On May 21, 2025, the Board approved an additional authorization of $2,250,000, for the Company to
+repurchase its common stock under the same conditions as the prior stock repurchase program.
+F-36
+Table of Contents
+DECKERS OUTDOOR CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+For the Fiscal Years Ended March 31, 2025, 2024, and 2023
+(amounts in thousands, except per share and share data)
+Accumulated Other Comprehensive Loss. The components within AOCL, net of tax, recorded in the
+consolidated balance sheets, are as follows:
+As of March 31,
+2025 2024
+Unrealized gain on cash flow hedges $ 1,584 $ —
+Cumulative foreign currency translation loss (51,238) (50,733)
+Total $ (49,654) $ (50,733)
+NOTE 11. BASIC AND DILUTED SHARES
+The reconciliation of basic to diluted weighted-average common shares outstanding was as follows:
+Years Ended March 31,
+2025 2024 2023
+Basic 151,992,000 155,225,000 159,023,000
+Dilutive effect of equity awards 678,000 1,060,000 1,088,000
+Diluted 152,670,000 156,285,000 160,111,000
+Excluded
+RSUs 9,000 16,000 20,000
+LTIP PSUs 155,000 291,000 453,000
+Deferred Non-Employee Director Equity Awards 2,000 3,000 11,000
+Excluded Awards. The equity awards excluded from the calculation of the dilutive effect may be excluded due
+to one of the following: (1) the shares were antidilutive or (2) the necessary conditions had not been satisfied for the
+shares to be deemed issuable based on the Company’s performance for the relevant performance period. The
+number of shares stated for each of these excluded awards is the maximum number of shares issuable pursuant to
+these awards. For those awards subject to the achievement of performance criteria, the actual number of shares to
+be issued pursuant to such awards will be based on Company performance in future periods, net of forfeitures, and
+may be materially lower than the number of shares presented, which could result in a lower dilutive effect. Refer to
+Note 8, “Stock-Based Compensation,” for further information on the Company’s equity incentive plans.
+NOTE 12. REPORTABLE OPERATING SEGMENTS
+Information reported to the CODM is organized into the Company’s three reportable operating segments,
+which include the brand operations for the UGG brand, HOKA brand, and Other brands. The operations of each
+brand within these reportable operating segments are managed separately because each requires different
+marketing, research and development, design, sourcing, and sales strategies.
+The Company does not regularly provide total assets or capital expenditures information by reportable
+operating segment to the CODM because that information is not used to evaluate performance or allocate
+resources to each reportable operating segment.
+Segment Net Sales, Gross Margin, and Income from Operations.

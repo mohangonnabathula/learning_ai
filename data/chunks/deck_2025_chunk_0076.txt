@@ -1,0 +1,64 @@
+Table of Contents
+DECKERS OUTDOOR CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+For the Fiscal Years Ended March 31, 2025, 2024, and 2023
+(amounts in thousands, except per share and share data)
+Recent Tax Law Changes. The Organization for Economic Co-operation and Development (commonly known
+as OECD) has released Pillar Two model rules introducing a 15% global minimum tax rate for large multinational
+corporations to be effective starting with tax periods ending in 2024. Various jurisdictions in which the Company
+operates have enacted or plan to enact legislation beginning in calendar year 2024 or in subsequent years. The
+enactment of Pillar Two legislation did not have a material effect on the Company’s consolidated statements of
+comprehensive income during the current period. The Company will continue to monitor and reflect the impact of
+such legislative changes in future periods, as each of the respective jurisdictions enact the legislation and the
+legislation becomes effective.
+Unrecognized Tax Benefits. When tax returns are filed, some positions taken are subject to uncertainty about
+the merits of the position taken or the amount that would be ultimately sustained upon examination. The benefit of a
+tax position is recorded in the consolidated financial statements during the period in which the Company believes it
+is more likely than not that the position will be sustained upon examination by taxing authorities. The recognition
+threshold is measured as the largest amount of tax benefit that is more than 50% likely to be realized upon
+settlement. The portion of the benefit that exceeds the amount measured, as described above, is recorded as a
+liability for unrecognized tax benefits, along with any associated interest and penalties, in the consolidated balance
+sheets.
+A reconciliation of the beginning and ending amounts of total gross unrecognized tax benefits are as follows:
+Years Ended March 31,
+2025 2024 2023
+Beginning balance $ 45,620 $ 44,901 $ 24,779
+Gross increase related to current year tax positions 4,499 4,318 6,865
+Gross increase related to prior year tax positions 4,662 4,629 16,243
+Gross decrease related to prior year tax positions (4,309) (4,698) (456)
+Settlements with taxing authorities (22,793) (582) —
+Lapse of statute of limitations (6,446) (2,948) (2,530)
+Ending balance $ 21,233 $ 45,620 $ 44,901
+Total gross unrecognized tax benefits recorded in the consolidated balance sheets are as follows:
+As of March 31,
+2025 2024
+Current liability
+Income tax payable $ 5,688 $ 3,998
+Long-term liability
+Income tax liability 15,545 41,622
+Total $ 21,233 $ 45,620
+Net unrecognized tax benefits are defined as gross unrecognized tax benefits, less federal benefit for state
+income taxes, related to uncertain tax positions taken in the Company’s income tax return that would impact the
+Company’s effective tax rate, if recognized. Management believes it is reasonably possible that the amount of net
+unrecognized tax benefits, as well as associated interest and penalties, may decrease during the next 12 months by
+$2,858, which includes amounts relating to expirations of statute of limitations and settlements of various tax
+matters. Of this amount, $2,649 would result in an income tax benefit for the Company and $209 would result in a
+decrease to interest expense in the consolidated statements of comprehensive income.
+As of March 31, 2025, and 2024, the Company has accrued $3,424 and $6,314 for the payment of interest and
+penalties, respectively, in income tax liability in the consolidated balance sheets. During the years ended March 31,
+2025, 2024, and 2023, the Company recorded $(2,890), $486, and $1,106, respectively, of interest and penalties as
+a (decrease) or increase to interest expense in the consolidated statements of comprehensive income.
+F-27
+Table of Contents
+DECKERS OUTDOOR CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+For the Fiscal Years Ended March 31, 2025, 2024, and 2023
+(amounts in thousands, except per share and share data)
+The Company has on-going income tax examinations in various state and foreign tax jurisdictions and
+regularly assesses tax positions taken during years open to examination. The Company files income tax returns in
+the US federal jurisdiction and various state, local, and foreign jurisdictions. With few exceptions, the Company is no
+longer subject to US federal, state, local, or foreign income tax examinations by tax authorities before fiscal year
+2021.
+Although the Company believes its tax estimates are reasonable and prepares its tax filings in accordance with
+all applicable tax laws, the final determination with respect to any tax audits, and any related litigation, could be
+materially different from the Company’s estimates or from its historical income tax provisions and accruals.

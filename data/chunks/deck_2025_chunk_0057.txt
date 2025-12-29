@@ -1,0 +1,69 @@
+ng such other procedures as we considered necessary in the circumstances. We believe that our audit
+provides a reasonable basis for our opinion.
+Definition and Limitations of Internal Control Over Financial Reporting
+A company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the
+reliability of financial reporting and the preparation of financial statements for external purposes in accordance with
+generally accepted accounting principles. A company’s internal control over financial reporting includes those policies and
+procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the
+transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are
+recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting
+principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of
+management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely
+detection of unauthorized acquisition, use, or disposition of the company’s assets that could have a material effect on the
+financial statements.
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also,
+projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become
+inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may
+deteriorate.
+/s/ KPMG LLP
+Los Angeles, California
+May 23, 2025
+F-4
+Table of Contents
+DECKERS OUTDOOR CORPORATION AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS
+(dollar and share data amounts in thousands, except par value)
+As of March 31,
+2025 2024
+ASSETS
+Cash and cash equivalents $ 1,889,188 $ 1,502,051
+Trade accounts receivable, net of allowances ($32,883 and $27,331 as of
+March 31, 2025, and March 31, 2024, respectively) (Note 2 and Schedule II) 332,872 296,565
+Inventories 495,226 474,311
+Prepaid expenses 39,294 34,284
+Other current assets 67,282 92,713
+Income tax receivable 36,613 43,559
+Total current assets 2,860,475 2,443,483
+Property and equipment, net of accumulated depreciation ($402,964 and
+$349,138 as of March 31, 2025, and March 31, 2024, respectively) (Note 1 and
+Note 13) 325,599 302,122
+Operating lease assets 237,352 225,669
+Goodwill (Note 3) 13,990 13,990
+Other intangible assets, net of accumulated amortization ($25,014 and $91,314
+as of March 31, 2025, and March 31, 2024, respectively) (Note 3) 15,699 27,083
+Deferred tax assets, net (Note 5) 77,591 72,584
+Other assets 39,546 50,648
+Total assets $ 3,570,252 $ 3,135,579
+LIABILITIES AND STOCKHOLDERS’ EQUITY
+Trade accounts payable $ 417,955 $ 378,503
+Accrued payroll 125,417 123,653
+Operating lease liabilities (Note 7) 54,453 53,581
+Other accrued expenses 142,120 106,785
+Income tax payable 23,299 52,338
+Value added tax payable 6,697 5,133
+Total current liabilities 769,941 719,993
+Long-term operating lease liabilities (Note 7) 222,522 213,298
+Income tax liability 13,587 52,470
+Other long-term liabilities 51,189 42,350
+Total long-term liabilities 287,298 308,118
+Commitments and contingencies (Note 7)
+Stockholders’ equity
+Common stock ($0.01 par value per share; 750,000 shares authorized; 150,201
+and 153,554 shares issued and outstanding as of March 31, 2025, and
+March 31, 2024, respectively) 1,502 1,536
+Additional paid-in capital 253,466 243,050
+Retained earnings 2,307,699 1,913,615
+Accumulated other comprehensive loss (Note 10) (49,654) (50,733)
+Total stockholders’ equity 2,513,013 2,107,468
+Total liabilities and stockholders’ equity $ 3,570,252 $ 3,135,579
+See accompanying notes to the consolidated financial statements.

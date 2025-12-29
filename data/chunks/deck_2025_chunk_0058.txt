@@ -1,0 +1,91 @@
+ck ($0.01 par value per share; 750,000 shares authorized; 150,201
+and 153,554 shares issued and outstanding as of March 31, 2025, and
+March 31, 2024, respectively) 1,502 1,536
+Additional paid-in capital 253,466 243,050
+Retained earnings 2,307,699 1,913,615
+Accumulated other comprehensive loss (Note 10) (49,654) (50,733)
+Total stockholders’ equity 2,513,013 2,107,468
+Total liabilities and stockholders’ equity $ 3,570,252 $ 3,135,579
+See accompanying notes to the consolidated financial statements.
+F-5
+Table of Contents
+DECKERS OUTDOOR CORPORATION AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+(dollar and share data amounts in thousands, except per share data)
+Years Ended March 31,
+2025 2024 2023
+Net sales (Note 2, Note 12, and Note 13) $ 4,985,612 $ 4,287,763 $ 3,627,286
+Cost of sales 2,099,949 1,902,275 1,801,916
+Gross profit 2,885,663 2,385,488 1,825,370
+Selling, general, and administrative expenses (Note 12) 1,706,571 1,457,974 1,172,619
+Income from operations (Note 12) 1,179,092 927,514 652,751
+Interest income (68,389) (52,208) (15,563)
+Interest expense 3,517 2,564 3,442
+Other expense (income), net 665 (1,783) (1,210)
+Total other income, net (64,207) (51,427) (13,331)
+Income before income taxes 1,243,299 978,941 666,082
+Income tax expense (Note 5) 277,208 219,378 149,260
+Net income 966,091 759,563 516,822
+Other comprehensive income (loss), net of tax
+Unrealized gain on cash flow hedges 1,584 — —
+Foreign currency translation loss (505) (11,698) (14,080)
+Total other comprehensive income (loss), net of tax 1,079 (11,698) (14,080)
+Comprehensive income $ 967,170 $ 747,865 $ 502,742
+Net income per share
+Basic $ 6.36 $ 4.89 $ 3.25
+Diluted $ 6.33 $ 4.86 $ 3.23
+Weighted-average common shares outstanding (Note 11)
+Basic 151,992 155,225 159,023
+Diluted 152,670 156,285 160,111
+See accompanying notes to the consolidated financial statements.
+F-6
+Table of Contents
+DECKERS OUTDOOR CORPORATION AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY
+(amounts in thousands)
+Accumulated
+Additional Other Total
+Common Stock
+Paid-in Retained Comprehensive Stockholders’
+Shares Amount Capital Earnings Income (Loss) Equity
+Balance, March 31, 2022 161,895 $ 1,619 $ 208,741 $ 1,353,420 $ (24,955) $ 1,538,825
+Stock-based compensation 33 — 26,858 — — 26,858
+Shares issued upon vesting 312 3 2,167 — — 2,170
+Exercise of stock options 384 4 4,392 — — 4,396
+Shares withheld for taxes — — (11,317) — — (11,317)
+Repurchases of common
+stock (Note 10) (5,570) (55) — (297,317) — (297,372)
+Excise taxes related to
+repurchases of common
+stock — — — (569) — (569)
+Net income — — — 516,822 — 516,822
+Total other comprehensive
+loss — — — — (14,080) (14,080)
+Balance, March 31, 2023 157,054 1,571 230,841 1,572,356 (39,035) 1,765,733
+Stock-based compensation 12 — 37,248 — — 37,248
+Shares issued upon vesting 351 4 2,440 — — 2,444
+Exercise of stock options 426 4 4,782 — — 4,786
+Shares withheld for taxes — — (32,261) — — (32,261)
+Repurchases of common
+stock (Note 10) (4,289) (43) — (414,888) — (414,931)
+Excise taxes related to
+repurchases of common
+stock — — — (3,416) — (3,416)
+Net income — — — 759,563 — 759,563
+Total other comprehensive
+loss — — — — (11,698) (11,698)
+Balance, March 31, 2024 153,554 1,536 243,050 1,913,615 (50,733) 2,107,468
+Stock-based compensation 11 — 37,915 — — 37,915
+Shares issued upon vesting 347 3 3,801 — — 3,804
+Exercise of stock options 89 1 967 — — 968
+Shares withheld for taxes — — (32,267) — — (32,267)
+Repurchases of common
+stock (Note 10) (3,800) (38) — (566,964) — (567,002)
+Excise taxes related to
+repurchases of common
+stock — — — (5,043) — (5,043)
+Net income — — — 966,091 — 966,091
+Total other comprehensive
+income — — — — 1,079 1,079
+Balance, March 31, 2025 150,201 $ 1,502 $ 253,466 $ 2,307,699 $ (49,654) $ 2,513,013
+See accompanying notes to the consolidated financial statements.

@@ -1,0 +1,82 @@
+ity are recorded against gross sales in the consolidated statements of
+comprehensive income. The refund asset for the right to recover the inventory is recorded in other current assets
+and the related refund liability is recorded in other accrued expenses in the consolidated balance sheets. The
+amounts of these reserves are determined based on several factors, including known and actual returns, historical
+returns, and any recent events that could result in a change from historical return rates.
+The following table summarizes changes in the estimated sales returns for the periods presented:
+Sales Return Sales Return
+Asset Liability
+Balance, March 31, 2023 $ 15,685 $ (45,322)
+Net additions to sales return liability (1) 60,789 (276,086)
+Actual returns (62,608) 266,081
+Balance, March 31, 2024 (2) 13,866 (55,327)
+Net additions to sales return liability (1) 74,150 (306,968)
+Actual returns (66,896) 298,833
+Balance, March 31, 2025 (2) $ 21,120 $ (63,462)
+(1) Net additions to the sales return liability include a provision for anticipated sales returns, which consists of both
+contractual return rights and discretionary authorized returns.
+(2) As of March 31, 2025, and 2024, the sales return liability includes $47,216 and $37,458, respectively, for the wholesale
+channel and $16,246 and $17,869, respectively, for the DTC channel.
+Contract Liabilities. Contract liabilities are performance obligations that the Company expects to satisfy or
+relieve within the next 12 months, advance consideration obtained prior to satisfying a performance obligation, or
+unconditional obligations to provide goods or services under non-cancelable contracts before the transfer of goods
+or services to the customer has occurred. Contract liabilities are recorded in other accrued expenses in the
+consolidated balance sheets and include loyalty programs and other deferred revenue.
+Loyalty Programs. The Company has a loyalty program for the UGG brand in its DTC channel where
+consumers can earn rewards from qualifying purchases or activities. The Company defers recognition of revenue
+for unredeemed awards until one of the following occurs: (1) rewards are redeemed by the consumer, (2) points or
+certificates expire, or (3) an estimate of the expected unused portion of points or certificates is applied, which is
+based on historical redemption and expiration patterns. The Company’s contract liability for loyalty programs is
+recorded in other accrued expenses in the consolidated balance sheets.
+Activity related to loyalty programs was as follows:
+Years Ended March 31,
+2025 2024
+Beginning balance $ (17,586) $ (13,144)
+Redemptions and expirations for loyalty certificates and points recognized in net
+sales 68,080 52,884
+Deferred revenue for loyalty points and certificates issued (69,060) (57,326)
+Ending balance $ (18,566) $ (17,586)
+Deferred Revenue. Revenue is deferred for wholesale channel transactions when certain conditions outlined
+within the contract terms, including the transfer of control or delivery of product, has not occurred, such as when a
+wholesale channel customer prepays for ordered product. The contract liability for deferred revenue is recorded in
+other accrued expenses in the consolidated balance sheets.
+F-21
+Table of Contents
+DECKERS OUTDOOR CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+For the Fiscal Years Ended March 31, 2025, 2024, and 2023
+(amounts in thousands, except per share and share data)
+Activity related to deferred revenue was as follows:
+Years Ended March 31,
+2025 2024
+Beginning balance $ (9,591) $ (13,448)
+Additions of customer cash payments (80,732) (61,844)
+Revenue recognized 63,018 65,701
+Ending balance $ (27,305) $ (9,591)
+NOTE 3. GOODWILL AND OTHER INTANGIBLE ASSETS
+Goodwill as well as other intangible assets by major intangible class recorded in the consolidated balance
+sheets are as follows:
+As of March 31,
+2025 2024
+Goodwill
+Gross carrying amount (1) $ 29,821 $ 143,765
+Accumulated impairment losses (1) (15,831) (129,775)
+Total goodwill (2) $ 13,990 $ 13,990
+As of March 31,
+2025 2024
+Other intangible assets
+Indefinite-lived intangible assets
+Teva brand trademark $ 15,454 $ 15,454
+Definite-lived intangible assets
+Trademarks (1) 8,014 51,723
+Other (1) 17,245 51,220
+Total gross carrying amount 25,259 102,943
+Trademarks accumulated amortization and impairments (1) (7,982) (40,326)
+Other accumulated amortization (1) (17,032) (50,988)
+Total accumulated amortization and impairments (25,014) (91,314)
+Definite-lived intangible assets, net 245 11,629
+Total other intangible assets, net $ 15,699 $ 27,083
+(1) The change in the March 31, 2025, balances, when compared to March 31, 2024, is primarily due to the sale of the
+Sanuk brand during fiscal year 2025.
+(2) As of March 31, 2025, and 2024, total goodwill is made up of $6,101 and 7,889 of UGG brand and HOKA brand
+reportable operating segments goodwill, respectively.

@@ -1,0 +1,52 @@
+e year or less and have
+payment terms that are generally 30 to 60 days.
+Wholesale and international distributor revenue is recognized either when products are shipped or when
+delivered, depending on the applicable contract terms. Retail store and e-commerce revenue transactions are
+recognized at the point of sale and upon shipment, respectively. Shipping and handling costs paid to third-party
+shipping companies are recorded as cost of sales in the consolidated statements of comprehensive income.
+Shipping and handling costs are a fulfillment service, and, for certain wholesale and all e-commerce transactions,
+revenue is recognized when the customer is deemed to obtain control upon the date of shipment. Refer to Note 2,
+“Revenue Recognition,” for further information regarding the Company’s components of variable consideration.
+Cost of Sales. Cost of sales for the Company’s goods are primarily for finished goods, as well as related
+overhead. Finished goods includes material costs, including commodities, for products; allocation of initial molds;
+and tooling cost that are amortized based on minimum contractual quantities of related product and recorded in cost
+of sales in the consolidated statements of comprehensive income when the product is sold.
+Distribution Costs. Distribution costs include payroll and related costs, rent and occupancy, depreciation and
+other related costs, and other miscellaneous expenses for owned warehousing, third-party logistics provider (3PL)
+service fees, and receiving, inspecting, allocating, and packaging product. Distribution costs are expensed as
+incurred, and primarily included in unallocated enterprise and shared brand expenses. Such costs amounted to
+$279,090, $238,312, and $206,191 for the years ended March 31, 2025, 2024, and 2023, respectively, and are
+recorded in SG&A expenses in the consolidated statements of comprehensive income. Refer to Note 12,
+“Reportable Operating Segments,” for further information on the Company’s unallocated enterprise and shared
+brand expenses.
+Research and Development Costs. Research and development costs include payroll and related costs, and
+other segment items, which are expensed as incurred, and included within each reportable operating segment, as
+well as unallocated enterprise and shared brand expenses. Such costs amounted to $56,676, $49,171, and $38,657
+for the years ended March 31, 2025, 2024, and 2023, respectively, and are recorded in SG&A expenses in the
+consolidated statements of comprehensive income. Refer to Note 12, “Reportable Operating Segments,” for further
+information on the Company’s unallocated enterprise and shared brand expenses.
+Advertising, Marketing, and Promotion Expenses. Advertising, marketing, and promotion expenses include
+media advertising (television, radio, print, social, digital), tactical advertising (signs, banners, point-of-sale materials)
+and other promotional costs specific to the Company’s brands, and amounted to $432,198, $348,852, and $271,140
+for the years ended March 31, 2025, 2024 and 2023, respectively, which are recorded in SG&A expenses in the
+consolidated statements of comprehensive income. Advertising costs are expensed the first time the advertisement
+is run or communicated. All other costs of advertising, marketing, and promotion are expensed as incurred. Included
+in prepaid expenses as of March 31, 2025, and 2024 are $4,045 and $1,130, respectively, related to prepaid
+advertising, marketing, and promotion expenses for programs expected to take place after such dates.
+Stock-Based Compensation. All of the Company’s stock-based compensation is classified within stockholders’
+equity. Stock-based compensation expense is measured at the grant date based on the fair value of the award and
+is recorded, net of forfeitures, in SG&A expenses in the consolidated statements of comprehensive income ratably
+over the vesting period. The grant date fair value of time-based restricted stock units (RSUs) and of employees’
+F-18
+Table of Contents
+DECKERS OUTDOOR CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+For the Fiscal Years Ended March 31, 2025, 2024, and 2023
+(amounts in thousands, except per share and share data)
+purchase rights under the employee stock purchase plans is determined based on the closing market price of the
+Company’s common stock on the date of grant. The grant date fair value of long-term incentive plan performance-
+based stock units (LTIP PSUs) is estimated as of the grant date using a Monte Carlo simulation.
+Determining the fair value and related expense of stock-based compensation requires judgment, including
+estimating the percentage of awards that will be forfeited and probabilities of meeting the awards’ performance
+criteria, as well as the Company’s reliance on the closing price of its stock on the New York Stock Exchange at or
+near the time of grant.

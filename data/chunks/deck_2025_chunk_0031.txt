@@ -1,0 +1,61 @@
+es. Accordingly, the price of
+our common stock is volatile and any investment in our stock is subject to risk of loss. These broad market and
+industry factors and other general macroeconomic conditions unrelated to our financial performance may also affect
+our common stock price.
+Anti-takeover provisions contained in our Amended and Restated Certificate of Incorporation
+(Certificate) and Amended and Restated Bylaws (Bylaws), as well as provisions of Delaware law, could
+impair a takeover attempt.
+Our Certificate and Bylaws contain provisions that could have the effect of rendering more difficult hostile
+takeovers, change-in-control transactions, or changes in our Board or management. As a Delaware corporation, we
+are also subject to provisions of Delaware law, including Section 203 of the Delaware General Corporation Law,
+which may delay, deter, or prevent a change-in-control transaction. Any provision of Delaware law, our Certificate, or
+our Bylaws, which has the effect of rendering more difficult, delaying, deterring, or preventing a change-in-control
+transaction could limit the opportunity for stockholders to receive a premium for their shares of our common stock,
+and could affect the price that investors are willing to pay for our common stock.
+ITEM 1B. UNRESOLVED COMMENT LETTERS
+UNRESOLVED COMMENT LETTERS
+None.
+26
+Table of Contents
+ITEM 1C. CYBERSECURITY
+CYBERSECURITY RISK MANAGEMENT AND STRATEGY
+We maintain a comprehensive cybersecurity program, recognizing the critical importance of safeguarding our
+operations, employees, customers, and other business partners from the constantly evolving risks associated with
+cybersecurity threats. These risks include, among other things, operational risks, reputational risks, financial risks,
+and litigation and legal risks.
+As a part of our comprehensive cybersecurity program, we have developed an incident response plan (IRP)
+designed to quickly respond to, mitigate, and recover from cybersecurity incidents. The IRP includes procedures for
+incident detection and reporting, initial assessment, containment, eradication, recovery, post-incident activities, and
+continuous improvement.
+We also integrated cybersecurity risk management into our overall risk management framework to ensure that
+cybersecurity risks are considered in all aspects of our business. The integration ensures that cybersecurity
+considerations are integral to our strategic and operational decision-making. Our management team works closely
+with our Chief Digital & Data Officer (CDDO) and Chief Information Security Officer (CISO), ensuring that our
+cybersecurity efforts align with our business objectives and operational needs. Key components of our cybersecurity
+approach include, among other things:
+• establishing a dedicated action team, led by our CDDO and CISO, to oversee and manage
+cybersecurity risks;
+• implementing a comprehensive cybersecurity risk assessment process and strategy based on
+industry standards and established frameworks such as the National Institute of Standards and
+Technology (NIST) Special Publication 800-61;
+• implementing a vendor risk management program, which includes cybersecurity and data privacy
+audits, evaluating vendor risk level, and monitoring risk mitigation efforts;
+• conducting penetration tests and security maturity assessments throughout the year;
+• periodically engaging independent third-party assessors to audit our cybersecurity and information
+system programs to evaluate their effectiveness;
+• implementing industry-standard technologies and processes to protect our system and data and to
+help detect potential suspicious activity;
+• maintaining access controls to safeguard data and systems;
+• providing annual trainings to employees on responsible information security, data security and
+cybersecurity practices including appropriate action to take against cybersecurity threats;
+• conducting periodic phishing simulations to our employees;
+• engaging in cybersecurity incident tabletop exercises and scenario planning exercises;
+• maintaining a cybersecurity and information security risk insurance policy, which insures for data
+incidents or breaches and other technology related exposures; and
+• periodically reviewing and updating our IRP, privacy policy, and other relevant policies/procedures.
+These approaches are not exhaustive, and we plan to continuously improve our approaches to cybersecurity
+risk management.
+In the three-year period ended March 31, 2025, our business strategy, results of operations and financial
+condition have not been materially affected by risks from cybersecurity threats, including as a result of any prior
+cybersecurity incidents experienced by either us or third parties, but we cannot provide assurance that they will not
+be materially affected in the future by such risks or any future material incidents.

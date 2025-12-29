@@ -1,0 +1,56 @@
+any is contractually obligated under certain of its lease
+agreements to restore certain retail, office, and warehouse facilities back to their original conditions. At lease
+inception, the present value of the estimated fair value of these liabilities is recorded along with the related asset.
+The liability is estimated based on assumptions requiring management’s judgment, including facility closing costs
+and discount rates, and is accreted to its projected future value over the life of the asset.
+The Company’s AROs are recorded in other long-term liabilities in the consolidated balance sheets and activity
+was as follows:
+Years Ended March 31,
+2025 2024
+Beginning balance $ 25,686 $ 24,556
+Additions and changes in estimate 2,192 2,730
+Liabilities settled during the period (732) (1,724)
+Accretion expenses 927 421
+Foreign currency translation gains 45 (297)
+Ending balance $ 28,118 $ 25,686
+Goodwill and Indefinite-Lived Intangible Assets. Goodwill is initially recorded as the excess of the purchase
+price over the fair value of the net assets acquired in a business combination. Goodwill and indefinite-lived
+intangible assets are not amortized but are instead tested for impairment annually, or when an event occurs or
+F-15
+Table of Contents
+DECKERS OUTDOOR CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+For the Fiscal Years Ended March 31, 2025, 2024, and 2023
+(amounts in thousands, except per share and share data)
+changes in circumstances indicate the carrying value may not be recoverable. The Company evaluates goodwill for
+impairment annually at the reporting unit level, which is the wholesale channel of each of the UGG and HOKA
+brands as of December 31st of each year. The Company evaluates the Teva brand indefinite-lived trademark for
+impairment as of October 31st of each year.
+The Company first assesses qualitative factors to determine whether it is necessary to perform a quantitative
+assessment of goodwill or indefinite-lived intangible assets. In general, conditions that may indicate impairment
+include, but are not limited to the following: (1) a significant adverse change in customer demand or business
+climate that could affect the value of an asset; (2) change in market share, budget-to-actual performance, and
+consistency of income from operations as a percentage of net sales (operating margins) and capital expenditures;
+(3) changes in management or key personnel; or (4) changes in general economic conditions. The Company does
+not calculate the fair value of the assets unless the Company determines, based on a qualitative assessment, that it
+is more likely than not that its fair value is less than its carrying amount. If the Company concludes that it is more
+likely than not that its fair value is less than its carrying amount, then the Company prepares a quantitative
+assessment.
+The quantitative assessment requires an analysis of several estimates and assumptions, including future sales
+and results of operations, discount rates, and other factors that could affect fair value or otherwise indicate potential
+impairment. The goodwill impairment assessment involves valuing the Company’s various reporting units that carry
+goodwill. This includes considering the reporting units’ projected ability to generate income from operations and
+positive cash flow in future periods, as well as perceived changes in customer demand and acceptance of products,
+or other factors impacting the industry. Upon completion of the quantitative assessment, the Company compares
+the fair value of the asset to its carrying amount, and if the fair value exceeds its carrying amount, no impairment
+charge is recognized. If the fair value is less than its carrying amount, the Company will record an impairment
+charge to write down the asset to its fair value. Refer to Note 3, “Goodwill and Other Intangible Assets,” for further
+information on the Company’s goodwill and indefinite-lived intangible assets and annual impairment assessment
+results.
+Recoverability of Definite-Lived Intangible and Other Long-Lived Assets. Definite-lived intangible and other
+long-lived assets, which include definite-lived trademarks; machinery and equipment; internal-use software,
+including CCAs; and operating lease assets and related leasehold improvements are amortized to their estimated
+residual values, if any, on a straight-line basis over the estimated useful life and reviewed for impairment whenever
+events or changes in circumstances indicate that the carrying amount of the asset group may not be recoverable.
+Amortization or depreciation are recorded in SG&A expenses in the consolidated statements of comprehensive
+income.

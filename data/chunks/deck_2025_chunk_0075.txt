@@ -1,0 +1,85 @@
+e Tax Expense. Components of income tax expense (benefit) recorded in the consolidated statements
+of comprehensive income were as follows:
+Years Ended March 31,
+2025 2024 2023
+Current
+Federal $ 177,652 $ 146,939 $ 115,708
+State 43,847 32,065 18,418
+Foreign 61,254 41,884 24,853
+Total 282,753 220,888 158,979
+Deferred
+Federal (1,134) (3,113) 4,830
+State 219 (2,336) 382
+Foreign (4,630) 3,939 (14,931)
+Total (5,545) (1,510) (9,719)
+Total $ 277,208 $ 219,378 $ 149,260
+Income Tax Expense Reconciliation. Income tax expense (benefit) differed from that obtained by applying
+the statutory federal income tax rate to income before income taxes as follows:
+Years Ended March 31,
+2025 2024 2023
+Computed expected income taxes $ 261,093 $ 205,578 $ 139,882
+State income taxes, net of federal income tax benefit 45,991 32,023 15,881
+Foreign rate differential (13,078) (15,976) (21,420)
+Gross unrecognized tax benefits (1,594) 1,301 20,122
+Intercompany transfers of assets 10,430 (1,817) (13,072)
+US tax on foreign earnings (14,548) 4,750 7,672
+Other (11,086) (6,481) 195
+Total $ 277,208 $ 219,378 $ 149,260
+F-25
+Table of Contents
+DECKERS OUTDOOR CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+For the Fiscal Years Ended March 31, 2025, 2024, and 2023
+(amounts in thousands, except per share and share data)
+Deferred Taxes. The tax effects of temporary differences that give rise to significant portions of deferred tax
+assets and deferred tax liabilities are as follows:
+As of March 31,
+2025 2024
+Deferred tax assets
+Amortization of intangible assets $ 12,413 $ 11,416
+Operating lease liabilities 38,051 38,890
+Uniform capitalization adjustment to inventory 10,723 11,822
+State related taxes and credit carryforwards 3,107 1,834
+Reserves and accruals 69,803 65,817
+Net operating loss carry-forwards 10,421 5,981
+Other 1,188 3,164
+Gross deferred tax assets 145,706 138,924
+Valuation allowances (5,138) (1,259)
+Total 140,568 137,665
+Deferred tax liabilities
+Prepaid expenses (8,727) (7,060)
+Operating lease assets (29,189) (29,667)
+Depreciation of property and equipment (23,359) (28,354)
+Other (1,702) —
+Total (62,977) (65,081)
+Deferred tax assets, net $ 77,591 $ 72,584
+The deferred tax assets are currently expected to be realized between fiscal years 2026 and 2031. Based on
+the level of historical taxable income and projections for future taxable income over the periods in which the
+deferred tax assets are deductible, management believes it is more likely than not that the results of future
+operations will generate sufficient taxable income to realize the net deferred tax assets. The Company’s deferred
+tax valuation allowances are primarily the result of a valuation allowance on tax attributes and foreign losses in
+jurisdictions in which the Company expects it will have limited future profitability. The changes to the Company’s
+deferred tax valuation allowances are primarily the result of a valuation allowance on domestic tax attributes.
+US Taxation of Foreign Earnings. The Company is subject to US taxation of its foreign subsidiary earnings,
+which is considered global intangible low-taxed income (commonly known as GILTI), as well as limitations on the
+deductions of executive compensation, which are included in income tax expense in the consolidated statements of
+comprehensive income for the periods presented above.
+The Company currently anticipates repatriating current and future unremitted earnings of non-US subsidiaries,
+to the extent they have been and will be subject to US income tax, as long as such cash is not required to fund
+ongoing foreign operations. Due to the complexities in the laws of foreign jurisdictions, it is not practicable to
+estimate the amount of foreign withholding taxes associated with such unremitted earnings. No intercompany
+dividends were declared by the Company from a foreign subsidiary with related foreign withholding tax requirements
+during the year ended March 31, 2025.
+As of March 31, 2025, the Company has $16,346 of undistributed earnings and $481,836 of cash and cash
+equivalents from its non-US subsidiaries, a portion of which may be subject to additional foreign withholding taxes if
+it were to be repatriated. As of March 31, 2025, the Company has $1,839 of accumulated deficit from its non-US
+subsidiaries for which no US federal or state income taxes have been paid.
+F-26
+Table of Contents
+DECKERS OUTDOOR CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+For the Fiscal Years Ended March 31, 2025, 2024, and 2023
+(amounts in thousands, except per share and share data)
+Recent Tax Law Changes. The Organization for Economic Co-operation and Development (commonly known
+as OECD) has released Pillar Two model rules introducing a 15% global minimum tax rate for large multinational
+corporations to be effective starting with tax periods ending in 2024.

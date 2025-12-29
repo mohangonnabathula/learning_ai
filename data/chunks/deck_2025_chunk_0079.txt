@@ -1,0 +1,73 @@
+ent of the related sales target is reasonably likely to occur. Other variable lease
+payments, such as tax, CAM, and insurance, are recognized in rent expense as incurred. Some leases contain one
+fixed lease payment that include variable lease payments, which are considered non-lease components. The
+Company has elected to account for these instances as a single lease component and the total of these fixed
+payments is used to measure the operating lease assets and lease liabilities.
+Discount Rate. The Company discounts its unpaid lease payments using the interest rate implicit in the lease
+or, if the rate cannot be readily determined, its IBR. Generally, the Company cannot determine the interest rate
+implicit in the lease because it does not have access to the lessor’s estimated residual value or the amount of the
+lessor’s deferred initial direct costs. The Company has a centralized treasury function, which enables the Company
+to use a portfolio approach to discount lease obligations. Therefore, the Company generally derives a discount rate
+at the lease commencement date by utilizing its IBR, which is based on what the Company would have to pay on a
+collateralized basis to borrow an amount equal to its lease payments under similar terms. Because the Company
+does not currently borrow on a collateralized basis under its revolving credit facilities, it uses the interest rate it pays
+on its non-collateralized borrowings under its Primary Credit Facility as an input for deriving an appropriate IBR,
+adjusted for the amount of the lease payments, the lease term, and the effect on that rate of designating specific
+collateral with a value equal to the unpaid lease payments for that lease.
+Rent Expense. The components of rent expense for operating leases recorded in SG&A expenses in the
+consolidated statements of comprehensive income were as follows:
+Years Ended March 31,
+2025 2024 2023
+Operating $ 68,020 $ 64,006 $ 52,961
+Variable 39,284 40,615 30,309
+Short-term 9,912 6,931 5,729
+Total $ 117,216 $ 111,552 $ 88,999
+Operating Lease Liabilities. Maturities of undiscounted operating lease liabilities remaining as of March 31,
+2025, with a reconciliation to the present value of operating lease liabilities recorded in the consolidated balance
+sheets, are as follows:
+Years Ending March 31, Amount
+2026 $ 62,445
+2027 67,077
+2028 56,414
+2029 42,019
+2030 29,538
+Thereafter 60,330
+Total undiscounted future lease payments 317,823
+Less: Imputed interest (40,848)
+Total $ 276,975
+F-30
+Table of Contents
+DECKERS OUTDOOR CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+For the Fiscal Years Ended March 31, 2025, 2024, and 2023
+(amounts in thousands, except per share and share data)
+Operating lease liabilities recorded in the consolidated balance sheets as of March 31, 2025, exclude an
+aggregate of $10,096 of undiscounted minimum lease payments due pursuant to leases signed, but not yet
+commenced, primarily for new HOKA brand retail stores and a regional office, for which the leases are expected to
+commence in the first quarter of fiscal year ending March 31, 2026 (next fiscal year).
+Supplemental Disclosure. Key estimates and judgments related to operating lease assets and lease liabilities
+that are outstanding and presented in the consolidated balance sheets are as follows:
+As of March 31,
+2025 2024
+Weighted-average remaining lease term in years 5.5 5.9
+Weighted-average discount rate 4.5 % 3.9 %
+Supplemental information for amounts presented in the consolidated statements of cash flows related to
+operating leases, were as follows:
+Years Ended March 31,
+2025 2024 2023
+Non-cash operating activities (1)
+Operating lease assets obtained in exchange for lease liabilities $ 70,179 $ 78,255 $ 84,988
+Reductions to operating lease assets for reductions to lease
+liabilities (2,096) (8,418) (1,903)
+(1) Amounts disclosed include non-cash additions or reductions resulting from lease remeasurements, as well as reductions
+for tenant improvement allowances.
+Purchase Obligations. The Company has various types of purchase obligations, as follows:
+Product. As of March 31, 2025, the Company has $956,911 of outstanding purchase orders or other obligations
+with independent third-party contractors that manufacture all of its products (independent manufacturers). These
+obligations consist mostly of open purchase orders that are expected to be fulfilled in the ordinary course of
+business and to be paid in less than one fiscal year. A significant portion of the purchase commitments can be
+cancelled by the Company under certain circumstances; however, the occurrence of such circumstances is
+generally limited. As a result, the amount does not necessarily reflect the dollar amount of the Company’s binding
+commitments or minimum purchase obligations for products, and instead reflects an estimate of its future payment
+commitments based on information currently available.
+Commodities.

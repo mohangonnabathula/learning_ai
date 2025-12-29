@@ -1,0 +1,85 @@
+. Each of these
+shares is fully vested and recorded as compensation expense in the consolidated statements of comprehensive
+income on the date of issuance.
+Employee Stock Purchase Plans. In September 2015, the Company’s stockholders approved the 2015
+Employee Stock Purchase Plan (2015 ESPP), which authorized 6,000,000 shares of the Company’s common stock
+for sale to eligible employees using after-tax payroll deductions, which are refundable until purchases are made,
+and are liability-classified. Following the issuance of shares under the 2015 ESPP to employees who participated in
+the offering period ended February 28, 2025, the 2015 ESPP was terminated, and no new offering periods under
+the 2015 ESPP will commence.
+In September 2024, the Company’s stockholders approved the 2024 Employee Stock Purchase Plan (2024
+ESPP), which replaced the 2015 ESPP. The 2024 ESPP reserves 6,000,000 shares of the Company’s common
+stock for sale to eligible employees. The terms of the 2024 ESPP are substantially similar to the terms of the 2015
+ESPP. Each offering period under the 2024 ESPP is anticipated to run for approximately six months with purchases
+occurring on the last day of each offering period (no look-back provision) at a 15% discount to the closing price on
+that date. The first offering period commenced on March 1, 2025. As a result of the stock split, the number of shares
+of common stock reserved for issuance under the 2024 ESPP were adjusted proportionately.
+F-34
+Table of Contents
+DECKERS OUTDOOR CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+For the Fiscal Years Ended March 31, 2025, 2024, and 2023
+(amounts in thousands, except per share and share data)
+Stock-Based Compensation. Components of stock-based compensation recorded, net of estimated
+forfeitures, in SG&A expenses in the consolidated statements of comprehensive income were as follows:
+Years Ended March 31,
+2025 2024 2023
+Stock-based compensation
+RSUs $ 19,758 $ 15,935 $ 13,249
+LTIP PSUs 15,676 18,941 11,275
+Grants to Directors 1,858 1,907 1,863
+Subtotal 37,292 36,783 26,387
+Other stock-based compensation
+Employee Stock Purchase Plan 651 505 510
+Total stock-based compensation, pre-tax 37,943 37,288 26,897
+Income tax benefit (9,304) (9,097) (6,557)
+Total stock-based compensation, net of tax $ 28,639 $ 28,191 $ 20,340
+Unrecognized Stock-Based Compensation. Total remaining unrecognized stock-based compensation as of
+March 31, 2025, related to non-vested awards that the Company considers probable to vest and the weighted-
+average period over which the cost is expected to be recognized in future periods, is as follows:
+Weighted-
+Average
+Unrecognized Remaining
+Stock-Based Vesting Period
+Compensation (Years)
+RSUs $ 21,951 1.0
+LTIP PSUs 21,225 1.5
+Total $ 43,176
+NOTE 9. DERIVATIVE INSTRUMENTS
+As of March 31, 2025, the Company has the following derivative contracts recorded at fair value in the
+consolidated balance sheets:
+Designated Non-Designated
+Derivative Derivative
+Contracts Contracts Total
+Notional value $ 367,695 $ 14,018 $ 381,713
+Fair value recorded in other current assets 2,163 75 2,238
+Fair value recorded in other accrued expenses (64) — (64)
+As of March 31, 2025, five counterparties hold the Company’s outstanding derivative contracts, all of which are
+expected to mature in the next twelve months. As of March 31, 2024, the Company had no outstanding derivative
+contracts.
+F-35
+Table of Contents
+DECKERS OUTDOOR CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+For the Fiscal Years Ended March 31, 2025, 2024, and 2023
+(amounts in thousands, except per share and share data)
+The Company settled derivative contracts with notional values as follows:
+Years Ended March 31,
+2025 2024 2023
+Designated Derivative Contracts $ 258,040 $ 179,528 $ 96,345
+Non-Designated Derivative Contracts 18,565 — 31,044
+Total $ 276,605 $ 179,528 $ 127,389
+The following table summarizes the effect of Designated Derivative Contracts on unrealized gains or losses
+recorded in the consolidated statements of comprehensive income for changes in AOCL, net of tax:
+Years Ended March 31,
+2025 2024 2023
+Gain recorded in OCI $ 4,387 $ 4,090 $ 1,504
+Reclassifications from AOCL into net sales (2,288) (4,090) (1,504)
+Income tax expense in OCI (515) — —
+Total $ 1,584 $ — $ —
+The non-performance risk of the Company and its counterparties did not have a material impact on the fair
+value of its derivative contracts. As of March 31, 2025, the amount of unrealized gains on derivative contracts
+recorded in AOCL is expected to be reclassified into net sales within the next twelve months. Refer to Note 10,
+“Stockholders’ Equity,” for further information on the components of AOCL.
+NOTE 10. STOCKHOLDERS’ EQUITY
+Stock Repurchase Program.

@@ -1,0 +1,53 @@
+IP PSU awards is over a multi-fiscal year performance period with metrics
+established at the beginning of the performance period, which is generally two or three years (Measurement
+Period). The LTIP PSU awards include a market condition tied to the Company’s relative total stockholder return
+(TSR) in relation to its peer companies (peer market condition), as well as financial performance conditions tied to
+certain revenue and pre-tax income performance targets (financial performance conditions). Following a
+determination of the Company’s achievement with respect to the financial performance conditions for the applicable
+Measurement Period, the vesting of each LTIP PSU award will be subject to adjustment for the peer market
+condition based on the application of the TSR modifier. The amount of the adjustment is determined based on a
+F-33
+Table of Contents
+DECKERS OUTDOOR CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+For the Fiscal Years Ended March 31, 2025, 2024, and 2023
+(amounts in thousands, except per share and share data)
+comparison of the Company’s TSR relative to the TSR of a pre-determined set of peer group companies for the
+Measurement Period.
+The grant date fair value of LTIP PSUs is determined using a Monte-Carlo model that simulates a range of
+possible future stock prices for the Company and each member of the peer group over the Measurement Period.
+For each grant of LTIP PSUs, the Monte-Carlo simulation model factors in key assumptions, such as the market
+price of the underlying common stock at the beginning and end of the Measurement Period, risk free interest rate,
+expected dividend yield when simulating a TSR, expected dividend yield when simulating the Company’s stock
+price, stock price volatility, and correlation coefficients. The Company evaluates the probability of achieving the
+financial performance conditions against its most current long-range forecast at least quarterly and may adjust
+stock-based compensation expense for its LTIP PSUs up or down based on its estimated probability outcome over
+the Measurement Period. The peer market condition is measured as part of the grant date fair value.
+The actual number of LTIP PSU awards that vest may increase up to a maximum of 200% of the targeted
+amount for the award based on achievement of the financial performance conditions and the TSR modifier for the
+peer market condition. No vesting of any portion of the LTIP PSU awards will occur if the Company fails to achieve
+the minimum threshold financial performance conditions for each reporting period within the Measurement Period.
+For the LTIP PSUs granted during the fiscal years 2025, 2024, and 2023, the Company expects to exceed the
+minimum threshold target performance criteria based on the Company’s long-range forecast as of March 31, 2025.
+Long-Term Incentive Plan Options. The Company approved the issuance of LTIP NQSOs under the 2015
+SIP, including the November 2016 (2017 LTIP NQSOs) and June 2017 (2018 LTIP NQSOs) grants, which were
+awarded to certain members of the Company’s management team, with a maximum contractual term ending March
+31, 2026. As of March 31, 2019, and 2020, the target performance criteria were achieved and all LTIP NQSOs
+under the 2017 LTIP NQSOs and 2018 LTIP NQSOs, respectively, were fully vested. Each vested LTIP NQSO
+provides the recipient the right to purchase a specified number of shares of the Company’s common stock at a fixed
+exercise price per share based on the closing price of the common stock on the date of grant. During the years
+ended March 31, 2025, 2024, and 2023, no LTIP NQSOs were granted. During the year ended March 31, 2025,
+89,454 shares were exercised pursuant to LTIP NQSOs at a weighted-average exercise price of $10.80. As of
+March 31, 2025, no LTIP NQSOs were exercisable and as of March 31, 2024, 89,454 LTIP NQSOs were
+exercisable at a weighted average exercise price of $10.80.
+Grants to Directors. Each of the Company’s nonemployee directors was entitled to receive common stock
+with a total value of $170 for annual service on the Board of Directors (Board) during the year ended March 31,
+2025. The shares are issued in equal quarterly installments with the number of shares being determined using the
+rolling average of the closing price of the Company’s common stock during the last ten trading days leading up to,
+and including, the grant date, which is in alignment with the Company’s equity grant guidelines. Each of these
+shares is fully vested and recorded as compensation expense in the consolidated statements of comprehensive
+income on the date of issuance.
+Employee Stock Purchase Plans. In September 2015, the Company’s stockholders approved the 2015
+Employee Stock Purchase Plan (2015 ESPP), which authorized 6,000,000 shares of the Company’s common stock
+for sale to eligible employees using after-tax payroll deductions, which are refundable until purchases are made,
+and are liability-classified.

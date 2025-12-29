@@ -1,0 +1,102 @@
+ 3,801 — — 3,804
+Exercise of stock options 89 1 967 — — 968
+Shares withheld for taxes — — (32,267) — — (32,267)
+Repurchases of common
+stock (Note 10) (3,800) (38) — (566,964) — (567,002)
+Excise taxes related to
+repurchases of common
+stock — — — (5,043) — (5,043)
+Net income — — — 966,091 — 966,091
+Total other comprehensive
+income — — — — 1,079 1,079
+Balance, March 31, 2025 150,201 $ 1,502 $ 253,466 $ 2,307,699 $ (49,654) $ 2,513,013
+See accompanying notes to the consolidated financial statements.
+F-7
+Table of Contents
+DECKERS OUTDOOR CORPORATION AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(amounts in thousands)
+Years Ended March 31,
+2025 2024 2023
+OPERATING ACTIVITIES
+Net income $ 966,091 $ 759,563 $ 516,822
+Reconciliation of net income to net cash provided by (used in) operating activities:
+Depreciation, amortization, and accretion 69,353 57,587 47,858
+Amortization on cloud computing arrangements 2,380 2,075 2,149
+Loss on extinguishment of debt — — 226
+Bad debt expense 5,032 789 1,983
+Deferred tax benefit (5,545) (1,510) (9,719)
+Stock-based compensation 37,943 37,288 26,897
+Loss on disposal of assets 3,183 407 2,691
+Impairment of intangible assets — 8,164 —
+Impairment of cloud computing arrangements, operating lease,
+and other long-lived assets 4,290 1,015 2,817
+Changes in operating assets and liabilities:
+Trade accounts receivable, net (41,339) 4,157 (806)
+Inventories (24,344) 58,541 (26,056)
+Prepaid expenses and other current assets 20,946 (38,490) (5,609)
+Income tax receivable 6,945 (38,775) 13,459
+Net operating lease assets and lease liabilities (2,583) (567) (8,308)
+Other assets 6,566 (9,989) 13,240
+Trade accounts payable 35,636 119,601 (74,247)
+Other accrued expenses 22,222 43,534 11,528
+Income tax payable (29,039) 35,016 4,897
+Other long-term liabilities (33,214) (5,222) 17,600
+Net cash provided by operating activities 1,044,523 1,033,184 537,422
+INVESTING ACTIVITIES
+Purchases of property and equipment (86,171) (89,365) (81,025)
+Proceeds from sale of assets 11,168 34 12
+Net cash used in investing activities (75,003) (89,331) (81,013)
+FINANCING ACTIVITIES
+Loan origination costs on revolving credit facilities — — (1,537)
+Proceeds from issuance of stock 3,804 2,444 2,170
+Proceeds from exercise of stock options 968 4,786 4,396
+Repurchases of common stock (567,002) (414,931) (297,372)
+Cash paid for excise taxes related to repurchases of common
+stock (3,985) — —
+Cash paid for shares withheld for taxes (15,119) (9,974) (16,688)
+Net cash used in financing activities (581,334) (417,675) (309,031)
+Effect of foreign currency exchange rates on cash and cash
+equivalents (1,049) (5,922) (9,110)
+Net change in cash and cash equivalents 387,137 520,256 138,268
+Cash and cash equivalents at beginning of period 1,502,051 981,795 843,527
+Cash and cash equivalents at end of period $ 1,889,188 $ 1,502,051 $ 981,795
+F-8
+Table of Contents
+DECKERS OUTDOOR CORPORATION AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(amounts in thousands)
+(continued)
+Years Ended March 31,
+2025 2024 2023
+SUPPLEMENTAL CASH FLOW DISCLOSURE
+Cash paid during the period
+Income taxes $ 345,397 $ 234,062 $ 135,986
+Interest 1,789 1,783 1,880
+Operating leases 70,326 65,672 60,353
+Non-cash investing activities
+Changes in trade accounts payable and other accrued
+expenses for purchases of property and equipment 3,819 (6,705) 5,325
+Accrued for asset retirement obligation assets related to
+leasehold improvements 2,233 2,278 8,203
+Leasehold improvements acquired through tenant allowances — 8,127 —
+Non-cash financing activities
+Accrued for shares withheld for taxes 17,148 22,287 5,371
+Accrued excise taxes related to repurchases of common stock 5,043 3,416 569
+See accompanying notes to the consolidated financial statements.
+F-9
+Table of Contents
+DECKERS OUTDOOR CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+For the Fiscal Years Ended March 31, 2025, 2024, and 2023
+(amounts in thousands, except per share and share data)
+NOTE 1. GENERAL
+The Company. Deckers Outdoor Corporation and its wholly owned subsidiaries (collectively, the Company) is
+a global leader in designing, marketing, and distributing innovative footwear, apparel, and accessories developed for
+both everyday casual lifestyle use and high-performance activities. The Company’s five proprietary brands include
+UGG® (UGG), HOKA® (HOKA), Teva® (Teva), AHNU® (AHNU), and Koolaburra by UGG® (Koolaburra).
+The Company sells its products through quality domestic and international retailers, international distributors,
+and directly to global consumers through its Direct-to-Consumer (DTC) channel, which is comprised of an
+e-commerce and retail store presence. Independent third-party contractors manufacture all of the Company’s
+products.
+Recent Developments.

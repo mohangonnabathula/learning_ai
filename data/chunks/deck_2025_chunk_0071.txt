@@ -1,0 +1,62 @@
+income. Refer to Note 5, “Income Taxes,” for further information on tax impacts and
+components of tax balances in the consolidated financial statements.
+F-19
+Table of Contents
+DECKERS OUTDOOR CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+For the Fiscal Years Ended March 31, 2025, 2024, and 2023
+(amounts in thousands, except per share and share data)
+Comprehensive Income. Comprehensive income or loss is the total of net earnings and all other non-owner
+changes in equity. Comprehensive income or loss includes net income or loss, foreign currency translation
+adjustments, and unrealized gains and losses on cash flow hedges. Refer to Note 10, “Stockholders’ Equity,” for
+further information on components of OCI.
+Net Income per Share. Basic net income or loss per share represents net income or loss divided by the
+weighted-average number of common shares outstanding for the period. Diluted net income or loss per share
+represents net income or loss divided by the weighted-average number of shares outstanding, including the dilutive
+impact of potential issuances of common stock. Refer to Note 11, “Basic and Diluted Shares,” for a reconciliation of
+basic to diluted weighted-average common shares outstanding.
+NOTE 2. REVENUE RECOGNITION
+Disaggregated Revenue. Refer to Note 12, “Reportable Operating Segments,” and to Note 13, “Concentration
+of Business,” for further information on the Company’s disaggregation of revenue by reportable operating segment
+and by geographic location, respectively.
+Net sales by channel was as follows:
+Years Ended March 31,
+2025 2024 2023
+Wholesale $ 2,855,865 $ 2,432,307 $ 2,160,675
+Direct-to-Consumer 2,129,747 1,855,456 1,466,611
+Total $ 4,985,612 $ 4,287,763 $ 3,627,286
+Variable Consideration. Components of variable consideration include estimated allowance for sales
+discounts, allowance for chargebacks, and sales return asset and liability. Estimates for variable consideration are
+based on the amounts earned or estimates to be claimed as an adjustment to sales. Estimated variable
+consideration is included in the transaction price to the extent it is probable that a significant reversal of the
+cumulative revenue recognized will not occur in a future period.
+Allowance for Sales Discounts. The Company provides a trade accounts receivable allowance for sales
+discounts for wholesale channel sales, which reflects a discount that customers may take, generally based on
+meeting certain order, shipment or prompt payment terms. The Company uses the amount of the discounts that are
+available to be taken against the period end trade accounts receivable to estimate and record a corresponding
+reserve for sales discounts. Additions to the allowance are recorded against gross sales in the consolidated
+statements of comprehensive income.
+Allowance for Chargebacks. The Company provides a trade accounts receivable allowance for chargebacks
+for wholesale channel sales. When customers pay their invoices, they may take deductions against their invoices
+that can include chargebacks for price differences, markdowns, short shipments, and other reasons. Therefore, the
+Company records an allowance primarily for known circumstances as well as unknown circumstances based on
+historical trends related to the timing and amount of chargebacks taken against customer invoices. Additions to the
+allowance are recorded against gross sales or SG&A expenses in the consolidated statements of comprehensive
+income.
+Sales Return Asset and Liability. Reserves are recorded for anticipated future returns of goods shipped prior to
+the end of the reporting period. In general, the Company accepts returns for damaged or defective products for up
+to one year. The Company also has a policy whereby returns are generally accepted from customers and end
+consumers between 30 to 90 days from the point of sale for cash or credit.
+F-20
+Table of Contents
+DECKERS OUTDOOR CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+For the Fiscal Years Ended March 31, 2025, 2024, and 2023
+(amounts in thousands, except per share and share data)
+Sales returns are a refund asset for the right to recover the inventory and a refund liability for the stand-ready
+right of return. Changes to the refund asset for the right to recover the inventory are recorded against cost of sales
+and changes in the refund liability are recorded against gross sales in the consolidated statements of
+comprehensive income. The refund asset for the right to recover the inventory is recorded in other current assets
+and the related refund liability is recorded in other accrued expenses in the consolidated balance sheets. The
+amounts of these reserves are determined based on several factors, including known and actual returns, historical
+returns, and any recent events that could result in a change from historical return rates.

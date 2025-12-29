@@ -1,0 +1,56 @@
+d amount of the Primary Credit Facility, with the exact commitment fee based on the
+Company’s total net leverage ratio.
+Borrowing Activity. During the year ended March 31, 2025, the Company made no borrowings or repayments
+under the Primary Credit Facility. As of March 31, 2025, the Company has no outstanding balance, $955 of
+outstanding letters of credit, and available borrowings of $399,045 under the Primary Credit Facility.
+China Credit Facility. In October 2021, Deckers (Beijing) Trading Co., LTD (DBTC), a wholly owned
+subsidiary of the Company, entered into a credit agreement in China (as amended, the China Credit Facility) that
+provides for an uncommitted revolving line of credit of up to CNY300,000, or $41,338, with an overdraft facility
+sublimit of CNY100,000, or $13,779. The China Credit Facility is payable on demand and subject to annual review
+with a defined aggregate period of borrowing of up to 24 months, which was amended to increase from 12 months
+in November 2023. The obligations under the China Credit Facility are guaranteed by the Company for 108.5% of
+the facility amount in US dollars.
+Interest Rate Terms. Interest is based on the People’s Bank of China market rate multiplied by a variable
+liquidity factor. As of March 31, 2025, the effective interest rate is 3.40%.
+Borrowing Activity. During the year ended March 31, 2025, the Company made no borrowings or repayments
+under the China Credit Facility. As of March 31, 2025, the Company has no outstanding balance, outstanding bank
+guarantees of $455, and available borrowings of $40,883 under the China Credit Facility.
+Debt Covenants. Under the Credit Agreement, the Company is subject to usual and customary
+representations and warranties, and contains usual and customary affirmative and negative covenants, which
+include limitations on liens, additional indebtedness, investments, restricted payments, indemnification provisions in
+favor of the lenders and transactions with affiliates. The financial covenant requires the total net leverage ratio to be
+no greater than 3.75 to 1.00.
+Under the Credit Agreement, the Company is also subject to other customary limitations, as well as usual and
+customary events of default, which include non-payment of principal, interest, fees and other amounts; breach of a
+representation or warranty; non-performance of covenants and obligations; default on other material debt;
+bankruptcy or insolvency; material judgments; incurrence of certain material Employee Retirement Income Security
+Act of 1974 (ERISA) liabilities; and a change of control of the Company.
+Under the China Credit Facility, DBTC is subject to usual and customary representations and warranties, and
+usual and customary affirmative and negative covenants, which include limitations on liens and additional
+indebtedness.
+As of March 31, 2025, the Company is in compliance with all financial covenants under the Primary Credit
+Facility and China Credit Facility.
+NOTE 7. COMMITMENTS AND CONTINGENCIES
+Leases. The Company primarily leases retail stores, showrooms, offices, and distribution facilities under
+operating lease contracts which vary in lease terms but, in the aggregate, continue in effect through calendar year
+2035. Some of the Company’s operating leases contain extension options between one to 15 years. Historically, the
+Company has not entered into finance leases and its lease agreements generally do not contain residual value
+guarantees, options to purchase underlying assets, or material restrictive covenants.
+F-29
+Table of Contents
+DECKERS OUTDOOR CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+For the Fiscal Years Ended March 31, 2025, 2024, and 2023
+(amounts in thousands, except per share and share data)
+Variable Lease Payments. Certain leases require additional payments based on (1) actual or forecasted sales
+volume (either monthly or annually), (2) reimbursement for real estate taxes (tax), (3) common area maintenance
+(CAM), and (4) insurance (collectively, variable lease payments). Variable lease payments are generally excluded
+from operating lease assets and lease liabilities and are recorded in rent expense as a component of SG&A
+expenses in the consolidated statements of comprehensive income. Some leases are dependent upon forecasted
+annual sales volume, and lease payments are recognized on a straight-line basis as rent expense over each annual
+period when the achievement of the related sales target is reasonably likely to occur. Other variable lease
+payments, such as tax, CAM, and insurance, are recognized in rent expense as incurred. Some leases contain one
+fixed lease payment that include variable lease payments, which are considered non-lease components. The
+Company has elected to account for these instances as a single lease component and the total of these fixed
+payments is used to measure the operating lease assets and lease liabilities.
+Discount Rate.

@@ -1,0 +1,59 @@
+bligate us to acquire any amount of common stock and may be
+suspended at any time at our discretion.
+On May 21, 2025, our Board approved an additional authorization of $2,250,000 to repurchase shares of our
+common stock under the same conditions as the prior stock repurchase program.
+Refer to Note 10, “Stockholders’ Equity,” of our consolidated financial statements in Part IV within this Annual
+Report for further information regarding our stock repurchase program and capital allocation strategy.
+CASH FLOWS
+The following table summarizes the major components of our consolidated statements of cash flows for the
+periods presented:
+Years Ended March 31,
+2025 2024 Change
+Amount Amount Amount %
+Net cash provided by operating activities $ 1,044,523 $ 1,033,184 $ 11,339 1.1 %
+Net cash used in investing activities (75,003) (89,331) 14,328 16.0
+Net cash used in financing activities (581,334) (417,675) (163,659) (39.2)
+Effect of foreign currency exchange rates on
+cash and cash equivalents (1,049) (5,922) 4,873 82.3
+Net change in cash and cash equivalents $ 387,137 $ 520,256 $ (133,119) (25.6) %
+Operating Activities. Our primary source of liquidity is net cash provided by operating activities, which is
+driven by our net income after non-cash adjustments and changes in operating assets and liabilities.
+The increase in net cash provided by operating activities during the year ended March 31, 2025, compared to
+the prior period, was due to $217,349 of favorable net income after non-cash adjustments, partially offset by
+$206,010 of unfavorable changes in operating assets and liabilities. Changes in operating assets and liabilities were
+primarily due to (1) the impact on net trade accounts payable from timing of receipts of goods and services and
+respective disbursements, (2) higher purchases of inventory to support higher demand for our brands, (3) higher net
+trade accounts receivable on higher net sales, (4) timing of tax payments and receipts, and (5) favorable changes
+due to timing of derivative cash settlements.
+Investing Activities. The decrease in net cash used in investing activities during the year ended March 31,
+2025, compared to the prior period, was primarily due to an increase in cash proceeds from the sale of assets.
+Financing Activities. The increase in net cash used in financing activities during the year ended March 31,
+2025, compared to the prior period, was primarily due to a higher dollar value of stock repurchases, inclusive of
+excise taxes.
+46
+Table of Contents
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+Preparation of our consolidated financial statements in accordance with US GAAP requires management to
+make estimates and assumptions that affect the amounts reported. Management bases these estimates and
+assumptions upon historical experience, existing and known circumstances, authoritative accounting
+pronouncements, and other factors that it believes to be reasonable. In addition, management has considered the
+potential impact of macroeconomic factors, including changes in tariff rates, inflation, foreign currency exchange
+rate volatility, changes in interest rates, changes in commodity pricing, changes in consumer discretionary spending,
+and recessionary concerns, on our business and operations. Although the full impact of these factors is unknown,
+management believes it has made appropriate accounting estimates and assumptions based on the facts and
+circumstances available as of the reporting date. However, actual results could differ materially from these
+estimates and assumptions, which may result in material effects on our financial condition, results of operations and
+liquidity.
+We believe the following critical accounting estimates involve a significant level of estimation uncertainty and
+the balances have had or are reasonably likely to have a material impact on our financial condition or results of
+operations. Refer to Note 1, “General,” of our consolidated financial statements in Part IV within this Annual Report
+for further discussion of our significant accounting policies and use of estimates, as well as the impact of recent
+accounting pronouncements.
+Sales Returns and Chargebacks. Revenue is recognized net of estimates for sales returns, chargebacks,
+and sales discounts in the period in which the related sale is recorded. Estimates for sales returns and chargebacks
+are based on various factors as follows:
+Sales Return Liability. The amounts of these reserves are determined based on several factors, including
+known and actual returns, historical returns, and any recent events that could result in a change from historical
+return rates. For our wholesale channel, we base our estimate of sales returns on any approved customer requests
+for returns, historical returns experience, and any recent events that could result in a change from historical returns
+rates, among other factors.

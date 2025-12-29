@@ -1,0 +1,52 @@
+25,599 $ 302,122
+Depreciation was $67,579, $54,958, and $45,117 during the years ended March 31, 2025, 2024, and 2023,
+respectively.
+Operating Lease Assets and Lease Liabilities. The Company determines if an arrangement contains a lease at
+inception of a contract. The Company recognizes operating lease assets and lease liabilities in the consolidated
+balance sheets on the lease commencement date, based on the present value of the outstanding lease payments
+over the reasonably certain lease term. The lease term includes the non-cancelable period at the lease
+commencement date, plus any additional period covered by the Company’s option to extend (or not to terminate)
+the lease that is reasonably certain to be exercised, or an option to extend (or not to terminate) a lease that is
+controlled by the lessor.
+Operating lease assets are initially measured at cost, which comprises the initial amount of the associated
+lease liabilities, adjusted for lease payments made at or before the lease commencement date, plus any initial direct
+costs incurred, less any lease incentives, such as tenant allowances. Operating lease assets are subsequently
+F-14
+Table of Contents
+DECKERS OUTDOOR CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+For the Fiscal Years Ended March 31, 2025, 2024, and 2023
+(amounts in thousands, except per share and share data)
+measured throughout the lease term at the carrying amount of the associated lease liabilities, plus initial direct
+costs, plus or minus any prepaid or accrued lease payments, less the unamortized balance of lease incentives
+received. Operating lease assets and lease liabilities are presented separately in the consolidated balance sheets
+on a discounted basis. The current portion of operating lease liabilities is presented within current liabilities, while
+the long-term portion is presented separately as long-term operating lease liabilities. Refer to Note 7, “Commitments
+and Contingencies,” for further information on the discount rate methodology used to measure operating lease
+assets and lease liabilities.
+Rent expense for operating lease payments is recognized on a straight-line basis over the lease term and
+recorded in SG&A expenses in the consolidated statements of comprehensive income. Lease payments recorded in
+the operating lease liabilities (1) are fixed payments, including in-substance fixed payments and fixed rate
+increases, owed over the lease term and (2) exclude any lease prepayments as of the periods presented. Refer to
+Note 7, “Commitments and Contingencies,” for further information on the nature of variable lease payments and the
+timing of recognition of rent expense.
+The Company has elected not to recognize operating lease assets and lease liabilities for short-term leases,
+which are defined as those operating leases with a term of 12 months or less. Instead, lease payments for short-
+term leases are recognized on a straight-line basis over the lease term in rent expense and recorded as a
+component of SG&A expenses in the consolidated statements of comprehensive income.
+The Company monitors for events that require a change in estimates for its operating lease assets and lease
+liabilities, such as modifications to the terms of the contract, including the lease term, economic events that may
+trigger a contractual term contingency, such as minimum lease payments or termination rights, and related changes
+in discount rates used to measure the operating lease assets and lease liabilities, as well as events or
+circumstances that result in lease abandonment or operating lease asset impairments. When a change in estimates
+results in the remeasurement of the operating lease liabilities, a corresponding adjustment is made to the carrying
+amount of the operating lease assets. The operating lease assets are remeasured and amortized on a straight-line
+basis over the remaining lease term, with no impact on the related operating lease liabilities. Refer to the section
+titled “Recoverability of Definite-Lived Intangible and Other Long-Lived Assets” below, within this footnote, for further
+information on the Company’s accounting policy for evaluating the carrying amount of its operating lease assets and
+related leasehold improvements for indicators of impairment.
+Asset Retirement Obligations (AROs). The Company is contractually obligated under certain of its lease
+agreements to restore certain retail, office, and warehouse facilities back to their original conditions. At lease
+inception, the present value of the estimated fair value of these liabilities is recorded along with the related asset.
+The liability is estimated based on assumptions requiring management’s judgment, including facility closing costs
+and discount rates, and is accreted to its projected future value over the life of the asset.

@@ -1,0 +1,63 @@
+ the amount of the
+allowance by analyzing known uncollectible accounts, aged trade accounts receivable, economic conditions and
+forecasts, historical experience, and the customers’ creditworthiness. Trade accounts receivable that are
+subsequently determined to be uncollectible are charged or written off against this allowance. The allowance
+includes specific allowances for trade accounts, for which all or a portion are identified as potentially uncollectible
+based on known or anticipated losses. Additions to the allowance represent bad debt expense estimates which are
+recorded in SG&A expenses in the consolidated statements of comprehensive income.
+Inventories. Inventories, which are primarily comprised of finished goods on hand and in transit, are stated at
+the lower of cost (weighted moving average) or net realizable value at each financial statement date. Net realizable
+value is the estimated selling price in the ordinary course of business, less reasonably predictable costs to sell. The
+Company regularly reviews inventory for excess, obsolete, and impaired inventory to evaluate write-downs to the
+lower of cost or realizable value.
+Cloud Computing Arrangements (CCAs). The Company enters into various CCAs that are governed by service
+contracts (hosting arrangements) to support operations. Application development stage implementation costs
+(implementation costs) of a hosting arrangement are deferred and recorded to prepaid expenses and other assets
+in the consolidated balance sheets. Implementation costs are expensed on a straight-line basis and recorded in
+SG&A expenses in the consolidated statements of comprehensive income over the term of the hosting
+arrangement, including reasonably certain renewals, which are generally one to three years.
+F-13
+Table of Contents
+DECKERS OUTDOOR CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+For the Fiscal Years Ended March 31, 2025, 2024, and 2023
+(amounts in thousands, except per share and share data)
+As of March 31, 2025, net capitalized costs for CCAs are $6,031, with $2,167 recorded in prepaid expenses
+and $3,864 recorded in other assets in the consolidated balance sheets. As of March 31, 2024, net capitalized costs
+for CCAs are $4,537, with $1,534 recorded in prepaid expenses and $3,003 recorded in other assets in the
+consolidated balance sheets. Refer to the section titled “Recoverability of Definite-Lived Intangible and Other Long-
+Lived Assets” below, within this footnote, for detail on an impairment of a CCA recorded during the year ended
+March 31, 2025.
+Property and Equipment, Depreciation and Amortization. Property and equipment are stated at cost less
+accumulated depreciation and amortization, and generally have a useful life of at least one year. Property and
+equipment include tangible, non-consumable items owned by the Company. Software implementation costs are
+capitalized if they are incurred during the application development stage and relate to costs to obtain computer
+software from third parties, including related consulting expenses, or costs incurred to modify existing software that
+results in additional upgrades or enhancements that provide additional functionality.
+Depreciation of property and equipment is calculated using the straight-line method based on the estimated
+useful life. Leasehold improvements are amortized to their residual value, if any, on the straight-line basis over their
+estimated economic useful lives or the lease term, whichever is shorter. Changes in the estimate of the useful life of
+an asset may occur after an asset is placed in service. For example, this may occur as a result of the Company
+incurring costs that prolong the useful life of an asset, which would be recorded as an adjustment to depreciation
+over the revised remaining useful life. Depreciation and amortization are recorded in SG&A expenses in the
+consolidated statements of comprehensive income.
+Property and equipment, net, are summarized as follows:
+As of March 31,
+Useful Life
+(Years) 2025 2024
+Land Indefinite $ 32,864 $ 32,864
+Building 39.5 41,099 40,058
+Machinery and equipment 1-10 282,838 263,200
+Furniture and fixtures 3-7 47,464 41,336
+Computer software 3-10 139,412 130,688
+Leasehold improvements 1-11 137,806 128,356
+Construction in progress 47,080 14,758
+Gross property and equipment 728,563 651,260
+Less accumulated depreciation and amortization (402,964) (349,138)
+Total $ 325,599 $ 302,122
+Depreciation was $67,579, $54,958, and $45,117 during the years ended March 31, 2025, 2024, and 2023,
+respectively.
+Operating Lease Assets and Lease Liabilities. The Company determines if an arrangement contains a lease at
+inception of a contract. The Company recognizes operating lease assets and lease liabilities in the consolidated
+balance sheets on the lease commencement date, based on the present value of the outstanding lease payments
+over the reasonably certain lease term.

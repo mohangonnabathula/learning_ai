@@ -1,0 +1,51 @@
+hanging business
+needs, or if we or our third-party providers experience a failure in these systems, our ability to accurately forecast
+sales, report our financial position and results of operations, or otherwise manage and operate our business could
+be adversely affected.
+The frequency, intensity, and sophistication of cyber and data security incidents have significantly increased in
+recent years. Like other businesses, we have experienced, and are continually at risk of, attacks and incidents. Our
+risk and exposure to these matters remains heightened because of, among other things, the evolving nature of
+these threats, the current global economic and political environment, our prominent size and scale, the advances in
+computer capabilities and AI, and the interconnectivity and interdependence of third parties to our systems. We
+22
+Table of Contents
+expend significant resources on IT and data security tools, and processes designed to protect our IT systems and
+information, and to ensure an effective response to any attack or incident. Whether these measures are successful,
+these expenditures could adversely affect on our financial condition and results of operations.
+Although we take the security of our IT systems seriously, there can be no assurance the measures we employ
+will prevent unauthorized access to our systems and information. Because the techniques used to obtain
+unauthorized access to IT systems are constantly evolving, we may be unable to anticipate these techniques or
+implement adequate protective measures in response. Cyber-attacks or data incidents could remain undetected for
+some period, which could result in significant harm to our systems, as well as unauthorized access to the
+information stored on and transmitted by our systems. A cyber-attack or other data security incident could result in
+significant disruption of our business such that:
+• critical business systems become inoperable or require considerable time or cost to restore;
+• personnel are unable to perform their duties or communicate with third-party partners;
+• it results in the loss, theft, misuse, or unauthorized disclosure of confidential information;
+• we are prevented from accessing information necessary to conduct our business;
+• we are required to make unanticipated investments in equipment, technology, or security measures;
+• customers cannot place or receive orders, and we are unable to timely ship orders or at all; or
+• we become subject to other unanticipated liabilities, costs, or claims.
+If any of these events were to occur, it could have a material adverse effect on our financial condition and
+results of operations and result in harm to our reputation. In addition, a cyber-attack or other data incident could put
+us at a competitive disadvantage, result in the deterioration of our customers’ confidence in our brands, cause our
+suppliers to reconsider their relationship with us or impose onerous contractual provisions, and subject us to
+litigation, liability, fines, and penalties. We could be subject to regulatory or other actions pursuant to domestic and
+international privacy laws, which could result in costly investigations and litigation, civil or criminal penalties,
+operational changes, and negative publicity that could adversely affect our reputation, as well as our results of
+operations and financial condition.
+If we are found to have violated laws concerning the privacy and security of consumers’ or other
+individuals’ personal information, we could be subject to civil or criminal penalties, which could increase
+our liabilities and harm our reputation or our business.
+There are a number of laws protecting the privacy and security of personal information and increased scrutiny
+by regulators, such as the Federal Trade Commission, and state attorneys general focused on our industry. Such
+laws include the California Consumer Privacy Act and California Privacy Rights Act, the EU’s General Data
+Protection Regulation and member state directives, Canada’s Personal Information Protection and Electronic
+Documents Acts, and China’s Personal Information Protection Law, and limit how we may collect, use, share and
+store personal information, and they impose obligations to protect that information. Further, we may be subject to
+new data privacy and security laws and regulations. If we, or any of our service providers who have access to the
+personal data for which we are responsible, are found to be in violation of the privacy or security requirements of
+applicable data protection laws, we could be subject to civil or criminal penalties, which could increase our liabilities,
+harm our reputation, and have a material adverse effect on our business, financial condition, and results of
+operations. Although we utilize a variety of measures to secure the data that we control, even compliant entities can
+experience security breaches or have inadvertent failures despite employing reasonable practices and safeguards.

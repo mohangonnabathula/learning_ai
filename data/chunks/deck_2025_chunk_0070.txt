@@ -1,0 +1,53 @@
+ir value of long-term incentive plan performance-
+based stock units (LTIP PSUs) is estimated as of the grant date using a Monte Carlo simulation.
+Determining the fair value and related expense of stock-based compensation requires judgment, including
+estimating the percentage of awards that will be forfeited and probabilities of meeting the awards’ performance
+criteria, as well as the Company’s reliance on the closing price of its stock on the New York Stock Exchange at or
+near the time of grant. If actual forfeitures differ significantly from the estimates or if probabilities change during a
+period, stock-based compensation expense and the Company’s results of operations could be materially impacted.
+Refer to Note 8, “Stock-Based Compensation,” for further information on grant activity, types of awards, and
+additional disclosure related to stock-based compensation.
+Retirement Plan. The Company provides a 401(k) defined contribution plan that eligible US employees may
+elect to participate in through tax-deferred contributions or other deferrals. The Company matches 50% of each
+eligible participant’s deferrals on up to 6% of eligible compensation. Internationally, the Company has various
+defined contribution plans. Certain international locations require mandatory contributions under social programs,
+and the Company contributes at least the statutory minimums. US 401(k) matching contributions totaled $6,528,
+$5,129, and $4,433 during the years ended March 31, 2025, 2024, and 2023, respectively, and were recorded in
+SG&A expenses in the consolidated statements of comprehensive income. In addition, the Company may also
+make discretionary profit-sharing contributions to the plan. However, there were no Company profit-sharing
+contributions for the years ended March 31, 2025, 2024, and 2023.
+Non-qualified Deferred Compensation. The Company sponsors an unfunded, non-qualified deferred
+compensation plan (NQDC Plan) that provides certain members of its management team the opportunity to defer
+compensation into the NQDC Plan. The NQDC Plan year is from January 1st to December 31st. Participants may
+defer up to 50% of their annual base salary and up to 85% of any cash incentive bonus under the NQDC Plan. The
+Company has established a rabbi trust as a reserve for the benefits payable under the NQDC Plan. Deferred
+compensation is recognized based on the fair value of the participants’ accounts. Refer to Note 4, “Fair Value
+Measurements,” for further information on the fair value of deferred compensation assets and liabilities.
+Self-Insurance. The Company is self-insured for a significant portion of its employee medical, including
+pharmacy, and dental liability exposures. Liabilities for self-insured exposures are accrued for the amounts expected
+to be paid based on historical claims experience and actuarial data for forecasted settlements of claims filed and for
+incurred but not yet reported claims. Accruals for self-insured exposures are included in accrued payroll in the
+consolidated balance sheets. Excess liability insurance has been purchased to limit the amount of self-insured risk
+on claims.
+Income Taxes. Income taxes are accounted for under the asset and liability method. Deferred tax assets and
+liabilities are recognized for the future tax consequences attributable to net operating loss carryforwards and
+temporary differences between the financial statement carrying amounts of existing assets and liabilities and their
+respective tax bases. Deferred tax assets and liabilities are measured using enacted tax rates expected to apply to
+taxable income during the years in which those temporary differences are expected to be recovered or settled. The
+effect on deferred taxes of a change in tax rates is recorded in the consolidated statements of comprehensive
+income in the period that includes the enactment date.
+The Company recognizes the effect of income tax positions in the consolidated financial statements only if
+those positions are more likely than not to be sustained upon examination. Recognized income tax positions are
+measured at the largest amount of tax benefit that is more than 50% likely to be realized upon settlement. Changes
+in recognition or measurement are recorded in the period in which the change in judgment occurs. The Company
+records interest and penalties accrued for income tax contingencies as interest expense in the consolidated
+statements of comprehensive income. Refer to Note 5, “Income Taxes,” for further information on tax impacts and
+components of tax balances in the consolidated financial statements.
+F-19
+Table of Contents
+DECKERS OUTDOOR CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+For the Fiscal Years Ended March 31, 2025, 2024, and 2023
+(amounts in thousands, except per share and share data)
+Comprehensive Income. Comprehensive income or loss is the total of net earnings and all other non-owner
+changes in equity.

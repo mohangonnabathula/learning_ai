@@ -19,10 +19,10 @@ from typing import Optional, List, Tuple
 # ----------------------
 RAW_TXT_DIR = Path("/Users/mohangonnabathula/Desktop/learning_ai/data/extracted_text/Deckers/annual_reports/raw_txt")
 FINANCIALS_OUTPUT_DIR = Path("/Users/mohangonnabathula/Desktop/learning_ai/data/extracted_text/Deckers/annual_reports/financials")
-OLLAMA_MODEL = "llama3"  # Using LLaMA 3 as requested (try "llama3.2" or "phi3" for faster responses)
+OLLAMA_MODEL = "llama3"  # Using LLaMA 3 as requested (try "llama3.2", "mistral", or "phi3" for faster responses)
 CHUNK_SIZE = 200  # Characters per chunk for classification
-TIMEOUT_SECONDS = 30  # Timeout per attempt (reduced, with retries)
-MAX_RETRIES = 3  # Number of retry attempts for failed classifications
+TIMEOUT_SECONDS = 120  # Timeout per attempt (LLaMA 3 can be slow on first run; set to 60-120s)
+MAX_RETRIES = 5  # Number of retry attempts for failed classifications
 
 
 # ----------------------
@@ -110,7 +110,7 @@ Text excerpt:
 
 Your response (one word only):"""
 
-    # Retry logic
+    # Retry logic with exponential backoff
     for attempt in range(MAX_RETRIES):
         try:
             result = subprocess.run(
@@ -124,8 +124,9 @@ Your response (one word only):"""
             if result.returncode != 0:
                 error_msg = result.stderr.decode('utf-8') if isinstance(result.stderr, bytes) else str(result.stderr)
                 if attempt < MAX_RETRIES - 1:
-                    print(f"    ⚠️  Ollama error (attempt {attempt + 1}/{MAX_RETRIES}), retrying...")
-                    time.sleep(1)  # Brief pause before retry
+                    backoff = 2 ** attempt  # Exponential backoff: 1, 2, 4, 8, 16 seconds
+                    print(f"    ⚠️  Ollama error (attempt {attempt + 1}/{MAX_RETRIES}), retrying in {backoff}s...")
+                    time.sleep(backoff)
                     continue
                 else:
                     print(f"    ⚠️  Ollama error after {MAX_RETRIES} attempts: {error_msg}")
@@ -138,8 +139,9 @@ Your response (one word only):"""
                 return normalized
             else:
                 if attempt < MAX_RETRIES - 1:
-                    print(f"    ⚠️  Unexpected response (attempt {attempt + 1}/{MAX_RETRIES}), retrying...")
-                    time.sleep(1)
+                    backoff = 2 ** attempt
+                    print(f"    ⚠️  Unexpected response (attempt {attempt + 1}/{MAX_RETRIES}), retrying in {backoff}s...")
+                    time.sleep(backoff)
                     continue
                 else:
                     print(f"    ⚠️  Unexpected response after {MAX_RETRIES} attempts: '{response}'")
@@ -147,8 +149,9 @@ Your response (one word only):"""
                 
         except subprocess.TimeoutExpired:
             if attempt < MAX_RETRIES - 1:
-                print(f"    ⚠️  Timeout (attempt {attempt + 1}/{MAX_RETRIES}), retrying...")
-                time.sleep(2)  # Longer pause after timeout
+                backoff = 2 ** attempt
+                print(f"    ⚠️  Timeout (attempt {attempt + 1}/{MAX_RETRIES}), retrying in {backoff}s...")
+                time.sleep(backoff)
                 continue
             else:
                 print(f"    ⚠️  Classification timeout after {MAX_RETRIES} attempts")
@@ -158,8 +161,9 @@ Your response (one word only):"""
             return None
         except Exception as e:
             if attempt < MAX_RETRIES - 1:
-                print(f"    ⚠️  Error (attempt {attempt + 1}/{MAX_RETRIES}): {e}, retrying...")
-                time.sleep(1)
+                backoff = 2 ** attempt
+                print(f"    ⚠️  Error (attempt {attempt + 1}/{MAX_RETRIES}): {e}, retrying in {backoff}s...")
+                time.sleep(backoff)
                 continue
             else:
                 print(f"    ⚠️  Error classifying chunk after {MAX_RETRIES} attempts: {e}")

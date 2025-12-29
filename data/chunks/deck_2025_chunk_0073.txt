@@ -1,0 +1,44 @@
+7,032) (50,988)
+Total accumulated amortization and impairments (25,014) (91,314)
+Definite-lived intangible assets, net 245 11,629
+Total other intangible assets, net $ 15,699 $ 27,083
+(1) The change in the March 31, 2025, balances, when compared to March 31, 2024, is primarily due to the sale of the
+Sanuk brand during fiscal year 2025.
+(2) As of March 31, 2025, and 2024, total goodwill is made up of $6,101 and 7,889 of UGG brand and HOKA brand
+reportable operating segments goodwill, respectively.
+Definite-lived amortization expense was $847, $2,208, and $2,228 for the years ended March 31, 2025, 2024,
+and 2023, respectively.
+Based on the evaluation of qualitative and quantitative factors, including the asset carrying amounts recorded
+in the consolidated balance sheets against actual results of operations and long-term forecasts of net sales and
+operating income, no impairment loss was recorded for goodwill and indefinite-lived intangible assets during the
+years ended March 31, 2025, 2024, and 2023.
+F-22
+Table of Contents
+DECKERS OUTDOOR CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+For the Fiscal Years Ended March 31, 2025, 2024, and 2023
+(amounts in thousands, except per share and share data)
+No definite-lived intangible asset triggering events were identified during the years ended March 31, 2025, and
+2023. During the year ended March 31, 2024, an impairment loss of $8,164 was recorded within the Other brands
+reportable operating segment in SG&A expenses in the consolidated statements of comprehensive income for the
+Sanuk brand definite-lived trademark, driven by lower-than-expected results of operations for the wholesale channel
+that resulted in the carrying value exceeding the estimated fair value, which was determined based on an estimate
+of the future discounted cash flows.
+NOTE 4. FAIR VALUE MEASUREMENTS
+The accounting standard for fair value measurements provides a framework for measuring fair value, which is
+defined as the price that would be received for an asset or the exit price that would be paid to transfer a liability in
+the principal or most advantageous market in an orderly transaction between market participants on the
+measurement date. The fair value hierarchy under this accounting standard requires an entity to maximize the use
+of observable inputs, where available.
+The following summarizes the three levels of inputs required:
+• Level 1: Quoted prices in active markets for identical assets and liabilities.
+• Level 2: Observable inputs other than quoted prices in active markets for identical assets and
+liabilities.
+• Level 3: Unobservable inputs in which little or no market activity exists, therefore requiring the
+Company to develop its own assumptions.
+The carrying amount of the Company’s financial instruments, which principally include cash and cash
+equivalents, trade accounts receivable, net, trade accounts payable, accrued payroll, and other accrued expenses,
+approximates fair value due to their short-term nature. When the Company makes short-term borrowings, the
+carrying amounts, which are considered Level 2 liabilities, approximate fair value based upon current rates and
+terms available to the Company for similar debt. The Company does not currently have any Level 3 assets or
+liabilities.

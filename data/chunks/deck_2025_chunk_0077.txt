@@ -1,0 +1,55 @@
+ With few exceptions, the Company is no
+longer subject to US federal, state, local, or foreign income tax examinations by tax authorities before fiscal year
+2021.
+Although the Company believes its tax estimates are reasonable and prepares its tax filings in accordance with
+all applicable tax laws, the final determination with respect to any tax audits, and any related litigation, could be
+materially different from the Company’s estimates or from its historical income tax provisions and accruals. The
+results of an audit or litigation could have a material impact on results of operations or cash flows in the periods for
+which that determination is made. In addition, future period earnings may be adversely impacted by litigation costs,
+settlements, penalties, or interest assessments. However, management does not currently expect any such audits
+and inquiries to have a material impact on the Company’s consolidated financial statements.
+NOTE 6. REVOLVING CREDIT FACILITIES
+Primary Credit Facility. In December 2022, the Company refinanced in full and terminated its prior credit
+agreement originally entered into in September 2018. The refinanced revolving credit facility agreement is with
+Citibank, N.A. (Citibank), as administrative agent, Comerica Bank, as sole syndication agent, and the lenders party
+thereto (Credit Agreement). The Credit Agreement provides for a five-year, $400,000 unsecured revolving credit
+facility (Primary Credit Facility), contains a $25,000 sublimit for the issuance of letters of credit, and matures on
+December 19, 2027, subject to extension on early termination as described in the Credit Agreement.
+In addition to allowing borrowings in US dollars, the Primary Credit Facility provides a $175,000 sublimit for
+borrowings in Euros, Sterling, Canadian dollars, and any other foreign currency that is subsequently approved by
+Citibank, each lender, and each bank issuing letters of credit. Subject to customary conditions, the Company has
+the option to increase the maximum principal amount available up to an additional $300,000, resulting in a
+maximum available principal amount of $700,000. However, none of the lenders have committed at this time to
+provide any such increase in the commitment.
+The obligations of the Company and each other borrower under the Primary Credit Facility are guaranteed by
+the Company’s existing and future wholly owned domestic subsidiaries that meet certain materiality thresholds,
+subject to limited exceptions. All obligations under the Primary Credit Facility and the foregoing guaranty are
+unsecured, and amounts borrowed may be prepaid at any time without a premium or penalty, subject to limited
+exceptions.
+Certain of the Company’s foreign subsidiaries may also borrow under the Primary Credit Facility, which permits
+the Company, subject to customary conditions, to designate one or more additional subsidiaries organized in foreign
+jurisdictions to borrow. The Company is liable for the obligations of each foreign borrower, but the obligations of the
+foreign borrowers are several (not joint) in nature.
+Interest Rate Terms. At the Company’s election, revolving loans issued under the Primary Credit Facility will
+bear interest at the adjusted term SOFR, the adjusted Euro InterBank Offered Rate (EURIBOR), the Sterling
+Overnight Index Average (SONIA), the Canadian Dollar Offered Rate (CDOR), or the adjusted Alternate Base Rate
+(ABR), in each case plus the applicable interest rate margin.
+Interest for borrowings in US dollars will fluctuate between SOFR, plus 1.00% and 0.10% based on the
+Company’s total net leverage ratio, and ABR, plus 0% per annum. The applicable interest rate margin is based on a
+pricing grid based on the Company’s total net leverage ratio and ranges from 1.00% to 1.625% per annum in the
+case of loans based on the SOFR, EURIBOR, SONIA, or CDOR, and from 0.00% to 0.625% per annum in the case
+of loans based on ABR. As of March 31, 2025, the effective interest rates for SOFR and ABR are 5.40% and 7.50%,
+respectively.
+F-28
+Table of Contents
+DECKERS OUTDOOR CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+For the Fiscal Years Ended March 31, 2025, 2024, and 2023
+(amounts in thousands, except per share and share data)
+Commitment Fees. The Company is required to pay a fee rate that fluctuates between 0.125% and 0.20% per
+annum on the daily unused amount of the Primary Credit Facility, with the exact commitment fee based on the
+Company’s total net leverage ratio.
+Borrowing Activity. During the year ended March 31, 2025, the Company made no borrowings or repayments
+under the Primary Credit Facility. As of March 31, 2025, the Company has no outstanding balance, $955 of
+outstanding letters of credit, and available borrowings of $399,045 under the Primary Credit Facility.
+China Credit Facility. In October 2021, Deckers (Beijing) Trading Co.

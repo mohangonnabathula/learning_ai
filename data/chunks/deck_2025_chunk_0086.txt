@@ -1,0 +1,76 @@
+36.1 %
+F-38
+Table of Contents
+DECKERS OUTDOOR CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+For the Fiscal Years Ended March 31, 2025, 2024, and 2023
+(amounts in thousands, except per share and share data)
+Year Ended March 31, 2023 UGG HOKA Other Brands Total
+Net sales $ 1,929,211 $ 1,412,916 $ 285,159 $ 3,627,286
+Less: Cost of sales (1) 975,585 641,240 185,091 1,801,916
+Segment gross profit 953,626 771,676 100,068 1,825,370
+Segment gross margin 49.4 % 54.6 % 35.1 % 50.3 %
+Less: (1)
+Payroll and related costs 109,576 57,446 15,266 182,288
+Advertising, marketing, and promotion 114,652 135,590 20,898 271,140
+expenses
+Rent and occupancy 69,302 9,033 453 78,788
+Depreciation and other related costs (2) 10,623 2,272 1,866 14,761
+Other segment items (3) 77,004 38,877 12,083 127,964
+Segment SG&A expenses 381,157 243,218 50,566 674,941
+Segment income from operations $ 572,469 $ 528,458 $ 49,502 $ 1,150,429
+Segment operating margin 29.7 % 37.4 % 17.4 % 31.7 %
+(1) The significant expense categories and amounts align with the segment-level information that is regularly provided to the
+CODM.
+(2) Depreciation and other related costs generally includes depreciation of property and equipment, amortization and
+impairment of intangible assets or other-long lived assets, accretion, loss on disposal of assets, and other miscellaneous
+costs. During the year ended March 31, 2024, the Company recorded an impairment to intangible assets of $8,164 for the
+Sanuk brand definite-lived trademark. Refer to Note 3, “Goodwill and Other Intangible Assets,” for further information on the
+impairment loss.
+(3) Other segment items are comprised of other SG&A expenses, which primarily includes credit card fees, commissions,
+materials and supplies, travel, and certain 3PL service fees.
+A reconciliation of reportable segment income from operations to consolidated statements of comprehensive
+income was as follows:
+Years Ended March 31,
+2025 2024 2023
+Segment income from operations $ 1,885,956 $ 1,547,595 $ 1,150,429
+Unallocated enterprise and shared brand expenses (1) (706,864) (620,081) (497,678)
+Total other income, net 64,207 51,427 13,331
+Consolidated income before income taxes $ 1,243,299 $ 978,941 $ 666,082
+(1) To the extent that consolidated SG&A expenses exceed reportable operating segment SG&A expenses, the costs are
+recorded in unallocated enterprise and shared brand expenses, which are costs that are managed centrally and not
+specific to any one brand. The change in reportable operating segments had an impact on segment income from
+operations, a measure of segment profitability, and a clarification was made that certain prior unallocated overhead costs
+are defined as unallocated enterprise and shared brand expenses and are excluded from the measure of segment
+profitability.
+F-39
+Table of Contents
+DECKERS OUTDOOR CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+For the Fiscal Years Ended March 31, 2025, 2024, and 2023
+(amounts in thousands, except per share and share data)
+NOTE 13. CONCENTRATION OF BUSINESS
+Regions and Customers. The Company sells its products globally to customers and consumers, with net
+sales concentrations as follows:
+Years Ended March 31,
+2025 2024 2023
+International net sales $ 1,798,903 $ 1,424,089 $ 1,175,789
+% of net sales 36.1 % 33.2 % 32.4 %
+Net sales in foreign currencies $ 1,376,782 $ 1,105,057 $ 832,632
+% of net sales 27.6 % 25.8 % 23.0 %
+Ten largest global customers as % of net sales 23.7 % 24.2 % 25.2 %
+For the years ended March 31, 2025, 2024, and 2023, no single foreign country and no single global customer
+comprised 10.0% or more of the Company’s total net sales.
+As of March 31, 2025, the Company has one customer that represents 13.6% of trade accounts receivable,
+net, compared to two customers that in total represented 31.2% of trade accounts receivable, net, as of March 31,
+2024. Management performs regular evaluations concerning the ability of the Company’s customers to satisfy their
+obligations to the Company and recognizes an allowance for doubtful accounts based on these evaluations.
+Cash and Cash Equivalents. The Company maintains a portion of its cash in Federal Deposit Insurance
+Corporation insured bank deposit accounts which, at times, may exceed federally insured limits. To date, the
+Company has not experienced any losses in such accounts. Based on the size and strength of the banking
+institutions used, the Company does not believe it is exposed to any significant credit risks in cash.
+Designated Suppliers. The Company outsources the production of its finished goods to independent
+manufacturers, which are primarily located in Southeast Asia, predominately in Vietnam. The majority of the raw
+materials and components used in the production of the Company’s products by its independent manufacturers are
+purchased from designated suppliers, who work with other subcontractors that extract, process, or convert these
+raw materials.

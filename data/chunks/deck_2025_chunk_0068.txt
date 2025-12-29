@@ -1,0 +1,53 @@
+s
+or less to manage foreign currency risk and certain of these derivative contracts are designated as cash flow
+hedges of forecasted sales (Designated Derivative Contracts). The Company may also enter into derivative
+contracts that are not designated as cash flow hedges (Non-Designated Derivative Contracts), to offset a portion of
+anticipated gains and losses on certain intercompany balances until the expected time of repayment. The Company
+does not use derivative contracts for trading purposes.
+The notional amounts of outstanding Designated and Non-Designated Derivative Contracts are recorded at fair
+value measured using Level 2 fair value inputs, consisting of quoted forward spot rates from counterparties at the
+end of the applicable periods, which are corroborated by market-based pricing, with related assets and liabilities
+recorded in other current assets and other accrued expenses, respectively, in the consolidated balance sheets. The
+after-tax unrealized gains or losses from changes in fair value of Designated Derivative Contracts are recorded as a
+component of accumulated other comprehensive loss (AOCL) in the consolidated balance sheets and are
+reclassified to net sales in the consolidated statements of comprehensive income in the same period or periods as
+the related sales are recognized. When it is probable that a forecasted transaction will not occur, the Company
+discontinues hedge accounting and the accumulated gains or losses in AOCL related to the hedging relationship are
+immediately recorded in OCI in the consolidated statements of comprehensive income. The Company includes all
+hedge components in its assessment of effectiveness for its derivative contracts. Refer to Note 4, “Fair Value
+Measurements,” for further information on the fair value of derivative instruments.
+Changes in the fair value of Non-Designated Derivative Contracts are recorded in SG&A expenses in the
+consolidated statements of comprehensive income. The changes in fair value for these contracts are generally
+offset by the remeasurement gains or losses associated with the underlying foreign currency-denominated
+intercompany balances, which are recorded in SG&A expenses in the consolidated statements of comprehensive
+income.
+The Company generally enters into over-the-counter derivative contracts with high-credit-quality
+counterparties, and therefore, considers the risk that counterparties fail to perform according to the terms of the
+contract as low. The Company factors the nonperformance risk of the counterparties into the fair value
+measurements of its derivative contracts. Refer to Note 9, “Derivative Instruments,” for further information on the
+impact of derivative instruments and hedging activities.
+Stock Repurchase Program. Repurchased shares of the Company’s common stock are retired. The par value
+of repurchased shares is deducted from common stock and the excess repurchase price over par value as well as
+the portion due for excise taxes, is allocated to retained earnings in the consolidated balance sheets. Refer to Note
+10, “Stockholders’ Equity,” for further information on the Company’s stock repurchase program.
+F-17
+Table of Contents
+DECKERS OUTDOOR CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+For the Fiscal Years Ended March 31, 2025, 2024, and 2023
+(amounts in thousands, except per share and share data)
+Revenue Recognition. Revenue is recognized when a performance obligation is completed at a point in time
+and when the customer has obtained control. Control passes to the customer when they have the ability to direct
+the use of and obtain substantially all the remaining benefits from the goods transferred. The amount of revenue
+recognized is based on the transaction price, which represents the invoiced amount less known actual amounts or
+estimates of variable consideration. The Company recognizes revenue and measures the transaction price net of
+taxes, including sales taxes, use taxes, value-added taxes, and some types of excise taxes, collected from
+customers and remitted to governmental authorities. The Company presents revenue gross of fees and sales
+commissions. Sales commissions are expensed as incurred and are recorded in SG&A expenses in the
+consolidated statements of comprehensive income. The Company’s customer contracts do not have a significant
+financing component due to their short durations, which are typically effective for one year or less and have
+payment terms that are generally 30 to 60 days.
+Wholesale and international distributor revenue is recognized either when products are shipped or when
+delivered, depending on the applicable contract terms. Retail store and e-commerce revenue transactions are
+recognized at the point of sale and upon shipment, respectively. Shipping and handling costs paid to third-party
+shipping companies are recorded as cost of sales in the consolidated statements of comprehensive income.

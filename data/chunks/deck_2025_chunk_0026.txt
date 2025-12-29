@@ -1,0 +1,44 @@
+inue to expand our international operations, our sales and expenditures
+in foreign currencies are expected to become increasingly material and subject to foreign currency exchange rate
+fluctuations. A significant portion of our international operating expenses are paid in local currencies and our foreign
+distributors typically sell our products in local currency, which affects the price to foreign consumers. Many of our
+subsidiaries operate with their local currency as their functional currency. Future foreign currency exchange rate
+fluctuations and global credit markets may cause changes in the US dollar value of our purchases or sales and
+materially affect our sales, gross margin, and results of operations, when converted to US dollars. Changes in the
+value of the US dollar, relative to other currencies, could result in material foreign currency exchange rate
+fluctuations and, as a result, our net earnings could be materially adversely affected. When the US dollar
+strengthens relative to foreign currencies, our revenues and profits denominated in foreign currencies are reduced
+when converted into US dollars and our margins may be negatively affected. We routinely utilize foreign currency
+exchange rate forward contracts or other derivative instruments for the amounts we expect to purchase and sell in
+foreign currencies to mitigate exposure to foreign currency exchange rate fluctuations. As we continue to expand
+international operations and increase purchases and sales in foreign currencies, we may utilize additional derivative
+instruments to hedge our foreign currency exchange rate risk. Our hedging strategies depend on our forecasts of
+sales, expenses, and cash flows, which are inherently subject to inaccuracies. Foreign currency exchange rate
+hedges, transactions, remeasurements, or translations could materially affect our consolidated financial statements.
+RISKS RELATED TO TECHNOLOGY, DATA SECURITY AND PRIVACY
+A security breach or disruption to our IT systems could materially harm our business, disrupt our
+operations, or result in unauthorized disclosure of sensitive information, which could damage our
+relationships, expose us to litigation or regulatory proceedings, or harm our reputation, any of which could
+materially adversely affect our business and results of operations.
+We store and transmit a significant amount of sensitive information, including the personal information of our
+customers and employees, credit card information, and our proprietary financial, operational, and strategic
+information. The loss, theft, misuse, or unauthorized disclosure or access to such information could lead to
+significant reputation or competitive harm, result in litigation, expose us to regulatory proceedings, and cause us to
+incur substantial losses. As a result, we believe our future success and growth depends, in part, on the ability of our
+systems, including those utilizing artificial intelligence (AI) such as generative AI, to prevent the theft, loss, misuse,
+or unauthorized access of this information, and to respond quickly and effectively if data security incidents occur.
+Data privacy and security incidents may prevent us from maintaining the privacy of this information, result in the
+disruption of our business, and require us to expend significant resources to secure such information and respond
+to incidents, any of which could materially adversely affect our business, financial condition, or results of operations.
+Our success also depends in part on the continued operation of our key business processes, including our IT
+and global communications systems. We rely on third-party IT service providers for many of our worldwide IT
+functions, including network, hardware, and software configuration, and on internal networks to support business
+processes. Any disruption to these systems or networks could, among other things, delay product fulfillment, impede
+personnel from performing their duties, adversely impact sales, and expose us to significant costs. Further, we could
+experience information silos and inefficiencies across our organization if we do not invest in appropriate operational
+systems and processes. If we are unable to structure our systems and processes to respond to changing business
+needs, or if we or our third-party providers experience a failure in these systems, our ability to accurately forecast
+sales, report our financial position and results of operations, or otherwise manage and operate our business could
+be adversely affected.
+The frequency, intensity, and sophistication of cyber and data security incidents have significantly increased in
+recent years. Like other businesses, we have experienced, and are continually at risk of, attacks and incidents.
