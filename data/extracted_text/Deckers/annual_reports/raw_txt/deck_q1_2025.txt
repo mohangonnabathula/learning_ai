@@ -1,0 +1,1867 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 10-Q
+(Mark One)
+☒ Quarterly Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+For the Quarterly Period Ended June 30, 2024
+OR
+☐ Transition Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+For the transition period from to
+Commission File Number: 001-36436
+DECKERS OUTDOOR CORPORATION
+(Exact name of registrant as specified in its charter)
+Delaware 95-3015862
+(State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.)
+250 Coromar Drive, Goleta, California 93117
+(Address of principal executive offices and zip code)
+(805) 967-7611
+(Registrant’s telephone number, including area code)
+Securities registered pursuant to Section 12(b) of the Act:
+Trading
+Title of each class Symbol(s) Name of each exchange on which registered
+Common Stock, par value $0.01 per share DECK New York Stock Exchange
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the
+preceding 12 months (or for such shorter period that the registrant was required to file such reports) and (2) has been subject to such filing requirements for the past 90
+days. Yes ☒ No ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation
+S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒ No ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging
+growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the
+Exchange Act.
+Large accelerated filer ☒ Accelerated filer ☐
+Non-accelerated filer ☐ Smaller reporting company ☐
+Emerging growth company ☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised
+financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐ No ☒
+As of the close of business on July 11, 2024, the number of outstanding shares of the registrant’s common stock, par value $0.01 per share, was 25,410,572.
+DECKERS OUTDOOR CORPORATION AND SUBSIDIARIES
+For the Three Months Ended June 30, 2024, and 2023
+TABLE OF CONTENTS
+Page
+Cautionary Note Regarding Forward-Looking Statements 2
+PART I - Financial Information
+Item 1. Financial Statements
+Condensed Consolidated Balance Sheets (Unaudited) 4
+Condensed Consolidated Statements of Comprehensive Income (Unaudited) 5
+Condensed Consolidated Statements of Stockholders’ Equity (Unaudited) 6
+Condensed Consolidated Statements of Cash Flows (Unaudited) 7
+Notes to Condensed Consolidated Financial Statements (Unaudited) 9
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations 20
+Item 3. Quantitative and Qualitative Disclosures About Market Risk 29
+Item 4. Controls and Procedures 29
+PART II - Other Information
+Item 1. Legal Proceedings 30
+Item 1A. Risk Factors 30
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 31
+Item 3. Defaults Upon Senior Securities *
+Item 4. Mine Safety Disclosures *
+Item 5. Other Information 32
+Item 6. Exhibits 32
+Signatures 34
+*Not applicable.
+1
+Table of Contents
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS
+This Quarterly Report on Form 10-Q for our first fiscal quarter ended June 30, 2024 (Quarterly Report), and the information and documents incorporated by
+reference within this Quarterly Report, contain “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933, as amended
+(Securities Act), and Section 21E of the Securities Exchange Act of 1934, as amended (Exchange Act), which statements are subject to considerable risks and
+uncertainties. These forward-looking statements are intended to qualify for the safe harbor from liability established by the Private Securities Litigation Reform
+Act of 1995. Forward-looking statements include all statements other than statements of historical fact contained in, or incorporated by reference within, this
+Quarterly Report. We have attempted to identify forward-looking statements by using words such as “anticipate,” “believe,” “could,” “estimate,” “expect,” “intend,”
+“may,” “plan,” “predict,” “project,” “should,” “will,” or “would,” and similar expressions or the negative of these expressions. Specifically, this Quarterly Report, and
+the information and documents incorporated by reference within this Quarterly Report, contain forward-looking statements relating to, among other things:
+• changes in consumer preferences impacting our brands and products, and the footwear and fashion industries;
+• global economic trends, including foreign currency exchange rate fluctuations, changes in interest rates, inflationary pressures, changes in
+commodity pricing, and recessionary concerns;
+• the ability to effectively compete in a highly competitive footwear, apparel, and accessories industry;
+• our business, operating, investing, capital allocation, marketing, and financing plans and strategies;
+• the operational challenges faced by our warehouses and distribution centers (DCs), wholesale partners, global third-party logistics providers
+(3PLs), and third-party carriers, including as a result of global supply chain disruptions and labor shortages;
+• trends, seasonality, and weather impacting the demand for our products and the purchasing behavior of wholesale partners and consumers;
+• changes to the geographic and seasonal mix of our brands and products;
+• availability of materials and manufacturing capacity, and reliability of overseas production and storage;
+• changes to our product distribution strategies, including product allocation and segmentation strategies;
+• the impact of our efforts to continue to advance sustainable and socially conscious business operations, and to meet the expectations that our
+investors and other stakeholders have with respect to our environmental, social and governance practices;
+• the effects of climate change, natural disasters, and the impacts of public health issues, and the related changes in the regulatory environment
+and consumer demand to mitigate these effects, and the resulting impact on our business and the businesses of our customers, consumers,
+suppliers, and business partners;
+• expansion of our brands, product offerings, and investments in our Direct-to-Consumer (DTC) capabilities, including our distribution facilities,
+e-commerce websites, and our retail store footprint;
+• our plans to sell the Sanuk brand and certain related assets, and the sale agreement terms and timing;
+• global geopolitical tensions, including the impact of economic sanctions on our transportation and energy costs;
+• security breach or other disruption to our information technology (IT) systems, or those of our vendors;
+• our interpretation of applicable global tax regulations and changes in tax laws and audits that may impact our tax liability and effective tax
+rates;
+• our cash repatriation strategy regarding earnings of non-United States (US) subsidiaries and the resulting tax impacts;
+• the outcomes of legal proceedings, including the impact they may have on our business and intellectual property rights; and
+• the value of goodwill and other intangible assets, and potential write-downs or impairment charges.
+Forward-looking statements represent management’s current expectations and predictions about trends affecting our business and industry and are based
+on information available at the time such statements are made. Although we do not make forward-looking statements unless we believe we have a reasonable
+basis for doing so, we cannot guarantee their accuracy or completeness. Forward-looking statements involve numerous known and unknown risks,
+uncertainties, and other factors that may cause our actual results, performance, or achievements to be materially different from any future results, performance
+or achievements predicted, assumed, or implied by the forward-looking statements. Some of the risks and uncertainties that may cause our actual results to
+materially differ from those expressed or implied by these forward-looking statements are described in Part II, Item 1A, “Risk Factors,” and Part I, Item 2,
+“Management’s Discussion and Analysis of Financial Condition and Results of Operations,” within this Quarterly Report, as well as in our other filings with the
+Securities and Exchange Commission (SEC), which are available free of charge on the SEC’s website at www.sec.gov and our website at ir.deckers.com. You
+should read this Quarterly Report, including the information and documents incorporated by reference herein, in its entirety and with the understanding that our
+actual future results may be materially different from the results expressed or implied by these forward-looking statements. Moreover, new risks and uncertainties
+emerge occasionally, and it is not possible for management to predict all risks and uncertainties, nor can we assess the impact of all factors on our business or
+the extent to which any factor, or combination of factors, may cause our actual future results to be materially different from any results expressed or implied by
+any forward-looking statements. Except as required by applicable law or the listing rules of the New York Stock Exchange, we expressly disclaim any intent or
+obligation to update any forward-looking statements. We qualify all our forward-looking statements with these cautionary statements.
+2
+Table of Contents
+PART I. FINANCIAL INFORMATION
+References within this Quarterly Report to “Deckers,” “we,” “our,” “us,” “management,” or the “Company” refer to Deckers Outdoor
+Corporation, together with its consolidated subsidiaries. UGG® (UGG), HOKA® (HOKA), Teva® (Teva), Sanuk® (Sanuk), Koolaburra by UGG®
+(Koolaburra), and AHNU® (AHNU) are some of our trademarks. Other trademarks or trade names appearing elsewhere within this Quarterly
+Report are the property of their respective owners. The trademarks and trade names within this Quarterly Report are referred to without the ®
+and ™ symbols, but such references should not be construed as any indication that their respective owners will not assert their rights to the
+fullest extent under applicable law.
+Unless otherwise indicated, all figures herein are expressed in thousands, except for per share and share data.
+3
+Table of Contents
+ITEM 1. FINANCIAL STATEMENTS
+DECKERS OUTDOOR CORPORATION AND SUBSIDIARIES
+CONDENSED CONSOLIDATED BALANCE SHEETS (UNAUDITED)
+(dollar and share data amounts in thousands, except par value)
+June 30, 2024 March 31, 2024
+ASSETS (AUDITED)
+Cash and cash equivalents $ 1,438,397 $ 1,502,051
+Trade accounts receivable, net of allowances ($22,621 and $27,331 as of June 30, 2024, and
+March 31, 2024, respectively) 303,128 296,565
+Inventories 753,282 474,311
+Prepaid expenses 45,221 34,284
+Other current assets 43,323 92,713
+Income tax receivable 29,479 43,559
+Total current assets 2,612,830 2,443,483
+Property and equipment, net of accumulated depreciation ($362,180 and $349,138 as of June 30,
+2024, and March 31, 2024, respectively) (Note 10) 305,585 302,122
+Operating lease assets 221,207 225,669
+Goodwill 13,990 13,990
+Other intangible assets, net of accumulated amortization ($91,609 and $91,314 as of June 30, 2024,
+and March 31, 2024, respectively) 26,701 27,083
+Deferred tax assets, net 71,613 72,584
+Other assets 54,293 50,648
+Total assets $ 3,306,219 $ 3,135,579
+LIABILITIES AND STOCKHOLDERS’ EQUITY
+Trade accounts payable $ 642,595 $ 378,503
+Accrued payroll 61,531 123,653
+Operating lease liabilities 46,362 53,581
+Other accrued expenses 104,640 106,785
+Income tax payable 56,678 52,338
+Value added tax payable 664 5,133
+Total current liabilities 912,470 719,993
+Long-term operating lease liabilities 216,006 213,298
+Income tax liability 52,961 52,470
+Other long-term liabilities 50,300 42,350
+Total long-term liabilities 319,267 308,118
+Commitments and contingencies (Note 5)
+Stockholders’ equity
+Common stock (par value $0.01 per share; 125,000 shares authorized; shares issued and
+outstanding of 25,426 and 25,593 as of June 30, 2024, and March 31, 2024, respectively) 254 255
+Additional paid-in capital 253,486 245,149
+Retained earnings 1,875,275 1,912,797
+Accumulated other comprehensive loss (Note 7) (54,533) (50,733)
+Total stockholders’ equity 2,074,482 2,107,468
+Total liabilities and stockholders’ equity $ 3,306,219 $ 3,135,579
+See accompanying notes to the condensed consolidated financial statements.
+4
+Table of Contents
+DECKERS OUTDOOR CORPORATION AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (UNAUDITED)
+(dollar and share data amounts in thousands, except per share data)
+Three Months Ended June 30,
+2024 2023
+Net sales (Note 2, Note 9, and Note 10) $ 825,347 $ 675,791
+Cost of sales 355,347 329,367
+Gross profit 470,000 346,424
+Selling, general, and administrative expenses 337,193 275,688
+Income from operations (Note 9) 132,807 70,736
+Interest income (17,252) (11,287)
+Interest expense 1,031 1,005
+Other income, net (125) (346)
+Total other income, net (16,346) (10,628)
+Income before income taxes 149,153 81,364
+Income tax expense (Note 4) 33,528 17,812
+Net income 115,625 63,552
+Other comprehensive loss, net of tax
+Unrealized gain on cash flow hedges 856 352
+Foreign currency translation loss (4,656) (8,651)
+Total other comprehensive loss, net of tax (3,800) (8,299)
+Comprehensive income $ 111,825 $ 55,253
+Net income per share
+Basic $ 4.54 $ 2.43
+Diluted $ 4.52 $ 2.41
+Weighted-average common shares outstanding (Note 8)
+Basic 25,478 26,165
+Diluted 25,581 26,321
+See accompanying notes to the condensed consolidated financial statements.
+5
+Table of Contents
+DECKERS OUTDOOR CORPORATION AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY (UNAUDITED)
+(amounts in thousands)
+Three Months Ended June 30, 2024
+Accumulated Other
+Common Stock
+Additional Paid-in Comprehensive Total Stockholders’
+Shares Amount Capital Retained Earnings Loss Equity
+Balance, March 31, 2024 25,593 $ 255 $ 245,149 $ 1,912,797 $ (50,733) $ 2,107,468
+Stock-based compensation — — 8,231 — — 8,231
+Shares issued upon vesting 1 — — — — —
+Exercise of stock options 9 — 601 — — 601
+Shares withheld for taxes — — (495) — — (495)
+Repurchases of common stock (Note 7) (177) (1) — (151,966) — (151,967)
+Excise taxes related to repurchases of
+common stock — — — (1,181) — (1,181)
+Net income — — — 115,625 — 115,625
+Total other comprehensive loss — — — — (3,800) (3,800)
+Balance, June 30, 2024 25,426 $ 254 $ 253,486 $ 1,875,275 $ (54,533) $ 2,074,482
+Three Months Ended June 30, 2023
+Accumulated Other
+Common Stock
+Additional Paid-in Comprehensive Total Stockholders’
+Shares Amount Capital Retained Earnings Loss Equity
+Balance, March 31, 2023 26,176 $ 262 $ 232,932 $ 1,571,574 $ (39,035) $ 1,765,733
+Stock-based compensation 1 — 6,877 — — 6,877
+Shares issued upon vesting 3 — — — — —
+Exercise of stock options 8 — 548 — — 548
+Shares withheld for taxes — — (698) — — (698)
+Repurchases of common stock (Note 7) (52) (1) — (25,468) — (25,469)
+Excise taxes related to repurchases of
+common stock — — — (123) — (123)
+Net income — — — 63,552 — 63,552
+Total other comprehensive loss — — — — (8,299) (8,299)
+Balance, June 30, 2023 26,136 $ 261 $ 239,659 $ 1,609,535 $ (47,334) $ 1,802,121
+See accompanying notes to the condensed consolidated financial statements.
+6
+Table of Contents
+DECKERS OUTDOOR CORPORATION AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (UNAUDITED)
+(amounts in thousands)
+Three Months Ended June 30,
+2024 2023
+OPERATING ACTIVITIES
+Net income $ 115,625 $ 63,552
+Reconciliation of net income to net cash provided by (used in) operating activities:
+Depreciation, amortization, and accretion 17,061 12,353
+Amortization on cloud computing arrangements 465 558
+Bad debt benefit (3,291) (2,974)
+Deferred tax expense 170 478
+Stock-based compensation 8,346 6,989
+Loss on disposal of long-lived assets 79 —
+Changes in operating assets and liabilities:
+Trade accounts receivable, net (3,272) 33,282
+Inventories (278,972) (207,701)
+Prepaid expenses and other current assets 39,816 (8,472)
+Income tax receivable 14,079 (13,529)
+Net operating lease assets and lease liabilities (486) 7,657
+Other assets (4,073) (1,933)
+Trade accounts payable 266,679 254,063
+Other accrued expenses (71,398) (33,247)
+Income tax payable 4,340 10,691
+Other long-term liabilities 7,482 3,495
+Net cash provided by operating activities 112,650 125,262
+INVESTING ACTIVITIES
+Purchases of property and equipment (22,521) (30,732)
+Net cash used in investing activities (22,521) (30,732)
+FINANCING ACTIVITIES
+Proceeds from exercise of stock options 601 548
+Repurchases of common stock (151,967) (25,469)
+Cash paid for shares withheld for taxes (495) (698)
+Net cash used in financing activities (151,861) (25,619)
+Effect of foreign currency exchange rates on cash and cash equivalents (1,922) (3,817)
+Net change in cash and cash equivalents (63,654) 65,094
+Cash and cash equivalents at beginning of period 1,502,051 981,795
+Cash and cash equivalents at end of period $ 1,438,397 $ 1,046,889
+7
+Table of Contents
+DECKERS OUTDOOR CORPORATION AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (UNAUDITED)
+(amounts in thousands)
+(continued)
+Three Months Ended June 30,
+2024 2023
+SUPPLEMENTAL CASH FLOW DISCLOSURE
+Cash paid during the period
+Income taxes $ 14,998 $ 19,716
+Interest 414 473
+Operating leases 16,339 14,974
+Non-cash investing activities
+Changes in trade accounts payable and other accrued expenses for purchases of property and
+equipment (2,582) (5,024)
+Accrued for asset retirement obligation assets related to leasehold improvements 975 242
+Leasehold improvements acquired through tenant allowances — 8,127
+Non-cash financing activities
+Accrued excise taxes related to repurchases of common stock 1,181 123
+See accompanying notes to the condensed consolidated financial statements.
+8
+Table of Contents
+DECKERS OUTDOOR CORPORATION AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+For the Three Months Ended June 30, 2024, and 2023
+(dollar amounts in thousands, except per share or share data)
+NOTE 1. GENERAL
+The Company. Deckers Outdoor Corporation and its wholly owned subsidiaries (collectively, the Company) is a global leader in designing,
+marketing, and distributing innovative footwear, apparel, and accessories developed for both everyday casual lifestyle use and high-performance
+activities. The Company’s six proprietary brands include the UGG, HOKA, Teva, Sanuk, Koolaburra, and AHNU brands.
+The Company sells its products through quality domestic and international retailers, international distributors, and directly to its global
+consumers through its DTC business, which is comprised of its e-commerce business and retail stores. Independent third-party contractors
+manufacture all of the Company’s products.
+Seasonality. A significant part of the UGG brand’s business has historically been seasonal, requiring the Company to build inventory levels
+during certain quarters in its fiscal year to support higher selling seasons, which has contributed to variation in its results from quarter to quarter.
+However, as the Company continues to take steps to diversify and expand its product offerings by creating more year-round styles, and as net
+sales of the HOKA brand, which generally occur more evenly throughout the year, continue to increase as a percentage of the Company’s
+aggregate net sales, the Company expects to continue to see the impact from seasonality decrease over time.
+Basis of Presentation. The unaudited condensed consolidated financial statements and accompanying notes thereto (referred to herein
+as condensed consolidated financial statements) as of June 30, 2024, and for the three months ended June 30, 2024 (the current period), and
+2023 (the prior period) are prepared in accordance with generally accepted accounting principles in the US (US GAAP) for interim financial
+information pursuant to Rule 10-01 of Regulation S-X issued by the SEC. Accordingly, the condensed consolidated financial statements do not
+include all the information and disclosures required by US GAAP for annual financial statements and accompanying notes thereto. The
+condensed consolidated balance sheet as of March 31, 2024, is derived from the Company’s audited consolidated financial statements. In the
+opinion of management, the condensed consolidated financial statements include all normal and recurring entries necessary to fairly present the
+results of the interim periods presented but are not necessarily indicative of actual results to be achieved for full fiscal years or other interim
+periods. The condensed consolidated financial statements should be read in conjunction with the audited consolidated financial statements and
+accompanying notes thereto included in the Company’s Annual Report on Form 10-K for the fiscal year ended March 31, 2024 (prior fiscal year),
+which was filed with the SEC on May 24, 2024 (2024 Annual Report).
+Consolidation. The condensed consolidated financial statements include the accounts of the Company and its wholly owned subsidiaries.
+All intercompany balances and transactions have been eliminated in consolidation.
+Use of Estimates. The preparation of the Company’s condensed consolidated financial statements in accordance with US GAAP requires
+management to make estimates and assumptions that affect the amounts reported. Management bases these estimates and assumptions upon
+historical experience, existing and known circumstances, authoritative accounting pronouncements and other factors that management believes
+to be reasonable. In addition, the Company has considered the potential impact of macroeconomic factors, including inflation, foreign currency
+exchange rate volatility, changes in interest rates, changes in commodity pricing, changes in discretionary spending and recessionary concerns,
+on its business and operations. Although the full impact of these factors is unknown, the Company believes it has made appropriate accounting
+estimates and assumptions based on the facts and circumstances available as of the reporting date. However, actual results could differ
+materially from these estimates and assumptions, which may result in material effects on the Company’s financial condition, results of
+operations, and liquidity. To the extent there are differences between these estimates and actual results, the Company’s condensed consolidated
+financial statements may be materially affected.
+9
+Table of Contents
+DECKERS OUTDOOR CORPORATION AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+For the Three Months Ended June 30, 2024, and 2023
+(dollar amounts in thousands, except per share or share data)
+Significant areas requiring the use of management estimates and assumptions relate to inventory write-downs; trade accounts receivable
+allowances, including variable consideration for net sales provided to customers, such as the sales return asset and liability; contract assets and
+liabilities; stock-based compensation; impairment assessments, including goodwill, other intangible assets, and long-lived assets; depreciation
+and amortization; income tax receivables and liabilities; uncertain tax positions; the fair value of financial instruments; the reasonably certain
+lease term; lease classification; and the Company’s incremental borrowing rate utilized to measure its operating lease assets and lease
+liabilities.
+Foreign Currency Translation. The Company considers the US dollar as its functional currency. The Company’s wholly owned foreign
+subsidiaries have various assets and liabilities, primarily cash, receivables, and payables, which are denominated in currencies other than its
+functional currency. The Company remeasures these monetary assets and liabilities using the exchange rate at the end of the reporting period,
+which results in gains and losses that are recorded in selling, general, and administrative (SG&A) expenses in the condensed consolidated
+statements of comprehensive income as incurred. In addition, the Company translates assets and liabilities of subsidiaries with reporting
+currencies other than US dollars into US dollars using the exchange rates at the end of the reporting period, which results in financial statement
+translation gains and losses recorded in other comprehensive income or loss (OCI) in the condensed consolidated statements of comprehensive
+income.
+Reportable Operating Segments. The Company’s six reportable operating segments include the worldwide wholesale operations of the
+UGG brand, HOKA brand, Teva brand, Sanuk brand, and Other brands (primarily consisting of the Koolaburra and AHNU brands), as well as
+DTC (collectively, the Company’s reportable operating segments). Refer to Note 9, “Reportable Operating Segments,” for further information on
+the Company’s reportable operating segments as well as Note 12, “Subsequent Events,” for an update on the Company’s sale of the Sanuk
+brand and certain related assets.
+Recent Accounting Pronouncements. The Financial Accounting Standards Board has issued Accounting Standards Updates (ASU) that
+have been adopted and not yet adopted by the Company as stated below.
+Recently Adopted. The following is a summary of a recently adopted ASU and its expected impact on the Company:
+Standard Description Impact Upon Adoption
+ASU 2022-04 - Supplier Finance The ASU requires that a buyer in a SFP disclose qualitative and The Company retrospectively adopted this ASU beginning on
+Program (SFP) quantitative information about its program on an interim basis, April 1, 2023, except for the roll forward requirements.
+including the nature of the SFP and key terms, outstanding
+amounts as of the end of the reporting period, and presentation in
+This ASU did not have a material impact on the recognition,
+its financial statements.
+measurement, or presentation of supplier finance programs in
+the Company’s annual and interim consolidated financial
+The interim portion of this ASU is effective on a retrospective basis statements. However, it did result in additional disclosure.
+for fiscal years beginning after December 15, 2022, and interim
+periods within those fiscal years. Early adoption is permitted.
+Refer to Note 11, “Supplier Finance Program,” for further
+information on the Company’s SFP key terms and outstanding
+The annual requirement that requires a buyer in a SFP disclose an balances recorded in the condensed consolidated balance
+activity roll forward of outstanding balances as of the end of the sheets.
+reporting period has not yet been adopted.
+The Company plans to adopt the annual roll forward requirement
+This annual portion of this ASU is effective on a retrospective basis beginning with its fiscal year (FY) ending March 31, 2025, and
+for fiscal years beginning after December 15, 2023. Early adoption does not expect the adoption to have a material impact on its
+is not permitted. annual and interim consolidated financial statements.
+10
+Table of Contents
+DECKERS OUTDOOR CORPORATION AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+For the Three Months Ended June 30, 2024, and 2023
+(dollar amounts in thousands, except per share or share data)
+Not Yet Adopted. The following is a summary of each ASU that has been issued and is applicable to the Company, but which has not yet
+been adopted, as well as the planned period of adoption, and the expected impact on the Company upon adoption:
+Planned Period
+Standard Description of Adoption Expected Impact on Adoption
+ASU 2023-07 - Improvements to The ASU requires annual and interim disclosures of Q4 FY 2025 The Company is currently evaluating the impact of the
+Reportable Segment Disclosures significant segment expenses, including an amount and and adoption of this ASU on its annual and interim
+composition description for other segment items, and how Q1 FY 2026 consolidated financial statements.
+reported measures of profit or loss are used by the chief
+operating decision maker (CODM) in assessing segment
+performance and deciding how to allocate resources. The
+ASU is effective on a retrospective basis for fiscal years
+beginning after December 15, 2023, and interim periods
+within fiscal years beginning after December 15, 2024.
+Early adoption is permitted.
+ASU 2023-09 - Improvements to The ASU requires annual disclosures of prescribed Q4 FY 2026 The Company is currently evaluating the impact of the
+Income Tax Disclosures standard categories for the components of the effective adoption of this ASU on its annual and interim
+tax rate reconciliation, disclosure of income taxes paid consolidated financial statements.
+disaggregated by jurisdiction, and other income-tax
+related disclosures. The ASU is effective on a prospective
+basis, with retrospective application permitted, for fiscal
+years beginning after December 15, 2024. Early adoption
+is permitted.
+NOTE 2. REVENUE RECOGNITION
+Disaggregated Revenue. Refer to Note 9, “Reportable Operating Segments,” for further information on the Company’s disaggregation of
+revenue by reportable operating segment.
+Sales Return Asset and Liability. Sales returns are a refund asset for the right to recover the inventory and a refund liability for the stand-
+ready right of return. The refund asset for the right to recover the inventory is recorded in other current assets and the related refund liability is
+recorded in other accrued expenses in the condensed consolidated balance sheets.
+The following tables summarize changes in the estimated sales returns for the periods presented:
+Recovery Asset Refund Liability
+Balance, March 31, 2024 $ 13,866 $ (55,327)
+Net additions to sales return liability (1) 10,976 (40,741)
+Actual returns (14,077) 58,277
+Balance, June 30, 2024 $ 10,765 $ (37,791)
+Recovery Asset Refund Liability
+Balance, March 31, 2023 $ 15,685 $ (45,322)
+Net additions to sales return liability (1) 8,387 (40,609)
+Actual returns (12,867) 49,373
+Balance, June 30, 2023 $ 11,205 $ (36,558)
+(1) Net additions to the sales return liability include a provision for anticipated sales returns, which consists of both contractual return rights and discretionary
+authorized returns.
+11
+Table of Contents
+DECKERS OUTDOOR CORPORATION AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+For the Three Months Ended June 30, 2024, and 2023
+(dollar amounts in thousands, except per share or share data)
+Contract Liabilities. Contract liabilities are recorded in other accrued expenses in the condensed consolidated balance sheets and include
+loyalty programs and other deferred revenue.
+Loyalty Programs. Activity related to loyalty programs was as follows:
+Three Months Ended June 30,
+2024 2023
+Beginning balance $ (17,586) $ (13,144)
+Redemptions and expirations for loyalty certificates and points recognized in net sales 5,060 4,728
+Deferred revenue for loyalty points and certificates issued (4,575) (3,909)
+Ending balance $ (17,101) $ (12,325)
+Deferred Revenue. Activity related to deferred revenue was as follows:
+Three Months Ended June 30,
+2024 2023
+Beginning balance $ (9,591) $ (13,448)
+Additions of customer cash payments (27,101) (20,589)
+Revenue recognized 9,254 13,401
+Ending balance $ (27,438) $ (20,636)
+Refer to Note 2, “Revenue Recognition,” in the Company’s consolidated financial statements in Part IV of the 2024 Annual Report for further
+information on the Company’s variable consideration accounting policies, including sales return asset and liability, as well as contract liabilities.
+NOTE 3. FAIR VALUE MEASUREMENTS
+The Company measures certain financial assets and liabilities at fair value on a recurring basis. Refer to Note 4, “Fair Value
+Measurements,” in the Company’s consolidated financial statements in Part IV of the 2024 Annual Report for further information on the
+Company’s fair value accounting policies.
+Assets and liabilities that are measured on a recurring basis at fair value in the condensed consolidated balance sheets are as follows:
+As of Measured Using
+June 30, 2024 Level 1 Level 2 Level 3
+Assets:
+Cash equivalents:
+Money-market funds $ 1,079,101 $ 1,079,101 $ — $ —
+Other current assets:
+Designated Derivative Contracts asset 1,399 — 1,399 —
+Other assets:
+Non-qualified deferred compensation asset 14,480 14,480 — —
+Total assets measured at fair value $ 1,094,980 $ 1,093,581 $ 1,399 $ —
+12
+Table of Contents
+DECKERS OUTDOOR CORPORATION AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+For the Three Months Ended June 30, 2024, and 2023
+(dollar amounts in thousands, except per share or share data)
+As of Measured Using
+June 30, 2024 Level 1 Level 2 Level 3
+Liabilities:
+Other accrued expenses:
+Non-qualified deferred compensation liability $ (412) $ (412) $ — $ —
+Designated Derivative Contracts liability (267) — (267) —
+Other long-term liabilities:
+Non-qualified deferred compensation liability (23,580) (23,580) — —
+Total liabilities measured at fair value $ (24,259) $ (23,992) $ (267) $ —
+As of Measured Using
+March 31, 2024 Level 1 Level 2 Level 3
+Assets:
+Cash equivalents:
+Money-market funds $ 1,152,083 $ 1,152,083 $ — $ —
+Other assets:
+Non-qualified deferred compensation asset 13,553 13,553 — —
+Total assets measured at fair value $ 1,165,636 $ 1,165,636 $ — $ —
+Liabilities:
+Other accrued expenses:
+Non-qualified deferred compensation liability $ (408) $ (408) $ — $ —
+Other long-term liabilities:
+Non-qualified deferred compensation liability (16,229) (16,229) — —
+Total liabilities measured at fair value $ (16,637) $ (16,637) $ — $ —
+The fair value of Designated Derivative Contracts is determined using quoted forward spot rates at the end of the applicable reporting
+period from counterparties, which are corroborated by market-based pricing (Level 2), with related assets and liabilities recorded in other current
+assets and other accrued expenses, respectively, in the condensed consolidated balance sheets. Refer to Note 6, “Derivative Instruments,” for
+further information, including the definition of the term Designated Derivative Contracts.
+NOTE 4. INCOME TAXES
+Income tax expense and the effective income tax rate were as follows:
+Three Months Ended June 30,
+2024 2023
+Income tax expense $ 33,528 $ 17,812
+Effective income tax rate 22.5 % 21.9 %
+The tax provisions during the three months ended June 30, 2024, and 2023, were computed using the estimated effective income tax rate
+applicable to each of the domestic and foreign taxable jurisdictions for the fiscal years ending March 31, 2025, and March 31, 2024, respectively,
+and were adjusted for discrete items that occurred within the periods presented above. During the three months ended June 30, 2024, the net
+increase in the effective income tax rate, compared to the prior period, was due to higher operating income, including changes in jurisdictional
+mix of worldwide income before income taxes, partially offset by net discrete tax benefits for stock-based compensation.
+13
+Table of Contents
+DECKERS OUTDOOR CORPORATION AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+For the Three Months Ended June 30, 2024, and 2023
+(dollar amounts in thousands, except per share or share data)
+Recent Tax Law Changes. The Organization for Economic Co-operation and Development (commonly known as OECD) has released Pillar
+Two model rules introducing a 15% global minimum tax rate for large multinational corporations to be effective starting with tax periods ending in
+2024. Various jurisdictions the Company operates in have enacted or plan to enact legislation beginning in calendar year 2024 or in subsequent
+years. The enactment of Pillar Two legislation did not have a material effect on the Company’s condensed consolidated statements of
+comprehensive income during the three months ended June 30, 2024. The Company will continue to monitor and reflect the impact of such
+legislative changes in future periods, as each of the respective jurisdictions enact the legislation and the legislation becomes effective.
+NOTE 5. COMMITMENTS AND CONTINGENCIES
+Leases. The Company primarily leases retail stores, showrooms, offices, and distribution facilities under operating lease contracts. There
+were no material changes outside the ordinary course of business during the three months ended June 30, 2024, to the operating lease terms
+disclosed in the 2024 Annual Report.
+Supplemental information for amounts presented in the condensed consolidated statements of cash flows related to operating leases, were
+as follows:
+Three Months Ended June 30,
+2024 2023
+Non-cash operating activities
+Operating lease assets obtained in exchange for lease liabilities (1) $ 12,336 $ 21,587
+Reductions to operating lease assets for reductions to lease liabilities (1) (1,106) (65)
+(1) Amounts disclosed include non-cash additions or reductions resulting from lease remeasurements, as well as reductions for tenant improvement
+allowances.
+Operating lease liabilities recorded in the condensed consolidated balance sheets exclude an aggregate of $15,289 of undiscounted
+minimum lease payments due pursuant to leases signed but not yet commenced during the three months ended June 30, 2024, and through
+July 11, 2024, primarily for a new HOKA brand retail store lease in Paris that will be operational during the quarter ending December 31, 2024.
+Purchase Obligations. There were no material changes to purchase obligations last disclosed in the 2024 Annual Report outside the
+ordinary course of business during the three months ended June 30, 2024.
+Litigation. From time to time, the Company is involved in various legal proceedings, disputes, and other claims arising in the ordinary
+course of business, including employment, intellectual property, and product liability claims. Although the results of these matters cannot be
+predicted with certainty, the Company believes it is not currently a party to any legal proceedings, disputes, or other claims for which a material
+loss is considered probable and for which the amount (or range) of loss is reasonably estimable. However, regardless of the merit of the claims
+raised or the outcome, these matters can have an adverse impact on the Company as a result of legal costs, diversion of management’s time
+and resources, and other factors.
+Refer to Note 7, “Commitments and Contingencies,” in the Company’s consolidated financial statements in Part IV of the 2024 Annual
+Report for further information on the Company’s contractual obligations and commitments.
+14
+Table of Contents
+DECKERS OUTDOOR CORPORATION AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+For the Three Months Ended June 30, 2024, and 2023
+(dollar amounts in thousands, except per share or share data)
+NOTE 6. DERIVATIVE INSTRUMENTS
+The Company enters into foreign currency forward or option contracts (derivative contracts) with maturities of 15 months or less to manage
+foreign currency risk and certain of these derivative contracts are designated as cash flow hedges of forecasted sales (Designated Derivative
+Contracts).
+The after-tax unrealized gains or losses from changes in fair value of Designated Derivative Contracts are recorded as a component of
+accumulated other comprehensive loss (AOCL) in the condensed consolidated balance sheets and are reclassified to net sales in the
+condensed consolidated statements of comprehensive income in the same period or periods as the related sales are recognized. When it is
+probable that a forecasted transaction will not occur, the Company discontinues hedge accounting and the accumulated gains or losses in AOCL
+related to the hedging relationship are immediately recorded in OCI in the condensed consolidated statements of comprehensive income. Refer
+to Note 1, “General,” in the Company’s consolidated financial statements in Part IV of the 2024 Annual Report for further information regarding
+the Company’s derivative instruments accounting policy.
+As of June 30, 2024, the Company has the following Designated Derivative Contracts recorded at fair value in the condensed consolidated
+balance sheets:
+Notional value $ 158,842
+Fair value recorded in other current assets 1,399
+Fair value recorded in other accrued expenses (267)
+As of June 30, 2024, four counterparties hold the Company’s outstanding derivative contracts, all of which are expected to mature in the
+next nine months. As of March 31, 2024, the Company had no outstanding derivative contracts.
+The following table summarizes the effect of Designated Derivative Contracts and the related income tax effects of unrealized gains or
+losses recorded in the condensed consolidated statements of comprehensive income for changes in AOCL:
+Three Months Ended June 30,
+2024 2023
+Gain recorded in OCI $ 1,132 $ 411
+Reclassifications from AOCL into net sales — 21
+Income tax expense in OCI (276) (80)
+Total $ 856 $ 352
+The non-performance risk of the Company and its counterparties did not have a material impact on the fair value of its derivative contracts.
+As of June 30, 2024, the amount of unrealized gains on derivative contracts recorded in AOCL is expected to be reclassified into net sales within
+the next nine months. Refer to Note 7, “Stockholders’ Equity,” for further information on the components of AOCL.
+NOTE 7. STOCKHOLDERS’ EQUITY
+Stock Repurchase Program. The Company’s Board of Directors (Board) has approved various authorizations under the Company’s stock
+repurchase program to repurchase shares of its common stock in the open market or in privately negotiated transactions, subject to market
+conditions, applicable legal requirements, and other factors (collectively, the stock repurchase program). As of June 30, 2024, the aggregate
+remaining approved amount under the stock repurchase program is $789,737. The stock repurchase program does not obligate the Company to
+acquire any amount of common stock and may be suspended at any time at the Company’s discretion.
+15
+Table of Contents
+DECKERS OUTDOOR CORPORATION AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+For the Three Months Ended June 30, 2024, and 2023
+(dollar amounts in thousands, except per share or share data)
+Stock repurchase activity under the Company’s stock repurchase program was as follows:
+Three Months Ended June 30,
+2024 2023
+Total number of shares repurchased (1) 176,956 52,410
+Average price per share paid $ 858.79 $ 485.95
+Dollar value of shares repurchased (2) (3) $ 151,967 $ 25,469
+(1) All share repurchases were made pursuant to the Company’s stock repurchase program in open-market transactions.
+(2) The dollar value of shares repurchased excludes the cost of broker commissions, excise taxes, and other costs.
+(3) May not calculate on rounded dollars.
+Subsequent to June 30, 2024, through July 11, 2024, the Company repurchased 17,307 shares at an average price of $924.11 per share
+for $15,994 and had $773,743 remaining authorized under the stock repurchase program.
+Accumulated Other Comprehensive Loss. The components within AOCL, net of tax, recorded in the condensed consolidated balance
+sheets are as follows:
+June 30, 2024 March 31, 2024
+Unrealized gain on cash flow hedges $ 856 $ —
+Cumulative foreign currency translation loss (55,389) (50,733)
+Total $ (54,533) $ (50,733)
+NOTE 8. BASIC AND DILUTED SHARES
+The reconciliation of basic to diluted weighted-average common shares outstanding was as follows:
+Three Months Ended June 30,
+2024 2023
+Basic 25,478,000 26,165,000
+Dilutive effect of equity awards 103,000 156,000
+Diluted 25,581,000 26,321,000
+Excluded
+Long-Term Incentive Plan Performance-Based Restricted Stock Units 48,000 76,000
+Employee Stock Purchase Plan — 1,000
+Excluded Awards. The equity awards excluded from the calculation of the dilutive effect have been excluded due to one of the following:
+(1) the shares were antidilutive; (2) the necessary conditions had not been satisfied for the shares to be deemed issuable based on the
+Company’s performance for the relevant performance period; or (3) the Company recorded a net loss during the period presented (such that
+inclusion of these equity awards in the calculation would have been antidilutive). The number of shares stated for each of these excluded awards
+is the maximum number of shares issuable pursuant to these awards. For those awards subject to the achievement of performance criteria, the
+actual number of shares to be issued pursuant to such awards will be based on Company performance in future periods, net of forfeitures, and
+may be materially lower than the number of shares presented, which could result in a lower dilutive effect. Refer to Note 8, “Stock-Based
+Compensation,” in the Company’s consolidated financial statements in Part IV of the 2024 Annual Report for further information on the
+Company’s equity incentive plans.
+16
+Table of Contents
+DECKERS OUTDOOR CORPORATION AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+For the Three Months Ended June 30, 2024, and 2023
+(dollar amounts in thousands, except per share or share data)
+NOTE 9. REPORTABLE OPERATING SEGMENTS
+Information reported to the CODM, who is the Company’s Chief Executive Officer (CEO), President, and Principal Executive Officer (PEO),
+is organized into the Company’s six reportable operating segments and is consistent with how the CODM evaluates performance and allocates
+resources. The Company does not consider international operations to be a separate reportable operating segment, and the CODM reviews
+such operations in the aggregate with the reportable operating segments.
+Segment Net Sales and Income from Operations. The Company evaluates reportable operating segment performance primarily based
+on net sales and income (loss) from operations. The wholesale operations of each brand are managed separately because each requires
+different marketing, research and development, design, sourcing, and sales strategies. The income (loss) from operations of each of the
+reportable operating segments includes only those costs which are specifically related to each reportable operating segment, which consist
+primarily of cost of sales, research and development, design, sales and marketing, depreciation, amortization, and the direct costs of employees
+within those reportable operating segments.
+The Company does not allocate corporate overhead costs or non-operating income and expenses to reportable operating segments, which
+include unallocable overhead costs associated with the Company’s warehouses and DCs, certain executive and stock-based compensation,
+accounting, finance, legal, IT, human resources, and facilities, among others. Inter-segment sales from the Company’s wholesale reportable
+operating segments to the DTC reportable operating segment are at the Company’s cost, and there is no inter-segment profit on these inter-
+segment sales, nor are they reflected in income (loss) from operations of the wholesale reportable operating segments as these transactions are
+eliminated in consolidation.
+Reportable operating segment information, with a reconciliation to the condensed consolidated statements of comprehensive income, was
+as follows:
+Three Months Ended June 30,
+2024 2023
+Net sales
+UGG brand wholesale $ 142,553 $ 121,545
+HOKA brand wholesale 332,732 260,847
+Teva brand wholesale 31,359 35,132
+Sanuk brand wholesale 4,433 6,470
+Other brands wholesale 3,705 1,427
+Direct-to-Consumer 310,565 250,370
+Total $ 825,347 $ 675,791
+Three Months Ended June 30,
+2024 2023
+Income (loss) from operations
+UGG brand wholesale $ 38,430 $ 16,866
+HOKA brand wholesale 124,694 86,524
+Teva brand wholesale 6,789 9,237
+Sanuk brand wholesale 1,603 759
+Other brands wholesale (1,557) (2,041)
+Direct-to-Consumer 106,410 75,462
+Unallocated overhead costs (143,562) (116,071)
+Total $ 132,807 $ 70,736
+17
+Table of Contents
+DECKERS OUTDOOR CORPORATION AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+For the Three Months Ended June 30, 2024, and 2023
+(dollar amounts in thousands, except per share or share data)
+Segment Assets. Assets allocated to each reportable operating segment include trade accounts receivable, net, inventories, property and
+equipment, net, operating lease assets, goodwill, other intangible assets, net, and certain other assets that are specifically identifiable for one of
+the Company’s reportable operating segments. Unallocated assets are those assets not directly related to a specific reportable operating
+segment and generally include cash and cash equivalents, deferred tax assets, net, and various other corporate assets shared by the
+Company’s reportable operating segments.
+Assets allocated to each reportable operating segment, with a reconciliation to the condensed consolidated balance sheets, are as follows:
+June 30, 2024 March 31, 2024
+Assets
+UGG brand wholesale $ 509,965 $ 247,136
+HOKA brand wholesale 490,476 436,147
+Teva brand wholesale 56,713 81,703
+Sanuk brand wholesale 16,955 18,526
+Other brands wholesale 24,973 9,379
+Direct-to-Consumer 261,893 263,840
+Total assets from reportable operating segments 1,360,975 1,056,731
+Unallocated cash and cash equivalents 1,438,397 1,502,051
+Unallocated deferred tax assets, net 71,613 72,584
+Unallocated other corporate assets 435,234 504,213
+Total $ 3,306,219 $ 3,135,579
+NOTE 10. CONCENTRATION OF BUSINESS
+Regions and Customers. The Company sells its products globally to customers and consumers in various countries, with net sales
+concentrations as follows:
+Three Months Ended June 30,
+2024 2023
+International net sales $ 309,491 $ 256,256
+% of net sales 37.5 % 37.9 %
+Net sales in foreign currencies $ 177,624 $ 148,971
+% of net sales 21.5 % 22.0 %
+Ten largest global customers as % of net sales 23.6 % 22.8 %
+For the three months ended June 30, 2024, and 2023, no single foreign country comprised 10.0% or more of the Company’s total net sales.
+For the three months ended June 30, 2024, and 2023, no single global customer accounted for 10.0% or more of the Company’s total net sales.
+The Company has two customers that represent 23.5% and 31.2% of trade accounts receivable, net, as of June 30, 2024, and March 31,
+2024, respectively. Management performs regular evaluations concerning the ability of the Company’s customers to satisfy their obligations to
+the Company and recognizes an allowance for doubtful accounts based on these evaluations.
+Cash and Cash Equivalents. The Company maintains a portion of its cash in Federal Deposit Insurance Corporation insured bank deposit
+accounts which, at times, may exceed federally insured limits. To date, the Company has not experienced any losses in such accounts. Based
+on the size and strength of the banking institutions used, the Company does not believe it is exposed to any significant credit risks in cash.
+18
+Table of Contents
+DECKERS OUTDOOR CORPORATION AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+For the Three Months Ended June 30, 2024, and 2023
+(dollar amounts in thousands, except per share or share data)
+Long-Lived Assets. Long-lived assets, which consist of property and equipment, net, recorded in the condensed consolidated balance
+sheets, are as follows:
+June 30, 2024 March 31, 2024
+United States $ 273,741 $ 270,561
+Foreign (1) 31,844 31,561
+Total $ 305,585 $ 302,122
+(1) No single foreign country’s property and equipment, net, represents 10.0% or more of the Company’s total property and equipment, net, as of June 30,
+2024, and March 31, 2024.
+NOTE 11. SUPPLIER FINANCE PROGRAM
+Supplier Finance Program. The Company has a voluntary SFP administered through a third-party platform that provides the Company’s
+independent manufacturers that supply its inventory (inventory suppliers) the opportunity to sell their receivables due from the Company to
+participating financial institutions in advance of the invoice due date, at the sole discretion of both inventory suppliers and the financial
+institutions. The Company is not party to the agreements between these third parties and has no economic interest in an inventory suppliers’
+decision to sell a receivable.
+The Company’s payment obligations, including the amounts due and payment terms, which generally do not exceed 90 days, are not
+impacted by the inventory suppliers’ election to participate in the SFP, and the Company provides no guarantees to any third parties under the
+SFP. Accordingly, amounts due to inventory suppliers that elected to participate in the SFP are presented in trade accounts payable in the
+condensed consolidated balance sheets.
+As of June 30, 2024, and March 31, 2024, the Company had $8,571 and $3,483, respectively, of balances outstanding related to the SFP
+recorded in trade accounts payable in the condensed consolidated balance sheets. Payments made in connection with the SFP are reported as
+cash used in operating activities in the trade accounts payable line item of the condensed consolidated statements of cash flows.
+NOTE 12. SUBSEQUENT EVENTS
+Sanuk Brand Asset Sale. During October 2023, the Company announced that it intended to divest the Sanuk brand in alignment with
+effective resource allocation and the execution of its long-term objectives. Subsequent to June 30, 2024, the Company entered into an
+agreement pursuant to which the buyer agreed to purchase the Sanuk brand and certain related assets, which is expected to close in August
+2024.
+19
+Table of Contents
+ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+RESULTS OF OPERATIONS
+The following discussion of our financial condition and results of operations should be read together with our condensed consolidated
+financial statements and the related notes, included in Part I, Item 1, “Financial Statements,” within this Quarterly Report, and the audited
+consolidated financial statements included in Part II, Item 8, “Financial Statements and Supplementary Data,” of our 2024 Annual Report, filed
+with the SEC on May 24, 2024, which is available free of charge on the SEC’s website at www.sec.gov and our website at ir.deckers.com.
+Certain statements made in this section constitute “forward-looking statements,” which are subject to numerous risks and uncertainties. Our
+actual results of operations may differ materially from those expressed or implied by these forward-looking statements as a result of many
+factors, including those set forth in the section titled “Cautionary Note Regarding Forward-Looking Statements” and Part II, Item 1A, “Risk
+Factors,” within this Quarterly Report.
+OVERVIEW
+We are a global leader in designing, marketing, and distributing innovative footwear, apparel, and accessories developed for both everyday
+casual lifestyle use and high-performance activities. We market our products primarily under six proprietary brands: UGG, HOKA, Teva, Sanuk,
+Koolaburra, and AHNU. We believe our products are distinctive and appeal to a broad demographic. We sell our products through quality
+domestic and international retailers, international distributors, and directly to our global consumers through our DTC business, which is
+comprised of our Company-owned e-commerce websites and retail stores. We seek to differentiate our brands and products by offering diverse
+lines that emphasize fashion, performance, authenticity, functionality, quality, and comfort, and products tailored to a variety of activities,
+seasons, and demographic groups. Independent third-party contractors manufacture all of our products.
+FINANCIAL HIGHLIGHTS
+Consolidated financial performance highlights for the three months ended June 30, 2024, compared to the prior period, were as follows:
+• Net sales increased 22.1% to $825,347.
+◦ Channel
+▪ Wholesale channel net sales increased 21.0% to $514,782.
+▪ DTC channel net sales increased 24.0% to $310,565.
+◦ Geography
+▪ Domestic net sales increased 23.0% to $515,856.
+▪ International net sales increased 20.8% to $309,491.
+• Gross margin increased 560 basis points to 56.9%.
+• Income from operations increased 87.8% to $132,807.
+• Diluted earnings per share increased 87.2% to $4.52 per share.
+RECENT DEVELOPMENTS
+CEO Transition. On February 1, 2024, Dave Powers announced his intention to retire as CEO and President of our Company, effective
+August 1, 2024. Following August 1, 2024, we expect Mr. Powers to continue to serve as a member of our Board, if elected by our stockholders
+at our 2024 Annual Meeting of Stockholders to be held on September 9, 2024 (Annual Meeting). Following a planned succession process, our
+Board appointed our Chief Commercial Officer, Stefano Caroti, to succeed Mr. Powers as CEO and President, effective August 1, 2024. The
+promotion of Mr. Caroti represents the culmination of our Board’s active engagement in a planned multi-year succession process. Mr. Caroti will
+also serve as a member of our Board if elected at the Annual Meeting.
+20
+Table of Contents
+Proposed Stock Split. On July 9, 2024, subject to approval by our stockholders, our Board approved an Amendment to our Amended and
+Restated Certificate of Incorporation, which (i) effects a six-for-one forward stock split of our common stock and preferred stock, and (ii)
+increases the number of authorized shares of our common stock from 125,000 to 750,000, and the number of shares of preferred stock from
+5,000 to 30,000 (collectively, the stock split). Effectiveness of the stock split is subject to the approval of our stockholders at the Annual Meeting,
+and a decision by our Board to move forward with implementing the stock split. Our financial results reflected in this Quarterly Report do not
+include any impact of the stock split.
+Sanuk Brand Asset Sale. During October 2023, we announced that we intended to divest the Sanuk brand in alignment with effective
+resource allocation and the execution of our long-term objectives. Subsequent to June 30, 2024, we entered into an agreement pursuant to
+which the buyer agreed to purchase the Sanuk brand and certain related assets, which is expected to close in August 2024.
+TRENDS AND UNCERTAINTIES IMPACTING OUR BUSINESS AND INDUSTRY
+We expect our business and industry will continue to be impacted by several important trends and uncertainties, which have not changed
+since our 2024 Annual Report. Refer to Part II, Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of
+Operations,” of our 2024 Annual Report for further discussion. Refer to Part I, Item 1A, “Risk Factors,” of our 2024 Annual Report for detailed
+information on the risks and uncertainties that may cause our actual results to differ materially from our expectations.
+REPORTABLE OPERATING SEGMENT OVERVIEW
+Our six reportable operating segments include the worldwide wholesale operations of the UGG brand, HOKA brand, Teva brand, Sanuk
+brand, and Other brands, as well as DTC. Information reported to the CODM, who is our CEO, President, and PEO, is organized into these
+reportable operating segments and is consistent with how the CODM evaluates our performance and allocates resources.
+UGG Brand. The UGG brand is one of the most iconic and recognized footwear brands in our industry, which highlights our successful
+track record of building niche brands into lifestyle and fashion market leaders. With loyal consumers around the world, the UGG brand has
+proven to be a highly resilient line of premium footwear, apparel, and accessories with expanded product offerings that appeal to a growing
+global audience and a broad demographic.
+HOKA Brand. The HOKA brand is an authentic premium line of year-round performance footwear, which offers enhanced cushioning and
+inherent stability with minimal weight. Originally designed for ultra-runners, the brand now appeals to world champions, taste makers, and
+everyday athletes. Expanded marketing and strategic marketplace presence have fueled both domestic and international sales growth of the
+HOKA brand, which has quickly become a leading brand within run and outdoor specialty wholesale accounts and is growing across its
+ecosystem of access points. The HOKA brand’s product line includes running, trail, hiking, fitness, and lifestyle footwear offerings, as well as
+select apparel and accessories.
+Teva Brand. The Teva brand, born in the depths of the Grand Canyon, has long been a favored brand among outdoor adventurers across
+the globe. Today, building on its foundation as a leader in sport sandals and its authentic outdoor heritage, the Teva brand’s thoughtfully
+designed, and accessible products are built for a range of outdoor pursuits, connecting with a vibrant, diverse audience passionate about
+exploration. The Teva brand’s collection includes a variety of footwear options, from classic sandals and shoes to boots; all crafted for the
+demands of the outdoors.
+Sanuk Brand. The Sanuk brand originated in Southern California surf culture and has emerged as a lifestyle brand with a presence in the
+relaxed casual shoe and sandal categories with a focus on innovation in comfort and sustainability. The Sanuk brand’s use of unexpected
+materials and unconventional construction, combined with its fun and playful branding, are key elements of the brand’s identity.
+21
+Table of Contents
+Other Brands. Other brands consist primarily of the Koolaburra, as well as the recently launched AHNU brand. The Koolaburra brand is a
+casual footwear fashion line that uses plush materials and is intended to target the value-oriented consumer in order to complement the UGG
+brand offering. The AHNU brand’s footwear products fuse high-performance technology with timeless style crafted for everyday wear.
+Refer to the “Reportable Operating Segment Overview,” in Part II, Item 7, “Management’s Discussion and Analysis of Financial Condition
+and Results of Operations,” of our 2024 Annual Report for further discussion of our outlook on consumer demand drivers for our UGG, HOKA,
+Teva, Sanuk, and Other brands products.
+Direct-to-Consumer. Our DTC business encompasses all of our brands and is comprised of our e-commerce websites and retail stores,
+which are intertwined and interdependent in an omni-channel marketplace. Net sales from our e-commerce websites and retail stores are
+recorded in our DTC reportable operating segment, except for net sales from our partner retail stores, which are recorded in our brands’
+respective wholesale reportable operating segments.
+During the three months ended June 30, 2024, we opened nine new stores, which included six HOKA brand stores and three UGG brand
+stores, including a HOKA brand flagship store in New York City and a UGG brand flagship store in London, UK, respectively. As of June 30,
+2024, we have a total of 172 global retail stores (including 32 HOKA brand retail stores and 140 UGG brand retail stores), which includes 89
+concept stores and 83 outlet stores.
+Refer to the “Reportable Operating Segment Overview” in Part II, Item 7, “Management’s Discussion and Analysis of Financial Condition
+and Results of Operations,” of our 2024 Annual Report for further details on our DTC reportable operating segment, including retail store
+definitions.
+USE OF NON-GAAP FINANCIAL MEASURES
+We disclose financial measures calculated and presented in accordance with US GAAP; however, throughout this Quarterly Report we
+provide certain financial information on a non-GAAP basis (non-GAAP financial measures). We provide non-GAAP financial measures to provide
+information that may assist investors in understanding our results of operations and assessing our prospects for future performance, which
+consist of constant currency measures. We believe evaluating certain financial and operating measures on a constant currency basis is
+important as it excludes the impact of foreign currency exchange rate fluctuations that are not indicative of our core results of operations and are
+largely outside of our control. However, our non-GAAP financial measures are not intended to represent and should not be considered more
+meaningful measures than, or alternatives to, measures of financial or operating performance as determined in accordance with US GAAP.
+We calculate our constant currency non-GAAP financial measures for current period financial information, such as total net sales using the
+foreign currency exchange rates that were in effect during the previous comparable period, excluding the effects of foreign currency exchange
+rate hedges and remeasurements in the condensed consolidated financial statements. We also report comparable DTC sales on a constant
+currency basis for DTC operations that were open throughout the current and prior reporting periods, and we may adjust prior reporting periods
+to conform to current year accounting policies. The information presented on a constant currency basis, as we present such information, may not
+necessarily be comparable to similarly titled information presented by other companies, and may not be appropriate measures for comparing our
+performance relative to other companies. Constant currency measures should not be considered in isolation as an alternative to US dollar
+measures that reflect current period foreign currency exchange rates or to other financial or operating measures presented in accordance with
+US GAAP.
+SEASONALITY
+Refer to Note 1, “General,” of our condensed consolidated financial statements in Part I, Item 1 within this Quarterly Report and to Part II,
+Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations,” of our 2024 Annual Report for detailed
+information on the seasonality of our business.
+22
+Table of Contents
+RESULTS OF OPERATIONS
+Three Months Ended June 30, 2024, Compared to Three Months Ended June 30, 2023. Results of operations were as follows:
+Three Months Ended June 30,
+2024 2023 Change
+Amount % Amount % Amount %
+Net sales $ 825,347 100.0 % $ 675,791 100.0 % $ 149,556 22.1 %
+Cost of sales 355,347 43.1 329,367 48.7 (25,980) (7.9)
+Gross profit 470,000 56.9 346,424 51.3 123,576 35.7
+Selling, general, and administrative
+expenses 337,193 40.9 275,688 40.8 (61,505) (22.3)
+Income from operations 132,807 16.0 70,736 10.5 62,071 87.8
+Total other income, net (16,346) (2.1) (10,628) (1.5) 5,718 53.8
+Income before income taxes 149,153 18.1 81,364 12.0 67,789 83.3
+Income tax expense 33,528 4.1 17,812 2.6 (15,716) (88.2)
+Net income 115,625 14.0 63,552 9.4 52,073 81.9
+Total other comprehensive loss, net of
+tax (3,800) (0.5) (8,299) (1.2) 4,499 54.2
+Comprehensive income $ 111,825 13.5 % $ 55,253 8.2 % $ 56,572 102.4 %
+Net income per share
+Basic $ 4.54 $ 2.43 $ 2.11 86.8 %
+Diluted $ 4.52 $ 2.41 $ 2.11 87.2 %
+Net Sales. Net sales by location, and by brand and channel were as follows:
+Three Months Ended June 30,
+2024 2023 Change
+Amount Amount Amount %
+Net sales by location
+Domestic $ 515,856 $ 419,535 $ 96,321 23.0 %
+International 309,491 256,256 53,235 20.8
+Total $ 825,347 $ 675,791 $ 149,556 22.1 %
+Net sales by brand and channel
+UGG brand
+Wholesale $ 142,553 $ 121,545 $ 21,008 17.3 %
+Direct-to-Consumer 80,398 73,975 6,423 8.7
+Total 222,951 195,520 27,431 14.0
+HOKA brand
+Wholesale 332,732 260,847 71,885 27.6
+Direct-to-Consumer 212,446 159,637 52,809 33.1
+Total 545,178 420,484 124,694 29.7
+Teva brand
+Wholesale 31,359 35,132 (3,773) (10.7)
+Direct-to-Consumer 14,951 13,266 1,685 12.7
+Total 46,310 48,398 (2,088) (4.3)
+23
+Table of Contents
+Three Months Ended June 30,
+2024 2023 Change
+Amount Amount Amount %
+Sanuk brand
+Wholesale 4,433 6,470 (2,037) (31.5)
+Direct-to-Consumer 2,429 3,109 (680) (21.9)
+Total 6,862 9,579 (2,717) (28.4)
+Other brands
+Wholesale 3,705 1,427 2,278 159.6
+Direct-to-Consumer 341 383 (42) (11.0)
+Total 4,046 1,810 2,236 123.5
+Total $ 825,347 $ 675,791 $ 149,556 22.1 %
+Total Wholesale $ 514,782 $ 425,421 $ 89,361 21.0 %
+Total Direct-to-Consumer 310,565 250,370 60,195 24.0
+Total $ 825,347 $ 675,791 $ 149,556 22.1 %
+Total net sales increased primarily due to higher global wholesale and DTC channel sales for the HOKA brand, as well as higher domestic
+wholesale and global DTC channel sales for the UGG brand.
+On a constant currency basis, net sales increased by 23.0%, compared to the prior period. Further, we experienced an increase of 13.4% in
+the total volume of units sold to 12,700 from 11,200, compared to the prior period. Units sold represents all units related to the total net sales
+presented, inclusive of all categories such as footwear, apparel, accessories, home goods, and care kits. The prior period total volume of units
+sold for only footwear has been modified to conform to the current period presentation.
+Drivers of significant changes in net sales, compared to the prior period, were as follows:
+• Wholesale net sales of the HOKA brand increased due to higher global sales across the brand’s product assortment, driven by
+market share gains, refilling channel inventory, and benefits from select new points of distribution with key partners.
+• DTC net sales increased primarily due to higher global sales for the HOKA and UGG brands, driven primarily by consumer
+acquisition and retention online as we continued to experience increased demand for both brands, as well as benefiting from a
+higher level of full-price selling, primarily for the UGG brand. Comparable DTC channel net sales for the 13 weeks ended
+June 30, 2024, increased by 21.9%, compared to the prior period.
+• Wholesale net sales of the UGG brand increased primarily due to higher domestic sales, resulting from strong brand heat driving
+earlier demand and refilling of inventory levels for our partners, including adoption of year-round key product franchises.
+• International net sales, which are included in the reportable operating segment net sales presented above, increased by 20.8%
+and represented 37.5% and 37.9% of total net sales for the three months ended June 30, 2024, and 2023, respectively. These
+changes were primarily driven by higher net sales for both channels of the HOKA brand, primarily in Europe and China.
+Gross Profit. Gross margin increased to 56.9% from 51.3%, compared to the prior period, primarily due to favorable brand mix for the
+HOKA brand along with higher margin product driving a higher proportion of growth for both the HOKA and UGG brands, higher full-price selling,
+particularly for the UGG brand that was more promotional in the prior period, and favorable changes in freight costs.
+24
+Table of Contents
+Selling, General, and Administrative Expenses. The net increase in SG&A expenses, compared to the prior period, was primarily the result
+of the following:
+• Increased payroll and related costs of approximately $24,900, primarily due to investments in talent for key functions for
+corporate and HOKA brand roles driving higher employee headcount and full-year costs for prior comparable period hiring.
+• Increased variable advertising and promotion expenses of approximately $15,800, primarily due to higher promotional marketing
+expenses for the HOKA brand to drive global brand awareness and market share gains, highlight new product categories, and
+provide localized marketing.
+• Increased other variable net selling expenses of approximately $8,800, primarily due to higher rent and occupancy, materials
+and supplies, credit card fees, and warehouse expenses.
+• Increased other operating expenses of approximately $7,600, primarily due to higher infrastructure investments and related
+depreciation, and higher travel expenses, partially offset by lower legal expenses.
+• Increased net foreign currency-related losses of approximately $4,400, primarily driven by unfavorable changes in Asian and
+Canadian exchange rates against the US dollar.
+Income from Operations. Income (loss) from operations by reportable operating segment was as follows:
+Three Months Ended June 30,
+2024 2023 Change
+Amount Amount Amount %
+Income (loss) from operations
+UGG brand wholesale $ 38,430 $ 16,866 $ 21,564 127.9 %
+HOKA brand wholesale 124,694 86,524 38,170 44.1
+Teva brand wholesale 6,789 9,237 (2,448) (26.5)
+Sanuk brand wholesale 1,603 759 844 111.2
+Other brands wholesale (1,557) (2,041) 484 23.7
+Direct-to-Consumer 106,410 75,462 30,948 41.0
+Unallocated overhead costs (143,562) (116,071) (27,491) (23.7)
+Total $ 132,807 $ 70,736 $ 62,071 87.8 %
+The increase in total income from operations, compared to the prior period, was primarily due to higher net sales at higher gross margins,
+combined with relatively flat SG&A expenses as a percentage of net sales.
+Drivers of significant net changes in total income from operations, compared to the prior period, were as follows:
+• The increase in income from operations of HOKA brand wholesale was due to higher global net sales at higher gross margins,
+as well as slightly lower SG&A expenses as a percentage of net sales.
+• The increase in income from operations of the DTC channel was due to higher global net sales for the HOKA and UGG brands
+at higher gross margins, as well as slightly lower SG&A expenses as a percentage of net sales in total.
+• The increase in income from operations of UGG brand wholesale was primarily due to higher domestic net sales at higher gross
+margins, as well as lower SG&A expenses as a percentage of net sales.
+• The increase in unallocated overhead costs was higher as a percentage of net sales, primarily due to higher payroll costs for
+key corporate roles to support growth of our brands, increased foreign currency-related losses, and higher other operating
+expenses.
+25
+Table of Contents
+Total Other Income, Net. The increase in total other income, net, compared to the prior period, was due to higher interest income from
+higher average invested cash balances and average interest rates.
+Income Tax Expense. Income tax expense and our effective income tax rate were as follows:
+Three Months Ended June 30,
+2024 2023
+Income tax expense $ 33,528 $ 17,812
+Effective income tax rate 22.5 % 21.9 %
+The net increase in our effective income tax rate, compared to the prior period, was due to higher operating income, including changes in
+jurisdictional mix of worldwide income before income taxes, partially offset by net discrete tax benefits for stock-based compensation.
+Net Income. The increase in net income, compared to the prior period, was primarily due to higher net sales and operating margins, as well
+as higher interest income. Net income per share increased, compared to the prior period, due to higher net income and lower weighted-average
+common shares outstanding driven by stock repurchases.
+Total Other Comprehensive Loss, Net of Tax. The decrease in total other comprehensive loss, net of tax, compared to the prior period, was
+primarily due to lower foreign currency translation losses relating to changes in the net asset position against Asian foreign currency exchange
+rates.
+LIQUIDITY
+Our liquidity may be impacted by a number of factors, risks and uncertainties described in the section titled “Liquidity” in Part II, Item 7,
+“Management’s Discussion and Analysis of Financial Condition and Results of Operations,” as well as in Part I, Item 1A, “Risk Factors,” of our
+2024 Annual Report.
+Sources of Liquidity. We finance our working capital and operating requirements using a combination of cash and cash equivalents
+balances, including cash from our repatriation strategy, cash provided from ongoing operating activities and, to a lesser extent, available
+borrowing capacity under our revolving credit facilities. Refer to the “Cash Flows” section below for further discussion on cash flows from
+ongoing operating activities.
+Cash and Cash Equivalents. As of June 30, 2024, our cash and cash equivalents are $1,438,397, the majority of which is held in highly
+rated money market funds and interest-bearing bank deposit accounts with established national and global financial institutions. We believe our
+cash and cash equivalents balances, cash provided by operating activities, and available borrowing capacity under our revolving credit facilities,
+will provide sufficient liquidity to enable us to meet our working capital requirements and contractual obligations for at least the next 12 months
+and will be sufficient to meet the long-term requirements of our business strategies and plans. However, there can be no assurance that
+sufficient capital will continue to be available or that it will be available on terms acceptable to us.
+Repatriation of Cash. Our cash repatriation strategy, and by extension, our liquidity, may be impacted by several additional considerations,
+which include future changes to or interpretations of global tax law and regulations, and our actual earnings in future periods. During the three
+months ended June 30, 2024, and 2023, no cash and cash equivalents were repatriated. As of June 30, 2024, and March 31, 2024, we have
+$343,082 and $263,820, respectively, of cash and cash equivalents held by foreign subsidiaries, a portion of which may be subject to additional
+foreign withholding taxes if it were to be repatriated. We continue to evaluate our cash repatriation strategy and currently anticipate repatriating
+current and future unremitted earnings of non-US subsidiaries to the extent they have been subject to US income tax if such cash is not required
+to fund ongoing foreign operations. Refer to Note 5, “Income Taxes,” of our consolidated financial statements in Part IV of our 2024 Annual
+Report for further information regarding our cash repatriation strategy.
+26
+Table of Contents
+Revolving Credit Facilities. Information about the revolving credit facilities available as of June 30, 2024, is as follows:
+• Primary Credit Facility. During the three months ended June 30, 2024, we made no borrowings or repayments and there were
+no material changes to the terms, to the outstanding letters of credit, or to the borrowing availability under our unsecured
+revolving credit facility disclosed in our 2024 Annual Report.
+• China Credit Facility. During the three months ended June 30, 2024, we made no borrowings or repayments and there were no
+material changes to the terms or to the outstanding bank guarantees under our credit facility in China disclosed in our 2024
+Annual Report.
+• Debt Covenants. As of June 30, 2024, we are in compliance with all financial covenants under our revolving credit facilities.
+Refer to Note 6, “Revolving Credit Facilities,” of our consolidated financial statements in Part IV of our 2024 Annual Report for further
+information on the terms of our revolving credit facilities.
+Material Cash Requirements. Our material cash requirements include uses for working capital, and payments to fulfill contractual
+obligations, capital expenditures, and stock repurchases. Our working capital requirements begin when we purchase raw and other materials
+and inventories and continue until we ultimately collect the resulting trade accounts receivable. Given the historical seasonality of our business,
+our working capital requirements fluctuate significantly throughout our fiscal year, and we utilize available cash to build inventory levels during
+certain quarters in our fiscal year to support higher selling seasons. While the impact of seasonality has been mitigated to some extent, we
+expect our working capital requirements will continue to fluctuate from period to period.
+Contractual Obligations. Refer to the subsection titled “Leases” under Note 5, “Commitments and Contingencies,” of our condensed
+consolidated financial statements in Part I, Item 1 within this Quarterly Report for further information regarding our material contractual
+obligations incurred during the three months ended June 30, 2024, and through July 11, 2024.
+Except for the above, there were no other material changes outside the ordinary course of business to the contractual obligations or capital
+expenditures disclosed in the sections titled “Contractual Obligations” and “Capital Expenditures” in Part II, Item 7, “Management’s Discussion
+and Analysis of Financial Condition and Results of Operations,” of our 2024 Annual Report.
+Stock Repurchase Program. As of June 30, 2024, the aggregate remaining approved amount under our stock repurchase program is
+$789,737. Our stock repurchase program does not obligate us to acquire any amount of common stock and suspend at any time at our
+discretion.
+Refer to Note 7, “Stockholders’ Equity,” of our condensed consolidated financial statements in Part I, Item 1 and to Part II, Item 2,
+“Unregistered Sales of Equity Securities and Use of Proceeds,” within this Quarterly Report for further information regarding our stock
+repurchase program and capital allocation strategy.
+27
+Table of Contents
+CASH FLOWS
+The following table summarizes the major components of our condensed consolidated statements of cash flows for the periods presented:
+Three Months Ended June 30,
+2024 2023 Change
+Amount Amount Amount %
+Net cash provided by operating activities $ 112,650 $ 125,262 $ (12,612) (10.1)%
+Net cash used in investing activities (22,521) (30,732) 8,211 26.7
+Net cash used in financing activities (151,861) (25,619) (126,242) (492.8)
+Effect of foreign currency exchange rates on cash and
+cash equivalents (1,922) (3,817) 1,895 49.6
+Net change in cash and cash equivalents $ (63,654) $ 65,094 $ (128,748) (197.8)%
+Operating Activities. Our primary source of liquidity is net cash provided by operating activities, which is driven by our net income after
+non-cash adjustments and changes in working capital.
+The decrease in net cash provided by operating activities during the three months ended June 30, 2024, compared to the prior period, was
+due to $70,111 of unfavorable changes in operating assets and liabilities partially offset by $57,499 of favorable net income after non-cash
+adjustments. The unfavorable changes in operating assets and liabilities were primarily due to increased purchases of inventory to support
+higher demand for our brands, increased accrual primarily for performance-based compensation related to the prior fiscal year, increased trade
+accounts receivable on higher net sales, partially offset by favorable changes due to timing of derivative cash settlements, tax refunds and
+payments, as well as receipt of goods and services relative to payments on trade accounts payable.
+Investing Activities. The decrease in net cash used in investing activities during the three months ended June 30, 2024, compared to the
+prior period, was primarily due to lower capital expenditures for leasehold improvements for our warehouses and DCs.
+Financing Activities. The increase in net cash used in financing activities during the three months ended June 30, 2024, compared to the
+prior period, was primarily due to a higher dollar value of stock repurchases.
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+Preparation of our condensed consolidated financial statements in accordance with US GAAP requires management to make estimates
+and assumptions that affect the amounts reported. Management bases these estimates and assumptions upon historical experience, existing
+and known circumstances, authoritative accounting pronouncements, and other factors that we believe to be reasonable, but actual results could
+differ materially from these estimates. In addition, management has considered the potential impact of macroeconomic factors, including
+inflation, foreign currency exchange rate volatility, changes in interest rates, changes in commodity pricing, changes in consumer discretionary
+spending, and recessionary concerns, on our business and operations. Although the full impact of these factors is unknown, management
+believes it has made appropriate accounting estimates and assumptions based on the facts and circumstances available as of the reporting
+date. However, actual results could differ materially from these estimates and assumptions, which may result in material effects on our financial
+condition, results of operations and liquidity. Refer to the sections titled “Use of Estimates” and “Recent Accounting Pronouncements” within Note
+1, “General,” of our condensed consolidated financial statements in Part I, Item 1 within this Quarterly Report, for additional information
+regarding applicable key estimates and assumptions, as well as the impact of recent accounting pronouncements.
+There have been no material changes to the critical accounting policies and key estimates and assumptions disclosed in the section titled
+“Critical Accounting Policies and Estimates” in Part II, Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of
+Operations,” within our 2024 Annual Report.
+28
+Table of Contents
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+In the normal course of business, our financial position and results of operations are subject to a variety of risks, including risks associated
+with commodity pricing, foreign currency exchange rates and, to a lesser extent, interest rates. We regularly assess these risks and have
+established policies and business practices designed to mitigate their effects. There have been no material changes in the quantitative and
+qualitative disclosures about market risk disclosed in Part II, Item 7A, “Quantitative and Qualitative Disclosures About Market Risk,” within our
+2024 Annual Report.
+ITEM 4. CONTROLS AND PROCEDURES
+DISCLOSURE CONTROLS AND PROCEDURES
+We maintain a system of disclosure controls and procedures, as defined in Rule 13a-15(e) under the Exchange Act, which are designed to
+provide reasonable assurance that information required to be disclosed in the reports that we file or submit under the Exchange Act is recorded,
+processed, summarized, and reported within the time periods specified in the SEC’s rules and forms. In designing and evaluating our disclosure
+controls and procedures, our management recognized that any system of controls and procedures, no matter how well designed and operated,
+can provide only reasonable assurance of achieving the desired control objectives, as ours is designed to do, and management necessarily is
+required to apply its judgment in evaluating the cost-benefit relationship of possible controls and procedures. In addition, the design of any
+system of controls is also based in part upon certain assumptions about the likelihood of future events, and there can be no assurance that any
+design will succeed in achieving its stated goals under all potential future conditions. Over time, controls may become inadequate because of
+changes in conditions, or the degree of compliance with policies or procedures may deteriorate. Because of the inherent limitations in a cost-
+effective control system, misstatements due to error or fraud may occur and not be detected.
+Under the supervision and with the participation of management, we conducted an evaluation of the effectiveness of the design and
+operation of our disclosure controls and procedures as of June 30, 2024. Based on that evaluation, our PEO and Principal Financial and
+Accounting Officer (PFAO) concluded that our disclosure controls and procedures are effective at a reasonable assurance level as of June 30,
+2024.
+INTERNAL CONTROL OVER FINANCIAL REPORTING
+There were no changes in our internal control over financial reporting identified in management’s evaluation pursuant to Rule 13a-15(d) of
+the Exchange Act during the three months ended June 30, 2024, that have materially affected, or are reasonably likely to materially affect, our
+internal control over financial reporting.
+PRINCIPAL EXECUTIVE OFFICER AND PRINCIPAL FINANCIAL AND ACCOUNTING OFFICER CERTIFICATIONS
+The certifications of our PEO and PFAO required by Rule 13a-14(a) of the Exchange Act are filed as Exhibit 31.1 and Exhibit 31.2, and
+furnished as Exhibit 32, to this Quarterly Report. This Part I, Item 4, should be read in conjunction with such certifications for a more complete
+understanding of the topics presented.
+29
+Table of Contents
+PART II. OTHER INFORMATION
+ITEM 1. LEGAL PROCEEDINGS
+As part of our global policing program to protect our intellectual property rights, from time to time, we file lawsuits in various jurisdictions
+asserting claims for alleged acts of trademark counterfeiting, trademark infringement, patent infringement, trade dress infringement, and
+trademark dilution. We generally have multiple actions such as these pending at any given point in time. These actions may result in seizure of
+counterfeit merchandise, out-of-court settlements with defendants, or other outcomes. In addition, from time to time, we are subject to claims in
+which opposing parties will raise, either as affirmative defenses or as counterclaims, the invalidity or unenforceability of certain of our intellectual
+property rights, including allegations that the UGG brand trademark registrations and design patents are invalid or unenforceable. Furthermore,
+we are aware of many instances throughout the world in which a third-party is using our UGG brand and HOKA brand trademarks within its
+internet domain name. We are investigating several manufacturers and distributors of counterfeit UGG and HOKA brand products, as well as
+various markets for indications of counterfeit UGG and HOKA brand products.
+From time to time, we are involved in various legal proceedings, disputes, and other claims arising in the ordinary course of business,
+including employment, intellectual property, and product liability claims. Although the results of these ordinary course matters cannot be
+predicted with certainty, we currently believe that the final outcome of these ordinary course matters will not, individually or in the aggregate,
+have a material adverse effect on our business, results of operations, financial condition, or cash flows. However, regardless of the merit of the
+claims raised or the outcome, these ordinary course matters can have an adverse impact on us as a result of legal costs, diversion of
+management’s time and resources, and other factors.
+ITEM 1A. RISK FACTORS
+An investment in our common stock involves risks. Before making an investment decision, you should carefully consider all the information
+within Part I, Item 2, “Management’s Discussion and Analysis of Financial Condition and Results of Operations,” as well as in our condensed
+consolidated financial statements and the related notes contained in Part I, Item 1 within this Quarterly Report. In addition, you should carefully
+consider the risks and uncertainties described in Part I, Item 1A, “Risk Factors,” of our 2024 Annual Report, as well as in our other public filings
+with the SEC. If any of the identified risks are realized, our business, results of operations, financial condition, liquidity, and prospects could be
+materially and adversely affected. In that case, the trading price of our common stock may decline, and you could lose all or part of your
+investment. In addition, other risks of which we are currently unaware, or which we do not currently view to be material, could have a material
+adverse effect on our business, results of operations, financial condition, liquidity, and prospects.
+During the three months ended June 30, 2024, there were no material changes to the risks and uncertainties described in Part I, Item 1A,
+“Risk Factors,” of our 2024 Annual Report.
+30
+Table of Contents
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+Unregistered Sales of Equity Securities
+None.
+Use of Proceeds
+Not applicable.
+Purchases of Equity Securities by the Issuer and Affiliated Purchasers
+Our Board of Directors (Board) has approved various authorizations under our stock repurchase program to repurchase shares of our
+common stock in the open market or in privately negotiated transactions, subject to market conditions, applicable legal requirements, and other
+factors (collectively, the stock repurchase program). Our Board last approved an additional authorization of $1,200,000 on July 27, 2022, to
+repurchase our common stock under the same conditions as the prior stock repurchase programs. As of June 30, 2024, the aggregate remaining
+approved amount under the stock repurchase program is $789,737.
+Our stock repurchase program does not obligate us to acquire any amount of common stock and may be suspended at any time at our
+discretion. The agreements under our revolving credit facilities allow us to make stock repurchases under this program, so long as we do not
+exceed certain leverage ratios. As of June 30, 2024, we have not exceeded the stated leverage ratios and no defaults have occurred under our
+credit agreements.
+Stock repurchase activity under our stock repurchase program during the three months ended June 30, 2024, was as follows:
+Dollar value of shares
+Total number of Average price per Dollar value of shares remaining for
+shares repurchased (1) share paid repurchased (2) (3) repurchase (3)
+April 1 - April 30, 2024 103,736 $ 833.72 $ 86,487 $ 855,217
+May 1 - May 31, 2024 59,332 867.77 51,486 803,731
+June 1 - June 30, 2024 13,888 1,007.63 13,994 789,737
+(1) All share repurchases were made pursuant to our stock repurchase program in open-market transactions.
+(2) The dollar value of shares repurchased excludes the cost of broker commissions, excise taxes, and other costs.
+(3) May not calculate on rounded dollars.
+Subsequent to June 30, 2024, through July 11, 2024, we repurchased 17,307 shares at an average price of $924.11 per share for $15,994,
+and had $773,743 remaining authorized under our stock repurchase program.
+Refer to Note 7, “Stockholders’ Equity,” of our condensed consolidated financial statements in Part I, Item 1 within this Quarterly Report, for
+further information on repurchases of our common stock.
+31
+Table of Contents
+ITEM 5. OTHER INFORMATION
+DIRECTOR AND EXECUTIVE OFFICER TRADING PLANS AND ARRANGEMENTS
+Our directors and executive officers may enter into trading plans or other arrangements with financial institutions to purchase or sell shares
+of our common stock. These plans or arrangements may be intended to comply with the affirmative defense provisions of Rule 10b5-1 of the
+Exchange Act (Rule 10b5-1 trading plans), or they may represent non-Rule 10b5-1 trading arrangements, in each case as defined under Item
+408(a) of Regulation S-K.
+Set forth below is a summary of the adoption, modification, and termination activity of our directors and executive officers with respect to
+Rule 10b5-1 trading plans during the three months ended June 30, 2024:
+Aggregate Shares
+Covered
+Name & Title Adoption Date Termination Date Contract End Date (in ones)
+Dave Powers,
+Chief Executive Officer (1) September 8, 2023 April 15, 2024 (2) April 22, 2024 35,957
+Stefano Caroti,
+Chief Commercial Officer (1) March 7, 2024 June 6, 2024 (2) August 31, 2024 5,000
+Stefano Caroti,
+Chief Commercial Officer (1) June 7, 2024 * September 30, 2025 3,569
+Steven Fasching,
+Chief Financial Officer June 4, 2024 * January 31, 2025 3,000
+Anne Spangenberg, President,
+Fashion Lifestyle Group June 4, 2024 * June 1, 2025 2,781
+Bonita Stewart, Director June 4, 2024 * May 29, 2025 2,250
+Maha Ibrahim, Director June 6, 2024 * September 9, 2025 250
+(1) As disclosed in Part I, Item 2 within this Quarterly Report, Mr. Powers retired as our Chief Executive Officer and President effective August 1, 2024, and
+Mr. Caroti succeeded Mr. Powers in these roles effective as of the same date. Mr. Powers is expected to continue to serve as a member of our Board, if
+elected by our stockholders at the Annual Meeting of Stockholders to be held on September 9, 2024.
+(2) This trading plan was terminated automatically prior to the contract end date upon the sale of all shares covered by the plan.
+*Not applicable.
+During the three months ended June 30, 2024, no non-Rule 10b5-1 trading arrangements were adopted, modified, or terminated by our
+directors or executive officers.
+32
+Table of Contents
+ITEM 6. EXHIBITS
+EXHIBIT INDEX
+Exhibit
+Number Description of Exhibit
+*10.1 Form of Change in Control and Severance Agreement
+*31.1 Certification of Principal Executive Officer pursuant to Rule 13a-14(a) under the Exchange Act, adopted pursuant to
+Section 302 of the Sarbanes-Oxley Act of 2002, as amended
+*31.2 Certification of Principal Financial and Accounting Officer pursuant to Rule 13a-14(a) under the Exchange Act, adopted
+pursuant to Section 302 of the Sarbanes-Oxley Act of 2002, as amended
+**32.1 Certification pursuant to 18 U.S.C. Section 1350, adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002,
+as amended
+*101.INS Inline XBRL Instance Document (the instance document does not appear in the Interactive Data File because its XBRL
+tags are embedded within the Inline XBRL document)
+*101.SCH Inline XBRL Taxonomy Extension Schema Document
+*101.CAL Inline XBRL Taxonomy Extension Calculation Linkbase Document
+*101.DEF Inline XBRL Taxonomy Extension Definition Linkbase Document
+*101.LAB Inline XBRL Taxonomy Extension Label Linkbase Document
+*101.PRE Inline XBRL Taxonomy Extension Presentation Linkbase Document
+*104 Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)
+* Filed herewith.
+** Furnished herewith.
+33
+Table of Contents
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned thereunto duly authorized.
+DECKERS OUTDOOR CORPORATION
+(Registrant)
+/s/ STEVEN J. FASCHING
+Steven J. Fasching
+Chief Financial Officer
+(Principal Financial and Accounting Officer)
+Date: August 1, 2024
+34
+EXHIBIT 10.1
+CHANGE IN CONTROL AND SEVERANCE AGREEMENT
+THIS CHANGE IN CONTROL AND SEVERANCE AGREEMENT (the “Agreement”) is made as of [DATE], by and between
+DECKERS OUTDOOR CORPORATION, a Delaware corporation (the “Company”), and [EXECUTIVE] (the “Executive”) and is
+effective as [DATE] (the “Effective Date”).
+ARTICLE I
+DUTIES AND TERMS
+1.1 EMPLOYMENT. In consideration of their mutual covenants and other good and valuable consideration, the
+receipt, adequacy, and sufficiency of which is hereby acknowledged, as of the Effective Date the Company shall employ Executive,
+and the Executive hereby accepts such employment as [POSITION] upon the terms and conditions set forth in this Agreement.
+1.2 POSITION AND RESPONSIBILITIES. The Executive will serve as [POSITION] and shall report to the
+Company’s [SUPERVISOR]. The Executive’s primary work location will be the Company’s offices in Goleta, California, subject to
+business travel as needed for the Executive’s position. The Executive shall perform all of the duties reasonably assigned to him/her by
+[SUPERVISOR], commensurate with his/her position as [POSITION], and shall observe and comply with the Company’s rules and
+regulations regarding the performance of his/her duties and shall carry out and perform all reasonable orders, directions, and policies given
+to him/her by [SUPERVISOR] periodically, either orally or in writing, commensurate with his/her position as [POSITION]. The Executive
+shall at all times carry out the duties assigned to him/her in a loyal, trustworthy and businesslike manner.
+1.3 AT-WILL EMPLOYMENT. Executive will continue to be employed as an at-will employee of the Company.
+Subject to the provisions of Articles III and IV, as an at-will employee, Executive is free to terminate his employment with the Company at
+any time, for any reason, and the Company has the similar right to terminate Executive’s employment at any time, for any reason.
+Although the Company may choose to terminate Executive’s employment for cause, Executive’s employment is at-will and cause is not
+required.
+1.4 PERSONNEL POLICIES. Except as otherwise provided herein, Executive shall be subject to the personnel
+policies of the Company applicable to management employees, and any amendments or revisions thereto. In the event of a conflict
+between this Agreement and the Company’s personnel policies, the terms of this Agreement shall control.
+ARTICLE II
+COMPENSATION
+For all services rendered by the Executive in any capacity during the Executive’s employment under this Agreement, the Company
+will compensate the Executive as follows:
+1
+2.1 BASE SALARY. The Company will pay to the Executive an annual base salary to be paid in equal installments in
+accordance with the Company’s general payment policies in effect during the term hereof (the “Base Salary”). The Base Salary shall be
+subject to review by the Company based on both Executive and Company performance and such base salary amount as may be set from
+time-to-time shall be “Base Salary” for purposes of this Agreement. This provision does not alter the at-will nature of Executive’s
+employment or the provisions of Articles III and IV below.
+2.2 MANAGEMENT INCENTIVE PROGRAM. The Executive shall be eligible to receive a targeted annual bonus
+based on Company and individual performance criteria established annually by the Compensation Committee (the “Incentive Bonus”).
+2.3 STOCK COMPENSATION. The Executive will be eligible to participate in the Company’s stock compensation
+program at a level commensurate with like-level executive employees, subject to the terms of the program as set by the Board of
+Directors. The number, terms and types of stock compensation awards granted may vary from year to year.
+2.4 ADDITIONAL BENEFITS. The Executive will be entitled to participate in all benefit and welfare programs,
+plans, and arrangements that are from time to time made available to the Company’s like-level executive employees. These benefits
+currently include medical, dental and life insurance; Section 125 Flexible Spending Plan; 401(k) Retirement Plan; and Executive Vacation
+Plan.
+ARTICLE III
+TERMINATION OF EMPLOYMENT
+3.1 GENERAL. While Executive is an at-will employee as provided in Section 1.3 above, the following conditions for
+termination of employment are set forth in order to determine the nature of Executive’s compensation entitlement upon termination of
+employment as discussed in Article IV below. Neither the provisions of Article III nor Article IV of this Agreement shall alter the at-will
+nature of Executive’s employment with the Company. Upon termination of Executive’s employment, Executive shall be deemed to have
+automatically resigned as a director or officer of any of the Company’s affiliates or subsidiaries in which Executive serves in any such
+capacity and during and after Executive’s employment, Executive will assist Company in every proper way to evidence such resignation.
+3.2 DEATH OF EXECUTIVE. The Executive’s employment under this Agreement will automatically terminate upon
+the death of the Executive.
+3.3 BY EXECUTIVE. The Executive may terminate the Executive’s employment under this Agreement by giving
+Notice of Termination (as defined in Section 6.1 hereof) to the Company:
+(a) for Good Reason (as defined in Section 6.1 hereof); and
+(b) at any time without Good Reason.
+2
+3.4 BY COMPANY. The Company may terminate the Executive’s employment under this Agreement by giving Notice
+of Termination to the Executive:
+(a) in the event of Executive’s Total Disability (as defined in Section 6.1 hereof);
+(b) for Cause (as defined in Section 6.1 hereof); and
+(c) at any time without Cause.
+ARTICLE IV
+COMPENSATION UPON TERMINATION OF EMPLOYMENT
+If the Executive’s employment hereunder is terminated, in accordance with the provisions of Article III hereof, and except for any
+other rights or benefits specifically provided for herein to be effective following the Executive’s period of employment, the Company will
+provide compensation and benefits to the Executive only as follows:
+4.1 UPON TERMINATION FOR DEATH OR DISABILITY. If the Executive’s employment hereunder is terminated
+by reason of the Executive’s death or Total Disability, the Company will:
+(a) pay the Executive (or the Executive’s estate) or beneficiaries any Base Salary that has accrued but was not
+paid as of the termination date (the “Accrued Base Salary”);
+(b) pay the Executive (or the Executive’s estate) or beneficiaries for unused vacation days accrued as of the
+termination date in an amount equal to the Executive’s Base Salary multiplied by a fraction the numerator of which is the number of
+accrued unused vacation days and the denominator of which is 260 (the “Accrued Vacation Payment”);
+(c) subject to Section 4.6 hereof, reimburse the Executive (or the Executive’s estate) or beneficiaries for
+expenses incurred by him/her prior to the date of termination that are subject to reimbursement pursuant to this Agreement (the “Accrued
+Reimbursable Expenses”);
+(d) provide to the Executive (or the Executive’s estate) or beneficiaries any accrued and vested benefits
+required to be provided by the terms of any Company-sponsored benefit plans or programs (the “Accrued Benefits”), together with any
+benefits required to be paid or provided in the event of the Executive’s death or Total Disability under applicable law;
+(e) pay the Executive (or the Executive’s estate) or beneficiaries any Incentive Bonus with respect to a fiscal
+year prior to the fiscal year of termination that has been earned and accrued but has not been paid (the “Accrued Incentive Bonus”); plus a
+pro-rated portion of the Incentive Bonus based on the actual length of service during the fiscal year of termination and the target amount of
+such Incentive Bonus previously established by the Compensation Committee for that fiscal year, which shall be paid no later than the first
+to occur of the following: (i) March 15 of the year following the year in which the last day of the fiscal year of termination occurs; and (ii)
+3
+thirty (30) days following the Compensation Committee’s determination of the Company’s level of achievement of the performance
+criteria based upon the Company’s financial statements for such fiscal year; and
+(f) the Executive (or the Executive’s estate) or beneficiaries shall have the right to exercise all vested
+unexercised stock options and warrants outstanding at the termination date in accordance with terms of the plans and agreements pursuant
+to which such options or warrants were issued.
+4.2 UPON TERMINATION BY COMPANY FOR CAUSE OR BY EXECUTIVE WITHOUT GOOD REASON. If the
+Executive’s employment is terminated by the Company for Cause, or if the Executive terminates the Executive’s employment with the
+Company other than (x) upon the Executive’s death or Total Disability or (y) for Good Reason, the Company will:
+(a) pay the Executive the Accrued Base Salary;
+(b) pay the Executive the Accrued Vacation Payment;
+(c) subject to Section 4.6 hereof, pay the Executive the Accrued Reimbursable Expenses;
+(d) pay the Executive the Accrued Benefits, together with any benefits required to be paid or provided under
+applicable law;
+(e) pay the Executive any Accrued Incentive Bonus, and excluding any Incentive Bonus for the fiscal year of
+termination; and
+(f) the Executive will have the right to exercise vested options and warrants in accordance with Section 4.1(f)
+hereof.
+4.3 UPON TERMINATION BY THE COMPANY WITHOUT CAUSE. In the event the Executive has incurred a
+Separation from Service (within the meaning of Section 409A(a)(2)(A)(i) of the Internal Revenue Code of 1986, as amended (the “Code”),
+and Treasury Regulation Section 1.409A-1(h)) (“Separation from Service”) by reason of a termination of the Executive’s employment by
+the Company without Cause, the Company will:
+(a) pay the Executive the Accrued Base Salary;
+(b) pay the Executive the Accrued Vacation Payment;
+(c) subject to Section 4.6 hereof, pay the Executive the Accrued Reimbursable Expenses;
+(d) pay the Executive the Accrued Benefits, together with any benefits required to be paid or provided under
+applicable law;
+4
+(e) pay the Executive any Accrued Incentive Bonus; plus a pro-rated portion of the Incentive Bonus based on
+the actual length of service during the fiscal year of termination, and the target amount of such Incentive Bonus previously established by
+the Compensation Committee for that fiscal year, which shall be paid no later than the first to occur of the following: (i) March 15 of the
+year following the year in which the last day of the fiscal year of termination occurs and (ii) thirty (30) days following the Compensation
+Committee’s determination of the Company’s level of achievement of the performance criteria based upon the Company’s financial
+statements for such fiscal year of termination;
+(f) pay the Executive severance, commencing within sixty (60) days following the termination date, of [CEO:
+twenty-four (24) / NEO: twelve (12)] monthly payments equal to one-twelfth (1/12th) of the Executive’s Annual Base Salary in effect
+immediately prior to the time such termination occurs and paid on the regular monthly payroll dates of the Company in accordance with
+the Company’s payroll practices as in effect on such termination date. Each installment payment made pursuant to this Section 4.3(f) shall
+be considered a separate payment for purposes of Section 409A of the Code (including, without limitation, for purposes of Treasury
+Regulation Section 1.409A-2(b)(2)(iii)). Subject to the requirement that the Executive incurred a Separation from Service, severance will
+be mitigated on a dollar for dollar basis for any income received by Executive for duties performed for Company or any Affiliate of the
+Company during the twelve (12) months following termination;
+(g) should Executive timely elect continued group health insurance coverage in accordance with the provisions
+of COBRA, the Company shall pay the premium amount for such continued group health insurance coverage for Executive and
+Executive’s eligible dependents for the first [CEO: twenty-four (24) / NEO: twelve (12)] months of such coverage in accordance with the
+COBRA regulations. At the end of that [CEO: twenty-four (24) / NEO: twelve (12)] month period, Executive shall be fully responsible for
+direct payment of the premium amount for continued group health insurance coverage under COBRA without any further notice from the
+Company. In addition, the Company shall no longer be required to pay such monthly premium amount if during the applicable [CEO:
+twenty-four (24) / NEO: twelve (12)] month period Executive becomes eligible for paid health insurance through other employment, and
+Employee agrees to promptly provide the Company notice in the event of such coverage eligibility; and
+(h) the Executive shall have the right to exercise vested options and warrants in accordance with Section 4.1(f).
+4.4 UPON CHANGE IN CONTROL AND TERMINATION BY THE COMPANY WITHOUT CAUSE OR BY
+EXECUTIVE FOR GOOD REASON. In the event the Executive has incurred a Separation from Service by reason of a termination of the
+Executive’s employment, within two (2) years after a Change in Control, by the Company without Cause or by the Executive for Good
+Reason, the Company will:
+(a) pay the Executive the Accrued Base Salary;
+(b) pay the Executive the Accrued Vacation Payment;
+5
+(c) subject to Section 4.6 hereof, pay the Executive the Accrued Reimbursable Expenses;
+(d) pay the Executive the Accrued Benefits, together with any benefits required to be paid or provided under
+applicable law;
+(e) pay the Executive any Accrued Incentive Bonus; plus a pro-rated portion of the Incentive Bonus based on
+the actual length of service during the fiscal year of termination and the target amount of such Incentive Bonus previously established by
+the Compensation Committee for that fiscal year, payable in lump sum within sixty (60) days after Executive’s date of termination;
+(f) pay the Executive severance of [CEO: two and one-half (2.5) / NEO: two (2.0)] times Executive’s Annual
+Base Salary in effect immediately prior to the time such termination occurs plus the greater of (x) one and one-half (1.5) times the targeted
+Incentive Bonus immediately prior to the time such termination occurs or (y) one and one-half (1.5) times the average actual Incentive
+Bonus for the previous three (3) years, whichever is greater, in lump sum within sixty (60) days after Executive’s date of termination;
+(g) should Executive timely elect continued group health insurance coverage in accordance with the provisions
+of COBRA, the Company shall pay the premium amount for such continued group health insurance coverage for Executive and
+Executive’s eligible dependents for the first [CEO: thirty (30) / NEO: twenty-four (24)] months of such coverage in accordance with the
+COBRA regulations. At the end of that [CEO: thirty (30) / NEO: twenty-four (24)] month period, Executive shall be fully responsible for
+direct payment of the premium amount for continued group health insurance coverage under COBRA without any further notice from the
+Company. In addition, the Company shall no longer be required to pay such monthly premium amount if during the applicable [CEO:
+thirty (30) / NEO: twenty-four (24)] month period Executive becomes eligible for paid health insurance through other employment, and
+Employee agrees to promptly provide the Company notice in the event of such coverage eligibility; and
+(h) the Executive shall have the right to exercise vested options and warrants in accordance with Section 4.1(f).
+4.5 RELEASE. Notwithstanding any provision herein to the contrary, the Company may require that, prior to payment
+of any amount or provision of any benefit pursuant to subsection (f) or (g) of Sections 4.3 and 4.4, Executive shall have executed, on or
+prior to the Release Expiration Date, a customary general release in favor of the Company in the form attached hereto as Exhibit A, and
+any waiting periods contained in such release shall have expired. To the extent that the Company requires execution of such release, the
+Company shall deliver such release to Executive within five (5) business days following the termination of Executive’s employment
+hereunder. In the event that (a) Executive fails to execute such release on or prior to the Release Expiration Date, Executive shall not be
+entitled to any payments or benefits pursuant to subsections (f) or (g) of Sections 4.3 and 4.4 and (b) the terms of such release are such that
+the permissible period for executing such release spans two tax years, then any payments or benefits pursuant to Sections 4.3 and 4.4 shall
+commence in the second of the two tax years.
+6
+4.6 ACCRUED REIMBURSABLE EXPENSES. Without limiting the Company’s obligation under Sections 4.1(c),
+4.2(c), 4.3(c) and 4.4(c) hereof, the reimbursement of any Accrued Reimbursable Expenses shall be made no later than December 31 of
+the year following the year in which the expense was incurred.
+4.7 SECTION 409A.
+(a) Notwithstanding anything herein to the contrary, to the extent (i) any amount or benefit payable to the
+Executive pursuant to Sections 4.1, 4.2, 4.3 or 4.4 is treated as non-qualified deferred compensation subject to Section 409A of the Code,
+(ii) the Company’s securities are publicly traded on the date of the Executive’s termination of employment, (iii) the Executive is
+determined by the Company to be a “specified employee” for purposes of Section 409A(a)(2)(B)(i) of the Code, and (iv) the Company
+determines that delayed commencement of any portion of the amounts payable to Executive pursuant to Sections 4.1, 4.2, 4.3 or 4.4 is
+required in order to avoid a prohibited distribution under Section 409A(a)(2)(B)(i) of the Code (any such delayed commencement, a
+“Payment Delay”), then such portion of the Executive’s payments and/or benefits described in Sections 4.2, 4.3 or 4.4, as the case may be,
+shall not be provided to Executive prior to the earlier of (A) the expiration of the six-month period measured from the date of the
+Executive’s date of termination, (B) the date of the Executive’s death or (C) such earlier date as is permitted under Section 409A. Upon the
+expiration of the applicable Code Section 409A(a)(2)(B)(i) deferral period, all payments deferred pursuant to a Payment Delay shall be
+paid in a lump sum to Executive on the first day following such expiration, and any remaining payments due under Sections 4.1, 4.2, 4.3
+or 4.4 shall be paid as otherwise provided herein.
+(b) Notwithstanding anything in this Section 4.7 to the contrary, to the maximum extent permitted by applicable
+law, amounts payable to Executive pursuant to Sections 4.1, 4.2, 4.3 or 4.4, as the case may be, shall be made in reliance upon the Section
+409A Safe Harbor Limit (as defined in Article VI) and/or the exception for short-term deferrals (as set forth in Treasury Regulation
+Section 1.409A-1(b)(4)).
+ARTICLE V
+ADDITIONAL AGREEMENTS
+6.1 OTHER AGREEMENTS. As further material consideration for the Company entering into this Agreement, the
+Executive will also execute the Company’s standard employee confidentiality agreement, inventions assignment agreement, employee
+handbook and any other agreements or policies required to be executed by all like level executives of the Company.
+6.2 EXECUTIVE’S RESTRICTIVE COVENANTS UPON TERMINATION. If the Executive’s employment is
+terminated for any reason, Executive agrees:
+(a) To keep all of the Company’s Trade Secrets confidential in perpetuity in accordance with the Company’s
+policy;
+7
+(b) To not use, directly or indirectly, any of the Company’s Trade Secrets for the benefit of any other person or
+entity, or to otherwise compete against the Company, directly or indirectly;
+(c) To not hire or solicit for hire or consultation employees of the Company for a period of one (1) year after
+termination of employment; and
+(d) To refrain from making, directly or indirectly, either orally or in writing, any critical, disparaging,
+denigrating, or untrue statements about the Company or any of its affiliated and related entities, and their respective agents, officers,
+directors, shareholders, members, managers, employees, attorneys, insurers, subsidiaries, predecessors, successors and assigns, or the
+Company’s products, services or business. However, nothing in this Agreement prevents Executive from discussing or disclosing
+information about unlawful acts in the workplace, such as harassment or discrimination or any other conduct that Executive has reason to
+believe is unlawful. This subsection shall not apply 1) if Executive is compelled to testify in a legal proceeding, including any legal
+proceeding between the parties to the Agreement, and 2) in connection with Executive filing a charge with, participating in a proceeding
+before or otherwise communicating with any federal, state or local governmental agency or commission.
+ARTICLE VI
+MISCELLANEOUS
+6.1 DEFINITIONS. For purposes of this Agreement, the following terms will have the following meanings:
+(a) “Accrued Base Salary” - as defined in Section 4.1(a) hereof.
+(b) “Accrued Benefits” - as defined in Section 4.1(d) hereof.
+(c) “Accrued Incentive Bonus” - as defined in Section 4.1(e) hereof.
+(d) “Accrued Reimbursable Expenses” - as defined in Section 4.1(c) hereof.
+(e) “Accrued Vacation Payment” - as defined in Section 4.1(b) hereof.
+(f) “Affiliate” of a Person means a Person that directly or indirectly through one or more intermediaries,
+controls, is controlled by, or is under common control with, the first Person. “Control” (including the terms “controlled by” and “under
+common control with”) means the possession, directly or indirectly, of the power to direct or cause the direction of the management or
+policies of a Person, whether through the ownership of voting securities, by contract or credit arrangement, as trustee or executor, or
+otherwise.
+(g) “Incentive Bonus” as defined in Section 2.2 hereof.
+(h) “Base Salary” as defined in Section 2.1 hereof.
+8
+(i) “Cause” will mean a termination of employment as a result of any of the following: material malfeasance
+or nonfeasance in the performance of Executive's duties not corrected within 10 days after written notice thereof, unless such malfeasance
+or nonfeasance is not reasonably subject to correction as determined in the discretion of the Board; violation of the Company’s Insider
+Trading Policies; engaging in conduct which is materially injurious to the Company or its Affiliates, or any of their respective customer or
+supplier relationships, financially or otherwise; engaging in unlawful discrimination or harassment of employees or any third party while
+on the Company’s premises or engaged in Company business; material breach of this Agreement or Executive’s obligations hereunder;
+breach of the Trade Secret and Confidentiality Agreement and Invention Agreement; conviction of a felony or any crime involving fraud,
+theft, embezzlement, dishonesty or moral turpitude; or unauthorized absence from work for more than three (3) days.
+(j) “Change in Control” will have the meaning set forth for “Corporate Transaction”, including, without
+limitation, all qualifications thereof, in the 2015 Stock Incentive Plan of the Company, as the same may be amended from time to time.
+(k) “Compensation Committee” means the Compensation Committee of the Company’s Board of Directors.
+(l) “Good Reason” will mean, without the consent of the Executive if within two (2) years after a Change in
+Control, there is a material reduction of the Executive’s total compensation, benefits, and perquisites (excluding a material reduction
+resulting from a decrease in value of the Company’s stock), the Company’s relocation is greater than fifty (50) miles from the location
+where the Executive performs services, or a material change in the Executive’s authority duties or responsibilities; provided, however, no
+such event shall constitute “Good Reason” hereunder unless the Executive shall have given written notice to the Company of Executive’s
+intent to resign for “Good Reason” within thirty (30) days after the Executive first becomes aware of the occurrence of any such event
+(specifying the nature and scope of the event), such event or occurrence shall not have been cured no later than thirty (30) days after the
+Company’s receipt of such notice and the Executive shall have resigned no later than ninety (90) days after the expiration of such thirty
+(30) day cure period.
+(m) “Notice of Termination” will mean a notice which shall indicate the specific termination provision of this
+Agreement relied upon and shall generally set forth the basis for termination of the Executive’s employment under the provision so
+indicated.
+(n) “Person” means any natural person, firm, partnership, association, corporation, company, limited liability
+company, limited partnership, trust, business trust, governmental authority, or other entity.
+(o) “Release Expiration Date” shall mean the date which is twenty-one (21) days following the date upon
+which the Company delivers to Executive the release contemplated in Section 4.5 above, or, in the event that such termination of
+employment is “in connection with an exit incentive or other employment termination program” (as such phrase is defined in the Age
+Discrimination in Employment Act of 1967), the date which is forty-five (45) days following such delivery date.
+9
+(p) “Retirement” will mean normal retirement at age 65.
+(q) “Section 409A Safe Harbor Limit” will mean, as determined in accordance with Treasury Regulation
+§1.409A-1(b)(9)(iii), an amount equal to two (2) times the lesser of (i) Executive’s annual rate of compensation for the taxable year
+immediately preceding the taxable year in which Executive’s employment is terminated by the Company, or (ii) the dollar amount in effect
+under Section 401(a)(17) of the Code for the taxable year in which Executive’s employment is terminated.
+(r) “Severance” will mean payments after termination of Executive’s employment.
+(s) “Total Disability” will mean the Executive’s failure substantially to perform the Executive’s duties
+hereunder on a full-time basis for a period exceeding one hundred eighty (180) consecutive days or for periods aggregating more than one
+hundred eighty (180) days during any twelve (12) month period as a result of incapacity due to physical or mental illness. If there is a
+dispute as to whether the Executive is or was physically or mentally unable to perform the Executive’s duties under this Agreement, such
+dispute will be submitted for resolution to a licensed physician agreed upon by the Company and the Executive, or if an agreement cannot
+be promptly reached, the Company and the Executive will promptly each select a physician, and if these physicians cannot agree, the
+physicians will promptly select a third physician whose decision will be binding on all parties. If such a dispute arises, the Executive will
+submit to such examinations and will provide such information as such physician(s) may request, and the determination of the physician(s)
+as to the Executive’s physical or mental condition will be binding and conclusive. Notwithstanding the foregoing, if the Executive
+participates in any group disability plan provided by the Company, which offers long-term disability benefits, “Total Disability” will mean
+total disability as defined therein.
+6.2 KEY MAN INSURANCE. The Company will have the right, in its sole discretion, to purchase “key man”
+insurance on the life of the Executive. The Company shall be the owner and beneficiary of any such policy. If the Company elects to
+purchase such a policy, the Executive will take such physical examinations and supply such information as may be reasonably requested
+by the insurer.
+6.3 PARACHUTE PAYMENTS. If any payment or benefit due under this Agreement, together with all other payments
+and benefits (including, without limitation, the acceleration of vesting of stock options, restricted stock and performance shares) to which
+the Executive is entitled from the Company, or any affiliate thereof, would (if paid or provided) constitute an “excess parachute payment”
+(as defined in Section 280G(b)(1) of the Code, or any successor provision), the amounts otherwise payable and benefits otherwise due
+under this Agreement will either (a) be delivered in full, or (b) be limited to the minimum extent necessary to ensure that no portion
+thereof will fail to be tax-deductible to the Company by reason of Section 280G of the Code, whichever of the foregoing amounts, taking
+into account the applicable federal, state or local income and employment taxes and the excise tax imposed under Section 4999 of the
+Code, results in the Executive’s receipt, on an after-tax basis, of the greatest amount of benefits, notwithstanding that all or some portion
+of such benefits may be subject to the excise tax imposed
+10
+under Section 4999 of the Code. In the event that the payments and/or benefits are to be reduced pursuant to this Section 6.3, such
+payments and benefits shall be reduced such that the reduction of compensation to be provided to Executive as a result of this Section 6.3
+is minimized. In applying this principle, the reduction shall be made in a manner consistent with the requirements of Section 409A of the
+Code and where two economically equivalent amounts are subject to reduction but payable at different times, such amounts shall be
+reduced on a pro-rata basis but not below zero.
+6.4 SUCCESSORS; BINDING AGREEMENT. This Agreement will be binding upon any successor to the Company
+and will inure to the benefit of and be enforceable by the Executive’s personal or legal representatives, beneficiaries, designees, executors,
+administrators, heirs, distributees, devisees and legatees.
+6.5 MODIFICATION; NO WAIVER. This Agreement may not be modified or amended except by an instrument in
+writing signed by the parties hereto. No term or condition of this Agreement will be deemed to have been waived, nor will there be any
+estoppel against the enforcement of any provision of this Agreement, except by written instrument by the party charged with such waiver
+or estoppel. No such written waiver will be deemed a continuing waiver unless specifically stated therein, and each such waiver will
+operate only as to the specific term or condition waived and will not constitute a waiver of such term or condition for the future or as to
+any other term or condition.
+6.6 SEVERABILITY. The covenants and agreements contained herein are separate and severable and the invalidity or
+unenforceability of any one or more of such covenants or agreements, if not material to the employment arrangement that is the basis for
+this Agreement, will not affect the validity or enforceability of any other covenant or agreement contained herein.
+6.7 FORM OF NOTICE TO PARTIES. All notices, requests, demands, waivers and other communications required or
+permitted to be given under this Agreement shall be in writing and shall be deemed to have been duly given if (a) delivered personally, (b)
+mailed by first-class, registered or certified mail, return receipt requested, postage prepaid, or (c) sent by next-day or overnight mail or
+delivery or (d) sent by telecopy or telegram, to the following address:
+If to the Executive:
+If to the Company Deckers Outdoor Corporation
+250 Coromar Drive
+Goleta, CA 93117
+Attn: CEO
+or, in each case, at such other address as may be specified in writing to the other parties hereto.
+11
+All such notices, requests, demands, waivers and other communications shall be deemed to have been received (w) if by personal
+delivery on the day after such delivery, (x) if by certified or registered mail, on the seventh business day after the mailing thereof, (y) if by
+next-day or overnight mail or delivery, on the day delivered, (z) if by telecopy or telegram, on the next day following the day on which
+such telecopy or telegram was sent, provided that a copy is also sent by certified or registered mail.
+6.8 ASSIGNMENT. This Agreement and any rights hereunder will not be assignable by either party without the prior
+written consent of the other party except as otherwise specifically provided for herein.
+6.9 ENTIRE UNDERSTANDING. This Agreement constitutes the entire understanding between the parties hereto and
+no agreement, representation, warranty or covenant has been made by either party except as expressly set forth herein, and supersedes any
+change of control and severance agreement entered into by Company and Executive.
+6.10 EXECUTIVE’S REPRESENTATIONS. The Executive represents and warrants that neither the execution and
+delivery of this Agreement nor the performance of the Executive’s duties hereunder violates the provisions of any other agreement to
+which he is a party or by which he is bound.
+6.11 GOVERNING LAW. This Agreement will be construed in accordance with the laws of the State of California,
+without regard to the conflict of laws provisions thereof, with venue proper only in the County of Santa Barbara, California.
+6.12 ARBITRATION.
+(a) Except as provided in Section 6.12(c) below, Executive and the Company (the “Parties”) agree that, unless
+otherwise required by law, any dispute or controversy between Parties as further defined in subsections (b) and (c) below shall be finally
+settled by binding arbitration, to be held in Santa Barbara, California under the Employment Arbitration Rules and Mediation Procedures
+of the American Arbitration Association as then in effect (the “Rules”). Executive may obtain a copy of the Rules by accessing the AAA
+website at www.adr.org., or by requesting a copy from the Company’s General Counsel. By signing this Agreement, Executive
+acknowledges that s/he has had an opportunity to review the Rules before signing this Agreement. The arbitrator(s) may grant injunctions
+or other relief in such dispute or controversy. The decision of the arbitrator(s) shall be final, conclusive and binding on the parties to the
+arbitration, and judgment may be entered on the decision of the arbitrator(s) in any court having jurisdiction.
+(b) The claims subject to arbitration under this section 6.12 include (i) claims arising out of, relating to, or in
+connection with this Agreement, or the interpretation, validity, construction, performance, breach, or termination of this Agreement; (ii)
+claims for violations of confidentiality, privacy or trade secret restrictions; (iii) claims that could be asserted in court, including claims for
+wrongful termination; breach of any express or implied contract or covenant; breach of any duty owed to Executive; claims for personal,
+physical or emotional injury; claims arising out of, related to, or in connection with fraud, misrepresentation, defamation and any other
+12
+tort claims; claims for wages or other compensation due, penalties, benefits, or reimbursement of expenses; claims arising out of, relating
+to, or in connection with discrimination, harassment or retaliation of any kind; claims arising out of, relating to, or in connection with
+retaliation; claims for violation of any federal, state or other governmental constitution, statute, ordinance or regulation (as enacted or as
+amended), including, but not limited to, Title VII of the Civil Rights Act of 1964 (“Title VII”), the Age Discrimination in Employment Act
+(“ADEA”), the Americans with Disabilities Act (“ADA”), the federal Fair Labor Standards Act (“FLSA”), the Employee Retirement
+Income Security Act (“ERISA”), the Consolidated Omnibus Budget Reconciliation Act (“COBRA”), the California Fair Employment and
+Housing Act, the California Labor Code, the California Wage Orders and any other federal, state or other applicable governmental
+constitution, statute, ordinance or regulation (as originally enacted or amended) covering similar subjects.
+(c) This agreement to arbitrate does not cover claims that cannot be arbitrated as a matter of law, which include
+(i) administrative claims properly presented to an administrative agency, such as the Equal Employment Opportunity Commission (EEOC)
+or federal Department of Labor (Wage and Hour Division), or any equivalent state administrative agency, except that if any such claim is
+dismissed from the administrative agency's jurisdiction, the parties must then submit to binding arbitration pursuant to this Agreement, and
+except that Executive may (but is not required to) choose arbitration to resolve Executive’s dispute rather than pursuing a claim with an
+administrative agency; (ii) claims for workers’ compensation benefits; (iii) claims for unemployment compensation benefits; (iv) claims
+based upon any Company employee benefit and/or welfare plan that contains an appeal procedure or other procedure for the resolution of
+disputes under the plan; and (v) claims based on the National Labor Relations Act.
+(d) The arbitrator shall decide any dispute relating to the interpretation, applicability, enforceability, or
+formation of this Agreement, including but not limited to arbitrability of any claim under this section 6.12. The same statute of limitations,
+remedies and defenses that would apply to and be available on claims in court will apply and be available on the claims in arbitration. The
+arbitrator will have the authority to award any remedy or relief that would have been available to Executive or the Company had the
+matter been heard in court, including an award of attorneys’ fees and costs to the prevailing party to the extent such an award is authorized
+by applicable law.
+(e) The arbitrator(s) shall apply California law to the merits of any dispute or claim, without reference to rules
+of conflicts of law. The decision of the arbitrator shall be in writing and shall provide the reasons for the arbitrator's award unless the
+Parties otherwise agree in writing.
+(f) This agreement to arbitrate subject to and shall be enforceable under and subject to the Federal Arbitration
+Act, 9 U.S.C. Sections 1, et. seq.
+(g) The Company shall pay all of the costs of arbitration, including the arbitrator’s fees, except Executive shall
+pay the fees that s/he would normally have to pay in order to bring a lawsuit in a court of law.
+13
+(h) Executive agrees that in any arbitration between Executive and the Company, Executive will assert only
+his/her own individual claims, and will not assert any claims on behalf of any other person or class of persons. Executive hereby waive
+any rights to bring a class action against the Company, or to participate as a class member in any class action brought by any third party
+against the Company.
+(i) The parties may apply to any court of competent jurisdiction for a temporary restraining order, preliminary
+injunction, or other interim or conservatory relief, as necessary, without breach of this arbitration agreement and without abridgement of
+the powers of the arbitrator. The arbitrator’s award will be enforceable in any court having proper jurisdiction.
+(j) EXECUTIVE HAS READ AND UNDERSTANDS THIS SECTION, WHICH DISCUSSES
+ARBITRATION. EXECUTIVE UNDERSTANDS THAT BY SIGNING THIS AGREEMENT, EXECUTIVE AGREES TO SUBMIT
+ANY CLAIMS ARISING OUT OF, RELATING TO, OR IN CONNECTION WITH THIS AGREEMENT, OR THE INTERPRETATION,
+VALIDITY, CONSTRUCTION, PERFORMANCE, BREACH OR TERMINATION THEREOF TO BINDING ARBITRATION,
+UNLESS OTHERWISE REQUIRED BY LAW, AND THAT THIS ARBITRATION CLAUSE CONSTITUTES A WAIVER OF
+EXECUTIVE’S RIGHT TO A JURY TRIAL AND RELATES TO THE RESOLUTION OF ALL DISPUTES RELATING TO HIS/HER
+RELATIONSHIP WITH THE COMPANY, INCLUDING BUT NOT LIMITED TO, CLAIMS OF HARASSMENT, DISCRIMINATION,
+WRONGFUL TERMINATION AND ANY STATUTORY CLAIMS.
+[Signature Page Follows]
+14
+IN WITNESS WHEREOF, the parties hereto have duly executed this Change in Control and Severance Agreement as of the day
+and year first above written.
+COMPANY:
+DECKERS OUTDOOR CORPORATION
+By:
+Dave Powers
+Chief Executive Officer
+EXECUTIVE:
+Signature
+[NAME]
+15
+EXHIBIT A
+GENERAL RELEASE
+1. Employee’s employment with Deckers Outdoor Corporation, a Delaware corporation (the “Company”) ceased effective
+_______________.
+2. Employee represents and agrees that Employee has received all compensation owed to Employee by the Company through
+Employee’s termination date, including all wages, bonuses, commissions, earned but unused vacation, reimbursable business expenses,
+and any other payments, benefits, or other compensation of any kind to which Employee was or is entitled from the Company. Employee
+acknowledges that this compensation will be paid to Employee regardless of whether Employee signs the Change in Control and
+Severance Agreement dated ____________ (the “Agreement”) and this General Release.
+3. Employee represents to the Company that Employee is signing this General Release (this “General Release”) voluntarily and
+with a full understanding of and agreement with its terms for the purpose of receiving severance pay and benefits from the Company as
+described in the Agreement.
+4. In reliance on the Employee’s promises, representations, and releases in this Agreement, upon the Company’s receipt of this
+executed General Release, and conditioned on Employee not revoking this executed General Release as provided in Section 7 below, the
+Company will provide Employee with the severance payments and benefits described in the Agreement, less legally required withholding
+and payroll deductions.
+5. In exchange for the consideration provided to Employee as set forth above and in the Agreement, Employee irrevocably and
+unconditionally releases and discharges the Company and all affiliated and related entities, and their respective agents, officers, directors,
+shareholders, members, managers, employees, attorneys, insurers, subsidiaries, predecessors, successors and assigns (“Releasees”), from
+any and all claims, liabilities, obligations, promises, causes of actions, actions, suits, or demands, of whatsoever kind or character, known
+or unknown, suspected to exist or not suspected to exist, anticipated or not anticipated, arising from or relating to any omissions, acts or
+facts that have occurred up until and including the date of this Agreement, including but not limited to those arising from or related or
+attributable to Employee’s employment with the Company and his/her separation from such employment (“Claims”). Such Claims
+include, but are not limited to, claims based upon any violation of the Company’s policies and regulations or any written or oral contract or
+agreement between the Company and Employee; tort and common law claims including but not limited to claims for wrongful or
+retaliatory discharge, emotional distress, defamation, slander, libel or false imprisonment, claims for attorneys’ fees, back pay, front pay or
+reinstatement; claims for penalties of any kind or nature; claims based upon employment discrimination or harassment of any kind or
+nature, and claims based upon alleged violation of: the California Fair Employment and Housing Act (California Government Code
+section 12900, et seq.); the Unruh Civil Rights Act (California Civil Code section 51); the California Family Rights Act (California
+Government Code sections 12945.2 and 19702.3); the California Labor Code; the Equal Pay Act of 1963, as amended (29 U.S.C. section
+206(d) et. seq.); the California Fair Pay Act (California Labor
+1
+Code section 1197.5); Title VII of the Civil Rights Act of 1964, as amended (42 U.S.C. section 2000e et seq.); the Employee Retirement
+Income Security Act of 1974, as amended (29 U.S.C. section 1001 et seq.); the Family Medical Leave Act (29 U.S.C. section 2601 et
+seq.); the Fair Labor Standards Act of 1938, as amended (29 U.S.C. section 201, et seq.); the United States and California Constitutions;
+the Americans With Disabilities Act, as amended (42 U.S.C. section 12101, et seq.); 42 U.S. C. sections 1981 and 1983; State or Federal
+wage and hour laws; or any other State, Federal or local statutes or laws. Employee further acknowledges that such Claims also include
+claims based on the Age Discrimination in Employment Act, as amended (29 U.S.C. section 621, et seq.) and the Older Workers Benefit
+Protection Act (29 U.S.C. §626(f)), as amended. The provisions of this Agreement do not release claims that cannot be released as a matter
+of law.
+6. The provisions of this Agreement do not preclude Employee from filing suit to challenge the Company’s compliance with the
+waiver requirements of the Age Discrimination in Employment Act, as amended by the Older Workers Benefit Protection Act. Employee
+further acknowledges that nothing in the Agreement prohibits or prevents Employee from filing a charge with the Equal Employment
+Opportunity Commission, California Department of Fair Employment and Housing, the National Labor Relations Board, the Occupational
+Safety and Health Administration, the Securities and Exchange Commission or any other federal, state or local governmental agency or
+commission (each a “Government Agency"), or participating, testifying or assisting in any investigation, hearing or other proceeding
+before any Government Agency. However, Employee acknowledges that to the maximum extent permitted by law, he/she is not entitled to
+any monetary damages or other individual relief resulting from any charge, claim or complaint pertaining or otherwise relating to the
+released Claims that is filed with any Government Agency, except nothing in this Agreement prohibits or prevents Employee from
+receiving individual monetary awards or other individual relief by virtue of providing information to the U.S. Securities and Exchange
+Commission or filing a charge, claim or complaint protected under the whistleblower provisions of federal law or regulations or
+participating in a federal whistleblower programs including but not limited to any such programs managed by the U.S. Securities and
+Exchange Commission and/or the Occupational Safety and Health Administration.
+7. It is further understood and agreed that as a condition of this Agreement, all rights under Section 1542 of the Civil Code of the
+State of California are expressly waived by Employee. Such Section reads as follows:
+“A general release does not extend to claims which the creditor or releasing party does not know or suspect
+to exist in his or her favor at the time of executing the release and that, if known by him or her, would have
+materially affected his or her settlement with the debtor or released party.”
+Notwithstanding Section 1542, and for the purpose of implementing a full and complete release and discharge of the Releasees, Employee
+expressly acknowledges that this Agreement is intended to include and does include in its effect, without limitation, all claims which
+Employee does not know or suspect to exist in Employee’s favor against the Releasees at the time of execution hereof, and that this
+Agreement expressly contemplates the extinguishment of all such claims.
+2
+8. Employee acknowledges that she/he was provided a copy of this Agreement on ___________, 20__, and has been given until
+_______________, 20__ (the “Acceptance Deadline”) [MUST BE A PERIOD OF AT LEAST 21 DAYS] to review and consider this
+Agreement. To accept this Agreement, the Agreement, signed and dated by Employee, must be received in the office of General Counsel
+of the Company by no later than the Acceptance Deadline. Employee acknowledges that she/he may sign and return this Agreement prior
+to the Acceptance Deadline if he/she voluntarily wishes to do so. If the executed Agreement is not received by the Acceptance Deadline as
+provided in this section, then the Agreement will no longer be open for acceptance by Employee, and will be of no further force or effect
+without any further action by the Company.
+9. Employee further acknowledges that she/he has been advised that she/he has seven (7) days from the date this Agreement is
+signed by Employee to revoke this Agreement. To be effective, the revocation must be in writing and must be received by
+______________ General Counsel of the Company on or before midnight on the seventh (7th) day after this Agreement is signed by
+Employee. The Company’s obligation to provide severance pay or other benefits under this Agreement does not become final and binding
+until the expiration of the seven (7) day revocation period and so long as this Agreement has not been revoked during such period.
+10. THIS IS REQUIRED TO RELEASE AGE DISCRIMINATION CLAIMS. Employee further acknowledges that she/he had
+the right to, and was encouraged to, consult with legal counsel regarding this Agreement prior to signing it.
+11. This Separation Agreement and General Release shall not be construed as an admission by the Company of any improper,
+wrongful, or unlawful actions, or any other wrongdoing against Employee, and the Company specifically disclaims any liability to or
+wrongful acts against Employee on the part of itself, its employees and its agent.
+12. This Agreement may be modified only by written agreement signed by both parties.
+Dated: EMPLOYEE:
+COMPANY:
+Dated: DECKERS OUTDOOR CORPORATION
+By:
+Name:
+Its:
+3
+EXHIBIT 31.1
+CERTIFICATION OF PRINCIPAL EXECUTIVE OFFICER
+PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002
+I, Stefano Caroti, certify that:
+1. I have reviewed this Quarterly Report on Form 10-Q of Deckers Outdoor Corporation;
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to
+make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the
+period covered by this report;
+3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;
+4. The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined
+in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f)
+and 15d-15(f)) for the registrant and have:
+a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under
+our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by
+others within those entities, particularly during the period in which this report is being prepared;
+b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed
+under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial
+statements for external purposes in accordance with generally accepted accounting principles;
+c) Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions
+about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such
+evaluation; and
+d) Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's
+most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably
+likely to materially affect, the registrant's internal control over financial reporting; and
+5. The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting,
+to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions):
+a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which
+are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and
+b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's
+internal control over financial reporting.
+Date: August 1, 2024
+/s/ STEFANO CAROTI
+Stefano Caroti
+Chief Executive Officer and President
+Deckers Outdoor Corporation
+(Principal Executive Officer)
+EXHIBIT 31.2
+CERTIFICATION OF PRINCIPAL FINANCIAL AND ACCOUNTING OFFICER
+PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002
+I, Steven J. Fasching, certify that:
+1. I have reviewed this Quarterly Report on Form 10-Q of Deckers Outdoor Corporation;
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to
+make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the
+period covered by this report;
+3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;
+4. The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined
+in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f)
+and 15d-15(f)) for the registrant and have:
+a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under
+our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by
+others within those entities, particularly during the period in which this report is being prepared;
+b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed
+under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial
+statements for external purposes in accordance with generally accepted accounting principles;
+c) Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions
+about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such
+evaluation; and
+d) Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's
+most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably
+likely to materially affect, the registrant's internal control over financial reporting; and
+5. The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting,
+to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions):
+a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which
+are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and
+b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's
+internal control over financial reporting.
+Date: August 1, 2024
+/s/ STEVEN J. FASCHING
+Steven J. Fasching
+Chief Financial Officer
+Deckers Outdoor Corporation
+(Principal Financial and Accounting Officer)
+EXHIBIT 32.1
+CERTIFICATION OF PRINCIPAL EXECUTIVE OFFICER AND PRINCIPAL FINANCIAL AND ACCOUNTING OFFICER
+PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+The undersigned hereby certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of
+2002, that, to their knowledge, the Quarterly Report on Form 10-Q of Deckers Outdoor Corporation (the “Company”) for the quarter ended
+June 30, 2024 (the “Report”), as filed with the Securities and Exchange Commission on the date hereof, fully complies with the requirements of
+Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, and the information contained in the Report fairly presents, in all
+material respects, the financial condition and results of operations of the Company as of, and for, the periods presented in the Report.
+/s/ STEFANO CAROTI
+Stefano Caroti
+Chief Executive Officer and President
+Deckers Outdoor Corporation
+(Principal Executive Officer)
+/s/ STEVEN J. FASCHING
+Steven J. Fasching
+Chief Financial Officer
+Deckers Outdoor Corporation
+(Principal Financial and Accounting Officer)
+Date: August 1, 2024
+This certification is being furnished solely to accompany the Report pursuant to Rule 13a-14(b) or Rule 15d-14(b) under the Securities
+Exchange Act of 1934 and 18 U.S.C. Section 1350 and shall not be deemed filed by the Company for purposes of Section 18 of the Securities
+Exchange Act of 1934, as amended, or otherwise subject to the liability of that section. This certification will not be deemed to be incorporated by
+reference into any filing under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended, except to the
+extent that the Company specifically incorporates it by reference. A signed original of this certification has been provided to the Company and
+will be retained by the Company and furnished to the Securities and Exchange Commission upon request.
