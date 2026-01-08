@@ -1,6 +1,6 @@
 .login-page {
   min-height: 100vh;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #050505 0%, #0b1111 50%, #050505 100%);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -10,23 +10,25 @@
 .login-container {
   width: 100%;
   max-width: 500px;
-  background: white;
+  background: rgba(12, 18, 18, 0.92);
   border-radius: 20px;
-  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.45);
   overflow: hidden;
+  border: 1px solid rgba(33, 255, 123, 0.18);
+  backdrop-filter: blur(8px);
 }
 
 .login-content {
   padding: 60px 40px;
   text-align: center;
+  color: #e7f5ec;
 }
 
 .login-title {
   font-size: 2.5em;
-  color: #333;
   margin: 0 0 10px 0;
   font-weight: 700;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #21f37b 0%, #0fe26b 50%, #9bffbb 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -34,7 +36,7 @@
 
 .login-subtitle {
   font-size: 1.1em;
-  color: #666;
+  color: #9db6a8;
   margin: 0 0 40px 0;
   font-weight: 500;
 }
@@ -48,9 +50,9 @@
 .btn {
   padding: 12px 24px;
   border: none;
-  border-radius: 8px;
+  border-radius: 10px;
   font-size: 1em;
-  font-weight: 600;
+  font-weight: 700;
   cursor: pointer;
   transition: all 0.3s ease;
   text-decoration: none;
@@ -63,30 +65,32 @@
 }
 
 .btn-primary {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  color: white;
+  background: linear-gradient(135deg, rgba(33, 255, 123, 0.9), rgba(16, 226, 107, 0.9));
+  color: #041108;
+  box-shadow: 0 14px 30px rgba(33, 255, 123, 0.35);
+  border: 1px solid rgba(33, 255, 123, 0.5);
 }
 
 .btn-primary:hover {
   transform: translateY(-2px);
-  box-shadow: 0 10px 20px rgba(102, 126, 234, 0.3);
+  box-shadow: 0 18px 36px rgba(33, 255, 123, 0.45);
 }
 
 .btn-secondary {
-  background: #f0f0f0;
-  color: #333;
-  border: 2px solid #ddd;
+  background: rgba(255, 255, 255, 0.04);
+  color: #e7f5ec;
+  border: 1px solid rgba(255, 255, 255, 0.12);
 }
 
 .btn-secondary:hover {
-  background: #e8e8e8;
-  border-color: #667eea;
+  border-color: rgba(33, 255, 123, 0.35);
+  color: #ffffff;
 }
 
 .btn-link {
   background: none;
   border: none;
-  color: #667eea;
+  color: #21f37b;
   cursor: pointer;
   font-size: 0.95em;
   text-decoration: underline;
@@ -96,12 +100,12 @@
 }
 
 .btn-link:hover {
-  color: #764ba2;
+  color: #9bffbb;
 }
 
 .demo-note {
   margin-top: 10px;
-  color: #999;
+  color: #8aa297;
   font-size: 0.9em;
 }
 
@@ -119,7 +123,7 @@
 .form-group label {
   display: block;
   margin-bottom: 8px;
-  color: #333;
+  color: #d5e5da;
   font-weight: 600;
   font-size: 0.95em;
 }
@@ -127,27 +131,29 @@
 .form-group input {
   width: 100%;
   padding: 12px 15px;
-  border: 2px solid #ddd;
-  border-radius: 8px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 10px;
   font-size: 1em;
-  transition: border-color 0.3s ease;
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
   font-family: inherit;
+  background: #0f1515;
+  color: #e7f5ec;
 }
 
 .form-group input:focus {
   outline: none;
-  border-color: #667eea;
-  box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+  border-color: rgba(33, 255, 123, 0.5);
+  box-shadow: 0 0 0 3px rgba(33, 255, 123, 0.18);
 }
 
 .form-group input::placeholder {
-  color: #ccc;
+  color: #70857a;
 }
 
 .features {
   margin-top: 50px;
   padding-top: 30px;
-  border-top: 2px solid #eee;
+  border-top: 1px solid rgba(255, 255, 255, 0.06);
   display: flex;
   flex-direction: column;
   gap: 15px;
@@ -157,7 +163,7 @@
   display: flex;
   align-items: center;
   gap: 12px;
-  color: #666;
+  color: #9db6a8;
   font-size: 0.95em;
 }
 
@@ -167,17 +173,18 @@
   justify-content: center;
   width: 24px;
   height: 24px;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  color: white;
+  background: linear-gradient(135deg, #21f37b 0%, #0fe26b 100%);
+  color: #041108;
   border-radius: 50%;
   font-weight: bold;
   font-size: 0.8em;
   flex-shrink: 0;
+  box-shadow: 0 10px 20px rgba(33, 255, 123, 0.3);
 }
 
 .privacy-note {
   margin-top: 30px;
-  color: #999;
+  color: #70857a;
   font-size: 0.85em;
 }
 

@@ -1,8 +1,10 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import Dashboard from './components/Dashboard';
-import ExpenseList from './components/ExpenseList';
 import Charts from './components/Charts';
+import DeckersData from './components/DeckersData';
+import Portfolio from './components/Portfolio';
+import CompanyResearch from './components/CompanyResearch';
 import LoginScreen from './components/LoginScreen';
 import './App.css';
 
@@ -15,6 +17,7 @@ function App() {
   const [activeTab, setActiveTab] = useState('dashboard');
   const [user, setUser] = useState(null);
   const [isDemoMode, setIsDemoMode] = useState(false);
+  const [portfolioData, setPortfolioData] = useState(null);
 
   useEffect(() => {
     if (user) {
@@ -45,14 +48,16 @@ function App() {
     try {
       const apiUrl = process.env.REACT_APP_API_URL || 'http://localhost:5001';
       console.log('Fetching from:', apiUrl);
-      const [expensesRes, summaryRes] = await Promise.all([
+      const [expensesRes, summaryRes, portfolioRes] = await Promise.all([
         axios.get(`${apiUrl}/api/expenses`),
-        axios.get(`${apiUrl}/api/summary`)
+        axios.get(`${apiUrl}/api/summary`),
+        axios.get(`${apiUrl}/api/portfolio`).catch(() => ({ data: null }))
       ]);
       console.log('Expenses loaded:', expensesRes.data.length);
       console.log('Summary:', summaryRes.data);
       setExpenses(expensesRes.data);
       setSummary(summaryRes.data);
+      setPortfolioData(portfolioRes.data);
     } catch (error) {
       console.error('Error fetching data:', error.message);
       alert('Error loading data: ' + error.message);
@@ -100,7 +105,7 @@ function App() {
     <div className="app">
       <header className="app-header">
         <div className="header-left">
-          <h1>💰 ExpenseTrack</h1>
+          <h1>💰 ValueBridge</h1>
         </div>
         <div className="header-right">
           <span className="user-info">Welcome back, <strong>{user.fullName}</strong></span>
@@ -123,10 +128,22 @@ function App() {
           Charts
         </button>
         <button 
-          className={`tab ${activeTab === 'list' ? 'active' : ''}`}
-          onClick={() => setActiveTab('list')}
+          className={`tab ${activeTab === 'portfolio' ? 'active' : ''}`}
+          onClick={() => setActiveTab('portfolio')}
         >
-          Expenses
+          Portfolio
+        </button>
+        <button 
+          className={`tab ${activeTab === 'research' ? 'active' : ''}`}
+          onClick={() => setActiveTab('research')}
+        >
+          Company Research
+        </button>
+        <button 
+          className={`tab ${activeTab === 'deckers' ? 'active' : ''}`}
+          onClick={() => setActiveTab('deckers')}
+        >
+          Deckers Data
         </button>
       </nav>
 
@@ -155,7 +172,9 @@ function App() {
       <main className="app-content">
         {activeTab === 'dashboard' && <Dashboard summary={summary} filteredExpenses={filteredExpenses} />}
         {activeTab === 'charts' && <Charts expenses={expenses} summary={summary} />}
-        {activeTab === 'list' && <ExpenseList expenses={filteredExpenses} />}
+        {activeTab === 'portfolio' && <Portfolio data={portfolioData} />}
+        {activeTab === 'research' && <CompanyResearch />}
+        {activeTab === 'deckers' && <DeckersData />}
       </main>
     </div>
   );

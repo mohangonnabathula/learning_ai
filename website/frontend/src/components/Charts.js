@@ -14,18 +14,18 @@ function Charts({ expenses, summary }) {
     datasets: [{
       data: Object.values(summary.byCategory),
       backgroundColor: [
-        '#667eea',
-        '#764ba2',
-        '#f093fb',
-        '#4facfe',
-        '#00f2fe',
-        '#43e97b',
-        '#fa709a',
-        '#ff6b6b',
-        '#ffd93d',
-        '#6bcf7f'
+        '#21f37b',
+        '#0fe26b',
+        '#37ff9f',
+        '#1fd58a',
+        '#7ef5c7',
+        '#2cf6c4',
+        '#68ffa4',
+        '#14d982',
+        '#9bffbb',
+        '#20b574'
       ],
-      borderColor: '#fff',
+      borderColor: '#0a1410',
       borderWidth: 2
     }]
   };
@@ -36,8 +36,8 @@ function Charts({ expenses, summary }) {
     datasets: [{
       label: 'Monthly Expenses',
       data: Object.values(summary.byMonth),
-      backgroundColor: '#667eea',
-      borderColor: '#764ba2',
+      backgroundColor: '#21f37b',
+      borderColor: '#0fe26b',
       borderWidth: 2,
       borderRadius: 5
     }]

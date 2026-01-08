@@ -1,0 +1,21 @@
+Account Type,Account,Beginning mkt Value,Change in Investment,Ending mkt Value,Short Balance,Ending Net Value,Dividends This Period,Dividends Year to Date,Interest This Year,Interest Year to Date,Total This Period,Total Year to Date
+emergency fund,Z77093865,34380.58,-400.53,33980.05,,,54.66,258.24,0.00,0.05,54.66,258.29
+ 
+
+Symbol/CUSIP,Description,Quantity,Price,Beginning Value,Ending Value,Cost Basis
+ 
+
+Z77093865 
+Stocks 
+AAPL,APPLE INC ,58.86700,271.86000,16415.06,16003.58,10055.17
+Subtotal of Stocks,,,,,16003.58,10055.17, 
+
+Z77093865 
+Mutual Funds 
+FXAIX,FIDELITY 500 INDEX FUND ,75.62000,237.72000,17965.44,17976.39,10940.41
+Subtotal of Mutual Funds,,,,,17976.39,10940.41,,, 
+
+Z77093865 
+Core Account 
+,CASH ,0.08000,1.00000,0.08,0.08,not applicable
+Subtotal of Core Account,,,,,0.08,,,,,

@@ -1,0 +1,19 @@
+Account Type,Account,Beginning mkt Value,Change in Investment,Ending mkt Value,Short Balance,Ending Net Value,Dividends This Period,Dividends Year to Date,Interest This Year,Interest Year to Date,Total This Period,Total Year to Date
+Joint WROS - TOD,Z31362704,60615.76,-55.56,62810.20,,,0.77,145.04,,,0.77,145.04
+ 
+
+Symbol/CUSIP,Description,Quantity,Price,Beginning Value,Ending Value,Cost Basis
+ 
+
+Z31362704 
+Stocks 
+AMZN,AMAZON.COM INC ,64.11100,230.82000,14951.96,14798.10,12887.31
+COST,COSTCO WHOLESALE CORP COM ,31.73500,862.34000,28992.77,27366.35,27359.03
+DECK,DECKERS OUTDOOR CORP ,100.92400,103.67000,6923.03,10462.79,10000.34
+BROS,DUTCH BROS INC CL A ,166.31700,61.22000,9747.83,10181.92,10011.70
+Subtotal of Stocks,,,,,62809.16,60258.38,,,, 
+
+Z31362704 
+Core Account 
+SPAXX,FIDELITY GOVERNMENT MONEY MARKET ,1.04000,1.00000,0.17,1.04,not applicable
+Subtotal of Core Account,,,,,1.04,,,,,

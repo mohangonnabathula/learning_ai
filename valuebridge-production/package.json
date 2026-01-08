@@ -1,0 +1,27 @@
+{
+  "name": "valuebridge",
+  "version": "1.0.0",
+  "description": "ValueBridge - Professional Financial Analytics Platform",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "npm run build && npm run production",
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "cd server && node server.js",
+    "client": "cd client && npm start",
+    "build": "cd client && npm run build",
+    "production": "node server/server.js",
+    "install-all": "npm install && cd server && npm install && cd ../client && npm install",
+    "fetch:10k": "node scripts/fetch_sec_10k.js DECK,NKE,ONON 10"
+  },
+  "keywords": [
+    "finance",
+    "analytics",
+    "dashboard",
+    "investments"
+  ],
+  "author": "Mohan Gonnabathula",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^7.6.0"
+  }
+}

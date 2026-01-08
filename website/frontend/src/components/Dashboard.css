@@ -11,20 +11,30 @@
 }
 
 .stat-card {
-  background: white;
+  background: rgba(12, 18, 18, 0.9);
   padding: 25px;
-  border-radius: 12px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 14px;
+  box-shadow: 0 14px 30px rgba(0, 0, 0, 0.35);
   display: flex;
   gap: 20px;
   transition: all 0.3s ease;
-  border: 2px solid transparent;
+  border: 1px solid rgba(33, 255, 123, 0.18);
+  position: relative;
+  overflow: hidden;
+}
+
+.stat-card::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(circle at 20% 20%, rgba(33, 255, 123, 0.12), transparent 40%);
+  pointer-events: none;
 }
 
 .stat-card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 12px 20px rgba(0, 0, 0, 0.15);
-  border-color: #667eea;
+  transform: translateY(-4px);
+  box-shadow: 0 18px 40px rgba(0, 0, 0, 0.45);
+  border-color: rgba(33, 255, 123, 0.35);
 }
 
 .stat-icon {
@@ -33,15 +43,17 @@
   align-items: center;
   justify-content: center;
   min-width: 60px;
+  color: #21f37b;
 }
 
 .stat-content {
   flex: 1;
+  color: #d5e5da;
 }
 
 .stat-content h3 {
   font-size: 0.9em;
-  color: #888;
+  color: #8aa297;
   margin: 0 0 8px 0;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -50,13 +62,13 @@
 .stat-value {
   font-size: 2em;
   font-weight: bold;
-  color: #333;
+  color: #ffffff;
   margin: 0 0 5px 0;
 }
 
 .stat-subtitle {
   font-size: 0.85em;
-  color: #999;
+  color: #8aa297;
   margin: 0;
 }
 
@@ -67,23 +79,25 @@
 }
 
 .breakdown-card {
-  background: white;
+  background: rgba(12, 18, 18, 0.9);
   padding: 25px;
-  border-radius: 12px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 14px;
+  box-shadow: 0 14px 30px rgba(0, 0, 0, 0.35);
   transition: all 0.3s ease;
+  border: 1px solid rgba(33, 255, 123, 0.16);
 }
 
 .breakdown-card:hover {
-  box-shadow: 0 8px 12px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 18px 40px rgba(0, 0, 0, 0.45);
+  border-color: rgba(33, 255, 123, 0.3);
 }
 
 .breakdown-card h2 {
   font-size: 1.3em;
-  color: #333;
+  color: #ffffff;
   margin: 0 0 20px 0;
   padding-bottom: 10px;
-  border-bottom: 2px solid #667eea;
+  border-bottom: 2px solid rgba(33, 255, 123, 0.5);
 }
 
 .category-list,
@@ -99,27 +113,29 @@
   justify-content: space-between;
   align-items: center;
   padding: 12px;
-  background: #f5f5f5;
-  border-radius: 8px;
+  background: #0f1515;
+  border-radius: 10px;
   transition: all 0.3s ease;
+  border: 1px solid rgba(255, 255, 255, 0.05);
 }
 
 .category-item:hover,
 .month-item:hover {
-  background: #e8e8ff;
+  background: rgba(33, 255, 123, 0.06);
   transform: translateX(4px);
+  border-color: rgba(33, 255, 123, 0.25);
 }
 
 .category-name,
 .month-name {
-  font-weight: 500;
-  color: #333;
+  font-weight: 600;
+  color: #e7f5ec;
 }
 
 .category-amount,
 .month-amount {
   font-weight: bold;
-  color: #667eea;
+  color: #21f37b;
   font-size: 1.1em;
 }
 
